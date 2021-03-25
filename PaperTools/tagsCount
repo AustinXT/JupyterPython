@@ -1,0 +1,4235 @@
+深度学习 81
+deep learning 80
+卷积神经网络 60
+convolutional neural network 33
+机器学习 25
+machine learning 25
+collaborative filtering 22
+云计算 20
+协同过滤 19
+cloud computing 19
+feature selection 18
+feature extraction 18
+spark 18
+特征选择 17
+数据挖掘 17
+特征提取 17
+文本分类 17
+情感分析 16
+支持向量机 16
+data mining 15
+sentiment analysis 15
+大数据 15
+big data 15
+词向量 13
+hadoop 13
+神经网络 12
+推荐系统 12
+图像分类 12
+neural network 11
+convolutional neural networks 11
+image classification 11
+clustering 11
+k-means 11
+图像识别 10
+目标检测 10
+人工神经网络 10
+text classification 10
+bp神经网络 10
+convolution neural network 10
+聚类 10
+集成学习 10
+support vector machine 10
+cnn 9
+遗传算法 9
+迁移学习 9
+transfer learning 9
+ensemble learning 9
+人脸识别 9
+负载均衡 8
+区块链 8
+物联网 8
+image recognition 8
+lstm 8
+deep neural network 8
+bp neural network 8
+word embedding 8
+image processing 8
+推荐算法 8
+face recognition 8
+图像分割 7
+image segmentation 7
+load balancing 7
+blockchain 7
+随机森林 7
+object detection 7
+artificial neural network 7
+genetic algorithm 7
+图像处理 7
+特征融合 7
+algorithm 7
+室内定位 7
+k-means算法 7
+mapreduce 7
+svm 7
+循环神经网络 7
+particle swarm optimization 6
+random forest 6
+时间序列 6
+朴素贝叶斯 6
+recurrent neural network 6
+redis 6
+optimization 6
+深度卷积神经网络 6
+social network 6
+决策树 6
+recommendation algorithm 6
+聚类分析 6
+路径规划 6
+path planning 6
+分类算法 5
+classification algorithm 5
+字符识别 5
+word2vec 5
+知识图谱 5
+knowledge graph 5
+情感分类 5
+recommender systems 5
+社交网络 5
+用户画像 5
+并行化 5
+decision tree 5
+similarity 5
+feature fusion 5
+分类 5
+classification 5
+docker 5
+容器 5
+资源调度 5
+clustering analysis 5
+计算机视觉 5
+深度神经网络 5
+imbalanced data 5
+情感词典 5
+data visualization 5
+数据可视化 5
+多目标优化 5
+自然语言处理 5
+参数优化 5
+parameter optimization 5
+character recognition 4
+node.js 4
+time series 4
+数据预处理 4
+d-s证据理论 4
+rnn 4
+卷积网络 4
+分布式 4
+sentiment classification 4
+target detection 4
+text categorization 4
+博弈论 4
+萤火虫算法 4
+主题模型 4
+smart home 4
+智能家居 4
+feature learning 4
+特征学习 4
+parallel computing 4
+performance optimization 4
+个性化推荐 4
+naive bayes 4
+personalized recommendation 4
+相似度 4
+粒子群优化算法 4
+短文本 4
+深度信念网络 4
+restricted boltzmann machine 4
+matrix factorization 4
+矩阵分解 4
+图像去噪 4
+服务机器人 4
+computer vision 4
+增量学习 4
+运动目标检测 4
+k-means algorithm 4
+复杂网络 4
+virtual reality 4
+虚拟现实 4
+关联规则 4
+apriori算法 4
+association rules 4
+cloud platform 4
+云平台 4
+命名实体识别 4
+autoencoder 4
+信息融合 4
+information fusion 4
+container 4
+multi-objective optimization 4
+natural language processing 4
+recommender system 4
+粒子群算法 3
+otsu 3
+high concurrency 3
+高并发 3
+图像检索 3
+supervised learning 3
+智能合约 3
+时间序列预测 3
+递归神经网络 3
+人工智能 3
+工业机器人 3
+轨迹规划 3
+trajectory planning 3
+分布式存储 3
+文本表示 3
+text representation 3
+主成分分析 3
+异常检测 3
+anomaly detection 3
+优化 3
+game theory 3
+recommendation system 3
+firefly algorithm 3
+可视化 3
+visualization 3
+topic model 3
+阈值分割 3
+图像增强 3
+性能优化 3
+行人检测 3
+content-based recommendation 3
+基于内容的推荐 3
+user profiling 3
+parallelization 3
+用户行为分析 3
+聚类算法 3
+face detection 3
+人脸检测 3
+rbf neural network 3
+rbf神经网络 3
+数据库 3
+查询 3
+hbase 3
+query 3
+任务调度 3
+short text 3
+clustering algorithm 3
+fpga 3
+prediction 3
+低功耗 3
+zookeeper 3
+internet of things 3
+qos 3
+word vector 3
+indoor positioning 3
+3d reconstruction 3
+semantic 3
+deep belief networks 3
+context 3
+nition 3
+模式识别 3
+图模型 3
+storm 3
+image denoising 3
+图像质量评价 3
+chinese word segmentation 3
+中文分词 3
+machine vision 3
+机器视觉 3
+unity3d 3
+incremental learning 3
+中文命名实体识别 3
+extreme learning machine 3
+压缩感知 3
+智能视频监控 3
+moving object detection 3
+并行计算 3
+convolution neural networks 3
+gesture recognition 3
+人机交互 3
+手势识别 3
+移动机器人 3
+重采样 3
+complex networks 3
+正则化 3
+无线传感器网络 3
+受限玻尔兹曼机 3
+车辆检测 3
+评价对象抽取 3
+轨迹聚类 3
+resource scheduling 3
+action recognition 3
+recurrent neural networks 3
+混合推荐 3
+局部特征 3
+c4.5 algorithm 3
+c4.5算法 3
+kubernetes 3
+reinforcement learning 3
+强化学习 3
+apriori algorithm 3
+信息抽取 3
+information extraction 3
+deep convolutional neural network 3
+performance evaluation 3
+svr 3
+question classification 3
+sdn 3
+nginx 2
+3d printing 2
+3d打印 2
+restful 2
+group lasso 2
+particle swarm 2
+特征权重 2
+ocr 2
+避障 2
+obstacle avoidance 2
+fine-grained images 2
+image retrieval 2
+情感特征 2
+android 2
+安卓 2
+监督学习 2
+many-objective optimization problem 2
+高维多目标优化问题 2
+pbft 2
+隐私保护 2
+data pre-processing 2
+time series forecasting 2
+dempster-shafer evidence theory 2
+fcm 2
+深层神经网络 2
+industrial robot 2
+抓取检测 2
+load balance 2
+distributed storage 2
+attention mechanism 2
+注意力机制 2
+uav 2
+预测模型 2
+convolutional network 2
+distributed 2
+distance measurement 2
+semantic segmentation 2
+news recommendation 2
+新闻推荐 2
+访问控制 2
+autonomous vehicle 2
+smart contract 2
+byzantine fault tolerance 2
+上下文信息 2
+cold-start problem 2
+can总线 2
+模拟退火算法 2
+simulated annealing algorithm 2
+similarity measure 2
+相似度度量 2
+gray histogram 2
+visual attention 2
+灰度直方图 2
+相似性度量 2
+fast algorithm 2
+快速算法 2
+image enhancement 2
+histogram equalization 2
+直方图均衡化 2
+反卷积 2
+traffic sign recognition 2
+交通标识识别 2
+vsm 2
+文本相似度 2
+information entropy 2
+信息熵 2
+intrusion detection 2
+入侵检测 2
+database 2
+storage 2
+存储 2
+javascript 2
+webgis 2
+pid 2
+无人驾驶车辆 2
+task scheduling 2
+medical image segmentation 2
+relevance 2
+医学图像分割 2
+self-adaptive 2
+low power 2
+ontology 2
+服务质量 2
+本体 2
+outlier detection 2
+top-n recommendation 2
+top-n推荐 2
+数据稀疏性 2
+performance monitoring 2
+性能监控 2
+content-based image retrieval 2
+基于内容的图像检索 2
+fingerprint 2
+三维重建 2
+深度自编码网络 2
+deep convolution neural network 2
+learning 2
+feature 2
+特征降维 2
+service 2
+服务 2
+architecture 2
+上下文 2
+电子病历 2
+pedestrian detection 2
+粒子滤波 2
+artificial neural networks 2
+pca 2
+recognition 2
+distributed system 2
+high availability 2
+目标识别 2
+feature tracking 2
+特征跟踪 2
+knn 2
+蚁群优化算法 2
+human activity recognition 2
+rfid 2
+swarm intelligence 2
+tesseract 2
+spring 2
+kafka 2
+image quality evaluation 2
+hadoop平台 2
+差分进化 2
+support vector machine(svm) 2
+service robots 2
+indoor localization 2
+chinese named entity recognition 2
+极限学习机 2
+compressive sensing 2
+image deblurring 2
+sparse representation 2
+稀疏表示 2
+intelligent parking 2
+fault diagnosis 2
+故障诊断 2
+微服务架构 2
+optimal clustering number 2
+最佳聚类数 2
+初始聚类中心 2
+面向方面 2
+human-computer interaction 2
+交通流预测 2
+区域增长 2
+complex environment 2
+mobile robot 2
+复杂环境 2
+framework 2
+location-based social networks 2
+naive bayesian 2
+协同过滤算法 2
+基于位置的社交网络 2
+mongodb 2
+nosql 2
+resampling 2
+不平衡数据 2
+sentiment lexicon 2
+医疗大数据 2
+车联网 2
+股票预测 2
+apriori 2
+risk assessment 2
+风险评估 2
+word2vec model 2
+word2vec模型 2
+slope one 2
+条件随机场 2
+conditional random fields 2
+named entity recognition 2
+slam 2
+energy 2
+自编码 2
+社区发现 2
+community detection 2
+complex network 2
+vehicle detection 2
+微博短文本 2
+trajectory clustering 2
+非线性系统 2
+nonlinear system 2
+webgl 2
+行为识别 2
+gabor滤波器 2
+数据处理 2
+data processing 2
+预测 2
+user behavior analysis 2
+协同过滤推荐算法 2
+pso 2
+sfla 2
+混合蛙跳算法 2
+evolutionary algorithm 2
+进化算法 2
+local feature 2
+思维进化算法 2
+kinect 2
+组合预测方法 2
+relu 2
+failure prediction 2
+故障预测 2
+sentence classification 2
+可解释性 2
+simultaneous localization and mapping 2
+augmented reality 2
+增强现实 2
+cache 2
+缓存 2
+半监督学习 2
+semi-supervised learning 2
+domain adaptation 2
+领域自适应 2
+arm 2
+dependency parsing 2
+依存句法分析 2
+词嵌入 2
+数据中心网络 2
+软件定义网络 2
+data center network 2
+software defined network 2
+hybrid recommendation 2
+artificial intelligence 2
+question answering 2
+提取 2
+logistic regression 2
+逻辑回归 2
+indoor location 2
+ibeacon 2
+软件缺陷预测 2
+性能评估 2
+属性抽取 2
+自编码器 2
+sparsity 2
+稀疏性 2
+reliability 2
+可靠性 2
+redis cluster 2
+redis集群 2
+parallelism 2
+reconfigurable 2
+信道状态信息 2
+表情识别 2
+数据集成 2
+data integration 2
+pooling 2
+自动化 2
+openstack 2
+intelligent video surveillance 2
+虹膜识别 2
+iris recognition 2
+zigbee 2
+语义化 2
+social media 2
+粒子群优化 2
+wireless sensor network 2
+短文本相似度 2
+principal component analysis 2
+pattern recognition 2
+权值 2
+电子商务 2
+hmm model 2
+sift 2
+边缘检测 2
+edge detection 2
+定位 2
+monitoring 2
+saliency 2
+probabilistic matrix factorization 2
+概率矩阵分解 2
+opinion target extraction 2
+distant supervision 2
+远程监督 2
+lucene 2
+文本聚类 2
+text clustering 2
+bloom filter 2
+布隆过滤器 2
+hdfs 2
+cuda 2
+labview 2
+flume 2
+gradle 2
+shiro 2
+distributed storage system 2
+chaos method 1
+wolf pack optimization 1
+混沌法 1
+狼群优化算法 1
+independent training node 1
+独立训练节点 1
+slicing algorithm 1
+slicing direction 1
+stl 1
+stl模型 1
+volume deviation 1
+体积误差 1
+分层方向 1
+分层算法 1
+digital archives 1
+ipfs 1
+zabbix 1
+数字档案 1
+gateaway node 1
+iot 1
+lora technology 1
+lorawan protocol 1
+lorawan协议 1
+lora技术 1
+网关节点 1
+参数选择 1
+粒子群 1
+parameter selection 1
+python 1
+scrapy web crawler 1
+scrapy网络爬虫 1
+feature weights 1
+rwmd distance 1
+rwmd距离 1
+word vectors 1
+adaptive mechanism 1
+gradient variance 1
+learning rate 1
+stochastic gradient descent 1
+学习率 1
+梯度方差 1
+自适应机制 1
+随机梯度下降 1
+character segmentation 1
+ocr深度学习 1
+text area detection 1
+字符切分 1
+文字区域检测 1
+component-based development 1
+separation 1
+vue 1
+前后端分离 1
+组件化开发 1
+优先级队列 1
+automated guided vehicle 1
+deadlock 1
+priority queue 1
+time window of nodes 1
+死锁 1
+自动导引车 1
+节点时间窗 1
+few-shot learning 1
+少量样本学习 1
+细粒度级别图像 1
+cla clustering algorithm 1
+cla聚类算法 1
+density-based clustering algorithm 1
+lcm clustering algorithm 1
+lcm聚类算法 1
+lgc clustering algorithm 1
+lgc聚类算法 1
+local centrality measure 1
+local gravitation model 1
+密度聚类算法 1
+局部中心量度 1
+局部引力模型 1
+dynamic threshold 1
+yolo 1
+动态阈值 1
+emotional features 1
+stock price prediction 1
+股价预测 1
+长短期记忆模型 1
+na(?)ve bayes 1
+phishing website 1
+钓鱼网站 1
+evolutionary multi-objective optimization 1
+large-scale multi-objective optimization problem 1
+pareto front 1
+pareto前沿面 1
+大规模多目标优化问题 1
+进化多目标优化 1
+partially blind signature 1
+privacy preserving 1
+smart contracts 1
+部分盲签名 1
+combination forecasting model 1
+metaheuristic optimization algorithm 1
+元启发式优化算法 1
+组合预测模型 1
+wheat leaf disease 1
+小麦叶部病害 1
+贝叶斯 1
+bayes 1
+classification system 1
+texts classification 1
+新闻分类系统 1
+特征词提取 1
+数据融合 1
+basic probability assignment function 1
+data fusion 1
+data preprocession 1
+基本概率分配函数 1
+offline handwritten chinese character recognition 1
+脱机手写体汉字识别 1
+双目视觉 1
+artificial intellegence 1
+binocular vision 1
+grasping detection 1
+负载平衡 1
+group of balance strategy 1
+the cached map-group strategy 1
+子集群策略 1
+缓存分组策略 1
+web text 1
+web文本 1
+agriculture disease and pest 1
+agriculture knowledge service 1
+entity linking 1
+knowledge question-answering 1
+农业病虫害 1
+农业知识服务 1
+实体链接 1
+知识问答 1
+box office prediction 1
+票房预测 1
+gps 1
+kalman滤波 1
+carrier phase 1
+integer ambiguity 1
+kalman filtering 1
+lambda 1
+整周模糊度 1
+载波相位 1
+class discrimination degree 1
+cost-sensitive 1
+imbalanced big data 1
+不平衡大数据 1
+代价敏感 1
+类区分度 1
+network traffic 1
+one-class classifier 1
+prediction model 1
+principle component analysis 1
+一分类器 1
+网络流量 1
+key-value 1
+单目视觉 1
+hough forest 1
+hough森林 1
+monocular vision 1
+vehicle camera calibration 1
+velocity measurement 1
+测距 1
+测速 1
+车载摄像机标定 1
+bi-double direction user interest sets 1
+key feature selection 1
+text mining 1
+关键特征选择 1
+双向用户兴趣集 1
+cad system 1
+cad系统 1
+ct image 1
+ct图像 1
+deep convolutional neural networks 1
+mr image 1
+mr图像 1
+unbalanced distribution 1
+分布不均衡 1
+语义分割 1
+cross domain recommendation 1
+heterogeneous information 1
+多样化内容 1
+跨域推荐 1
+access control 1
+block chain 1
+hyperledger 1
+超级账本 1
+class frequency 1
+document frequency 1
+segmented term frequency 1
+分词频 1
+文档频率 1
+类别频率 1
+lateral stability 1
+model predict control 1
+phase plane 1
+side slip angle 1
+侧偏角 1
+无人驾驶汽车 1
+模型预测控制 1
+横向稳定 1
+相平面 1
+flow shop scheduling 1
+mobile edge computing 1
+task offloading 1
+任务卸载 1
+流水线调度 1
+移动边缘计算 1
+ethereum virtual machine 1
+pbft consensus algorithm 1
+pbft共识算法 1
+warehouse receipt transaction 1
+仓单交易 1
+以太坊虚拟机 1
+consensus algorithm 1
+rbft 1
+共识算法 1
+拜占庭容错rbft 1
+user preferences 1
+用户偏好 1
+contextual information 1
+冷启动 1
+自适应惯性权重 1
+adaptive inertia weight 1
+chaotic sequence 1
+good-point set 1
+roulette wheel selection strategy 1
+佳点集 1
+混沌序列 1
+轮盘赌策略 1
+content-addressable network 1
+dns 1
+dnssec 1
+内容可寻址网络 1
+域名系统 1
+rest 1
+componentization 1
+mobile end page construction 1
+移动端页面构建 1
+组件化 1
+can bus 1
+in-vehicle network 1
+intrusion detection rules 1
+intrusion detection system 1
+入侵检测系统 1
+入侵检测规则 1
+车内网 1
+public transport 1
+vehicle scheduling 1
+公共交通 1
+车辆排班 1
+feature pyramid networks 1
+mssd 1
+ssd 1
+tmssd 1
+特征金字塔网络 1
+forgetting curve 1
+time window 1
+时间窗口 1
+遗忘曲线 1
+generative adversarial nets 1
+image augmentation 1
+image class imbalance 1
+underlying noise 1
+图像扩充 1
+图像类别不平衡 1
+底层噪声 1
+生成对抗网络 1
+cloud computing services 1
+lzw compression algorithm 1
+sensory data preprocessing 1
+smart home website 1
+云计算服务 1
+字典序压缩算法 1
+感知数据预处理 1
+智能家居网站 1
+hsv- 1
+hsv距离公式 1
+l1regularization logistic regression 1
+l1正则化逻辑回归 1
+similarity measurement method 1
+space distance formula 1
+spatial color histogram 1
+threshold segmentation 1
+visual 1
+words histogram 1
+视觉注意机制 1
+视觉词直方图 1
+空间颜色直方图 1
+database security 1
+mechanism 1
+mysql security 1
+mysql安全机制 1
+sql injection attack prevention 1
+sql inspection attack 1
+sql注入攻击 1
+sql注入攻击预防 1
+数据库安全 1
+adaptive algorithm 1
+fuzzy set 1
+image thresholding 1
+intelligent optimization algorithms 1
+图像阈值化 1
+智能优化算法 1
+模糊集 1
+自适应算法 1
+brightness preserving 1
+contrast enhancement 1
+histogram dividing 1
+亮度保持 1
+对比度增强 1
+直方图划分 1
+domain generalization 1
+heterogeneous data analytics 1
+latent representation learning 1
+probability distribution adaptation 1
+异构数据分析 1
+概率分布适配 1
+隐含表征学习 1
+领域泛化 1
+entity 1
+knowledge graph construction 1
+linked open data 1
+ontology learning 1
+self-supervised learning 1
+实体 1
+开放链接数据 1
+本体学习 1
+知识图谱构建 1
+自监督学习 1
+automatic image annotation 1
+multi-label ranking 1
+multi-source heterogeneous features 1
+multiple kernel learning 1
+图像自动标注 1
+多标签排序 1
+多核学习 1
+多源异构特征 1
+de-convolutional neural network 1
+图像语义分割 1
+semantic relation classification 1
+关系分类 1
+active sample learning method 1
+dynamic growth convolution neural network 1
+主动样本学习方法 1
+动态生长卷积神经网络 1
+big data machine learning system 1
+big data processing 1
+big data programming model 1
+big data storage and management 1
+parallel machine learning algorithms 1
+分布式存储管理 1
+大数据分析编程模型 1
+大数据处理 1
+大数据机器学习系统 1
+并行化计算 1
+机器学习并行化算法 1
+approximate representation 1
+one nearest neighbor classification 1
+time series data mining 1
+最近邻分类 1
+时间序列数据挖掘 1
+相似性度量方法 1
+近似表示 1
+maxout 1
+ddbft 1
+de-centralization 1
+去中心化 1
+拜占庭容错 1
+pedestrian detaction 1
+adaptive thresholding 1
+image clustering 1
+thresholding 1
+thresholds selection 1
+uneven illumination 1
+图像聚类 1
+自适应阈值分割 1
+阈值选取 1
+非均匀光照 1
+微博数据 1
+credit profiling 1
+event sequence mining 1
+social big data 1
+topic models 1
+weibo dataset 1
+事件序列挖掘 1
+信用画像 1
+社交大数据 1
+ethereum 1
+merkle patricia tree 1
+merkle patricia树 1
+以太坊 1
+cure 1
+custering algorithm 1
+user behavioranalysis 1
+移动互联网 1
+independent weight 1
+nonzero weight 1
+text segment 1
+text similarity 1
+向量空间模型 1
+文本段 1
+自主加权 1
+非零权值 1
+connected vehicle 1
+controller area network 1
+cyber security 1
+in-vehicle bus 1
+信息安全 1
+网联汽车 1
+车载总线网络 1
+image 1
+retrieval 1
+ship detection 1
+structrual texture 1
+texture feature extraction 1
+纹理特征提取 1
+结构纹理 1
+舰船检测 1
+gender recognition 1
+性别识别 1
+mvc 1
+designing 1
+front-end framework 1
+modular 1
+mvc pattern 1
+template rendering 1
+前端框架 1
+模块化设计 1
+模板渲染 1
+hybrid recommendation algorithm 1
+nearest neighbors selection 1
+personalized recommendation algorithm 1
+个性化推荐算法 1
+最近邻选择 1
+混合推荐算法 1
+semi- 1
+supervised rae method 1
+半监督rae方法 1
+convergence analysis 1
+differential evo-lution 1
+evolutionary computation 1
+function optimization 1
+函数优化 1
+差分进化算法 1
+收敛性分析 1
+进化计算 1
+demographic prediction 1
+evolutionary game theory 1
+global 1
+optimization problem 1
+time backtracking 1
+全局优化算法 1
+时间回溯模型 1
+演化博弈 1
+用户属性预测模型 1
+用户相似度模型 1
+false positive elimination 1
+误报消除 1
+loading data 1
+加载数据 1
+前端开发 1
+backbone 1
+front-end development 1
+openlayers 1
+requirejs 1
+autonomous land vehicle 1
+fuzzy logic 1
+path tracking method 1
+pid控制 1
+pure-pursuit 1
+模糊控制 1
+纯追踪 1
+路径跟踪 1
+user modeling 1
+user similarity 1
+用户建模 1
+用户相似度 1
+constraint 1
+cost-driven 1
+execution efficiency 1
+qos objective 1
+qos目标约束 1
+resource management 1
+service revenue 1
+成本驱动 1
+执行效率 1
+服务收益 1
+word distributed representation 1
+文本扩展 1
+pixel 1
+fuzzy c-means 1
+partial volume effect 1
+像素相关性 1
+模糊聚类算法 1
+部分容积效应 1
+equalisation 1
+fuzzy c-means clustering(fcm) 1
+fuzzy clustering 1
+fuzzy control indicator 1
+imbalanced data set 1
+m-value 1
+m-value generalization 1
+m值广义化 1
+objective function 1
+optimization(pso) 1
+particle swarm optimization generalization 1
+possibilistic c-means clustering(pcm) 1
+不平衡数据集 1
+可能性c均值聚类(pcm) 1
+模糊c均值聚类(fcm) 1
+模糊控制指标 1
+模糊聚类 1
+目标函数 1
+粒子群广义化 1
+粒子群算法(pso) 1
+聚类算法均衡化 1
+自适应m值 1
+accelerator 1
+training 1
+加速器 1
+训练过程 1
+预测过程 1
+high-dimensionality and small-sample 1
+lasso 1
+高维小样本 1
+malicious code 1
+malicious code detection 1
+代码混淆 1
+恶意代码 1
+恶意代码检测 1
+distributed message service 1
+分布式消息服务 1
+context-aware 1
+semantic annotation 1
+上下文感知 1
+语义标注 1
+840d 1
+industrial robots 1
+scararobot 1
+scara机器人 1
+asynchronous i/o 1
+event-driven 1
+事件驱动 1
+异步i/o 1
+average distance 1
+frequency 1
+平均距离 1
+离群点检测 1
+频率 1
+data sparse 1
+modeling missing data 1
+popularity bias 1
+two-layer model of user behavior 1
+two-step recommendation 1
+两步预测推荐算法 1
+两阶段用户行为模式 1
+流行偏置 1
+缺失数据建模 1
+log 1
+日志 1
+cbir 1
+多隐层 1
+automatic text summarization 1
+language representation 1
+semantic matching 1
+自动文摘 1
+语义匹配 1
+语言表示 1
+image features 1
+image semantics 1
+图像特征 1
+图像语义 1
+access points selection 1
+wlan 1
+指纹库 1
+接入点选择 1
+无线局域网 1
+icp registration 1
+icp配准 1
+mesh reconstruction 1
+point clouds process 1
+ransac 1
+trilateral filtering 1
+三边滤波 1
+点云处理 1
+网格重建 1
+image understanding 1
+natural scene image 1
+图像理解 1
+文字识别 1
+自然图像 1
+高层语义 1
+deep autoencoder network 1
+feature reduction 1
+access 1
+control 1
+electronic 1
+internet of things(iot) 1
+medical record 1
+medicine distribution 1
+rbac 1
+smart hospital 1
+user group 1
+wsdl 1
+体系架构 1
+智慧医院 1
+用户组 1
+药品流通 1
+sentiment word vector 1
+情感词向量 1
+handwritten digit recognition 1
+手写数字识别 1
+heterogeneous read-write separation 1
+information storage optimization 1
+redis优化 1
+信息存储优化 1
+异构读写分离 1
+article filter 1
+camshift algorithm 1
+camshift算法 1
+hog特征 1
+template matching 1
+模板匹配 1
+components analysis 1
+eblearn 1
+principal 1
+deep belief nets 1
+entity relation detection and 1
+named entity detection and recognition 1
+post- 1
+processing of viterbi algorithm 1
+受限制玻尔兹曼机 1
+实体关系检测与识别 1
+实体检测与识别 1
+深度置信网络 1
+维特比后处理 1
+container-as-a-service 1
+data center operating system 1
+preemptive scheduling 1
+resource scheduler 1
+分布式系统 1
+容器即服务 1
+抢占式调度 1
+数据中心操作系统 1
+高可用 1
+cortex-m3 1
+kernel transplantation 1
+stm32 1
+uc/os-ii 1
+uip 1
+内核移植 1
+genetic 1
+job scheduling 1
+quality of service 1
+simulated annealing 1
+模拟退火 1
+homomorphic filter 1
+image defogging 1
+retinex algorithm 1
+retinex算法 1
+同态滤波 1
+图像去雾 1
+classifier 1
+feature detection and 1
+matching 1
+mobile augmented reality 1
+registration 1
+三维注册 1
+特征提取与匹配 1
+移动增强现实 1
+multidimensional data 1
+spatio-temporal data 1
+多维数据 1
+时空数据 1
+image recog- 1
+neural networks 1
+unsupervised feature learning 1
+无监督特征学习 1
+ant colony optimization 1
+knn算法 1
+tf-rfidf 1
+graph models 1
+pattern recog- 1
+real-time 1
+wearable sensor network 1
+人体行为识别 1
+可穿戴传感器网络 1
+实时性 1
+无线射频 1
+big data computational model 1
+cas 1
+data repli- 1
+earthquake precursor network 1
+face recog- 1
+multi-core technology 1
+partial barrier 1
+地震前兆台网 1
+多核技术 1
+大数据计算模型 1
+数据复本 1
+部分同步 1
+群智能 1
+artificial bee colony 1
+dual cognitive abilities 1
+dynamics 1
+global optimization 1
+group 1
+intersect mutation 1
+交叉突变 1
+人工蜂群算法 1
+全局优化 1
+双重认知能力 1
+群体动力学 1
+card identification 1
+character 1
+information classification 1
+open source 1
+信息分类 1
+名片识别 1
+图片处理 1
+开源 1
+stream processing 1
+流处理 1
+empirical mode decomposition 1
+morphological component analysis 1
+形态成分分析 1
+经验模态分解 1
+edge feature 1
+human visual perception model 1
+noise histogram 1
+sift feature 1
+sift特征 1
+time frequency weighted composite 1
+人眼视觉感觉模型 1
+抗噪柱状图 1
+时频复合加权 1
+边缘特征 1
+data 1
+histogram 1
+optimization of euqi-join algorithm 1
+optimization of θ-join algorithm 1
+skew 1
+任意连接算法优化 1
+数据倾斜 1
+直方图 1
+等值连接算法优化 1
+differential evolution 1
+hadoop platform 1
+mapreduce model 1
+mapreduce模型 1
+semantic representation 1
+similarity computation 1
+相似度计算 1
+语义表示 1
+cross validation 1
+data normalization 1
+gaussian kernel function 1
+sequential minimal optimization algorithm 1
+the training efficiency 1
+交叉验证 1
+数据归一化 1
+训练效率 1
+顺序最小优化算法 1
+高斯核函数 1
+depth learning 1
+hand-eye calibration 1
+mpid neural network 1
+mpid神经网络 1
+robot arm 1
+手眼标定 1
+机械臂 1
+3dmax 1
+3dsmax 1
+three-dimensional modeling 1
+virtual campus 1
+三维建模 1
+虚拟校园 1
+cslam 1
+multi-robot communication 1
+multi-robot system 1
+natural landmark extraction 1
+vslam 1
+协作slam 1
+多机器人系统 1
+多机器人通信 1
+自然路标提取 1
+human-aware navigation 1
+local path planning 1
+odometry calibratioan 1
+qaudtree map 1
+人机导航 1
+四叉树地图表示 1
+局部路径规划 1
+里程计标定 1
+智能手机 1
+crowdsensing 1
+location 1
+smartphones 1
+位置 1
+指纹 1
+群智感知 1
+co-saliency 1
+human eye fixa- 1
+salient object 1
+salient region 1
+tions 1
+visual saliency detection 1
+人眼视觉注视点 1
+显著区域 1
+显著性检测 1
+显著物体 1
+视觉注意 1
+联合显著性 1
+camera space manipulator 1
+position sensitive device 1
+tool calibration 1
+workpiece calibration 1
+位置传感器 1
+工件标定 1
+工具标定 1
+相机空间操作 1
+auto-encoders neural network 1
+自编码神经网络 1
+bp neural 1
+network 1
+support vector machines 1
+device 1
+ontology model 1
+reasoning 1
+semantic description 1
+推理 1
+本体模型 1
+设备 1
+语义描述 1
+image inpainting 1
+image restoration 1
+image super-resolution 1
+图像修补 1
+图像去模糊 1
+图像复原 1
+图像超分辨率 1
+open services 1
+service access 1
+service identification 1
+service search 1
+web services 1
+web服务 1
+开放服务 1
+服务接入 1
+服务搜索 1
+服务识别 1
+feature weighting 1
+information entropy of a specific class 1
+item's frequency 1
+特征项频度 1
+类内信息熵 1
+camera calibration 1
+bp neural networks 1
+fractal dimension 1
+hidden markov features 1
+vehicle identification 1
+vehicle license plate recognition 1
+分形维数 1
+摄像机标定 1
+智能泊车 1
+车牌识别 1
+车辆识别 1
+隐马尔科夫特征 1
+intelligent video survellance 1
+moving object tracking 1
+scene motion pattern 1
+场景运动模式 1
+运动目标跟踪 1
+cooperative sensing 1
+coverage analysis 1
+data collection 1
+incentive mechanism 1
+mobile crowd sensing 1
+opportunistic transmission 1
+协作感知 1
+数据收集 1
+机会传输 1
+激励机制 1
+移动群智感知 1
+覆盖分析 1
+deep auto-encoder networks 1
+dga 1
+power transformer 1
+电力变压器 1
+microservices architecture 1
+saas application 1
+saas应用 1
+高可用性 1
+density of samples 1
+initial clustering centers 1
+样本密度 1
+circumscribed rectangle 1
+contour detection 1
+coordinate transformation 1
+workpiece positioning 1
+坐标转换 1
+外接矩形 1
+工件定位 1
+轮廓检测 1
+closeness 1
+decision graph 1
+density 1
+density peaks 1
+distance form points of higher 1
+hierarchical clustering 1
+k-nearest neighbor graph 1
+密度 1
+密度极值k近邻图 1
+层次聚类 1
+相似性 1
+高密度距离 1
+软件工程 1
+aspect oriented 1
+non-functional requirements 1
+software engineering 1
+software quality 1
+software requirements 1
+软件质量 1
+软件需求 1
+非功能需求 1
+算法 1
+lower bound 1
+opencl 1
+pre-computation 1
+shortest path problem 1
+κnn 1
+下界 1
+最短路径问题 1
+预处理 1
+compound feature 1
+deep multi-model fusion 1
+深度多模型融合 1
+组合特征 1
+incermental 1
+depth data 1
+dynamic programming 1
+finger detection 1
+skeletal tracking 1
+动态规划 1
+手指检测 1
+深度信息 1
+骨骼追踪 1
+intelligent transportation system 1
+time series model 1
+traffic flow forecast 1
+智能交通 1
+growing 1
+plane projection 1
+region 1
+regional texture mapping 1
+texture coordinate 1
+texture mapping 1
+triangular mesh model 1
+三角网格模型 1
+局部纹理映射 1
+平面投影 1
+纹理坐标 1
+纹理映射 1
+improved ant colony algorithm 1
+multi-objective programming 1
+多目标规划 1
+改进蚁群算法 1
+面向对象 1
+cart decision tree 1
+cart决策树 1
+fuzzy classification 1
+gf-2 1
+multi-scale segmentation 1
+object-oriented 1
+多尺度分割 1
+模糊分类 1
+高分二号 1
+front-end development of web applications 1
+generic development 1
+webpage optimization 1
+web前端开发 1
+通用框架 1
+页面优化 1
+influence 1
+social 1
+朴素贝叶斯分类 1
+社交影响 1
+pointwise mutual information 1
+点互信息 1
+bpr metric 1
+bpr标准 1
+coupled object similarity 1
+user social status 1
+用户社会地位 1
+耦合对象相似度 1
+active learning 1
+gender classification 1
+query intent identification 1
+spam classification 1
+user interest 1
+主动学习 1
+垃圾邮件分类 1
+性别分类 1
+查询意图识别 1
+用户兴趣 1
+consensus 1
+group consensus 1
+multi-agent networks 1
+pinning control 1
+一致性 1
+分组一致性 1
+多智能体网络 1
+牵制控制 1
+大数据服务 1
+big data service 1
+big medical  data 1
+credible service optimization 1
+可信组合评估 1
+mac protocol 1
+mac协议 1
+power control 1
+relay 1
+routing protocol 1
+selection 1
+simulator 1
+vehicular ad-hoc network 1
+中继选择 1
+功率控制 1
+模拟器 1
+消息传输 1
+nonlinear dynamical system 1
+stock prediction 1
+非线性动力系统 1
+3ds max 1
+high school physics 1
+中学物理 1
+achievement analysis 1
+成绩分析 1
+mixed quasi-variational inequality 1
+noise detection 1
+regularization 1
+variational method 1
+变分法 1
+噪声检测 1
+混合拟变分不等式 1
+delay-tolerant 1
+energy-efficient 1
+network-lifetime 1
+role-member realationship 1
+sink 1
+wsn 1
+延迟容忍 1
+汇聚节点 1
+网络生命周期 1
+节能 1
+角色成员关系 1
+attack graphs 1
+hardening 1
+network security 1
+加固 1
+攻击图 1
+网络安全 1
+distributed search engine 1
+elastic search 1
+elasticsearch 1
+intelligent recommendation 1
+new words discovery 1
+vertical search 1
+分布式搜索引擎 1
+垂直搜索 1
+新词发现 1
+智能推荐 1
+diagrams 1
+exploratory analysis 1
+图表 1
+探索分析 1
+k-v storage 1
+k-v存储 1
+proxy 1
+集群化 1
+intelligent water management 1
+network security protection 1
+system 1
+the internet of things 1
+智能化水资源管理系统 1
+网络安全防护 1
+autonomous driving 1
+pre-training 1
+自动驾驶 1
+预训练 1
+距离度量 1
+机器人 1
+particle swarm optimization(pso)algorithm 1
+robot 1
+similarity algorithm 1
+slope one算法 1
+协同过滤推荐 1
+相似度算法 1
+feature template 1
+rules 1
+特征模板 1
+规则 1
+back-end optimization 1
+filter 1
+least squares 1
+loop closure constraints 1
+最小二乘法 1
+后端优化 1
+滤波 1
+闭环约束 1
+color 1
+color to gray transformation 1
+consistency 1
+contrast preservation 1
+grayscale pixel characteristic preservation 1
+对比度保持 1
+彩色图像灰度化 1
+灰度像素特征保持 1
+能量优化 1
+颜色一致性 1
+bidirectional rapidly-exploring random trees 1
+rapidly-exploring random tree (rrt) 1
+rrt-concon algorithm 1
+rrt-concon算法 1
+双向快速扩展随机树 1
+快速扩展随机树(rrt) 1
+decsision tree 1
+enasemble learning 1
+pattern classification 1
+visual data 1
+模式分类 1
+视觉数据 1
+cross-modal retrieval 1
+跨模态检索 1
+clause 1
+connective 1
+corpus 1
+discourse parsing 1
+discourse relation 1
+子句 1
+篇章关系 1
+篇章结构分析 1
+语料库 1
+连接依存树 1
+modularity 1
+centrality 1
+cluster prototype 1
+nity 1
+overlapping commu- 1
+q function 1
+rank 1
+resolution limit 1
+similarity matrix 1
+分辨率 1
+模块化q函数 1
+模块性 1
+相似度矩阵 1
+类原型 1
+节点中心度 1
+重叠社区 1
+theory 1
+particle filter 1
+车辆跟踪 1
+choquet integral 1
+choquet积分 1
+d-s evidence 1
+intelligent vehicle 1
+mcrp 1
+vehicle tracking 1
+智能车 1
+access memory 1
+field programmable gate array 1
+finite state machine 1
+multiplexer 1
+register files 1
+sram 1
+static random 1
+多路选择器 1
+寄存器堆 1
+有限状态机 1
+analysis of the emotion 1
+emotion classification 1
+evaluation object extraction 1
+microblog short text 1
+residents trip 1
+taxi trajectory 1
+trajectroy compression 1
+出租车轨迹 1
+居民出行 1
+轨迹压缩 1
+electroencephalogram(eeg) 1
+emotion recognition 1
+sample entropy 1
+情感识别 1
+样本熵 1
+脑电信号 1
+naive bayes classification model 1
+validity of double attributes 1
+validity of single attribute 1
+单属性有效度 1
+双属性有效度 1
+朴素贝叶斯分类模型 1
+体系结构 1
+粗糙集 1
+rough set 1
+heterogeneous 1
+high dimensional attributes 1
+multi-sources 1
+positive approximation 1
+the internet of things (iot) 1
+多源异构 1
+正近似 1
+高属性维度 1
+computer network defense 1
+description logic 1
+mobile ad hoc network 1
+policy refinement 1
+semantic consistency 1
+描述逻辑 1
+移动ad hoc网络 1
+策略求精 1
+计算机网络防御 1
+语义一致性 1
+security model 1
+安全模型 1
+attribute-based 1
+cloud access control 1
+cloud compting 1
+encryption 1
+fine-grained access control 1
+mobile cloud computing 1
+云访问控制 1
+属性加密 1
+移动云计算 1
+细粒度访问 1
+cloud federation 1
+fair allocation 1
+resource utilization 1
+stable matching 1
+云联盟 1
+公平分配 1
+稳定匹配 1
+资源利用率 1
+user profile 1
+dnn 1
+mobile data 1
+personalized push service 1
+svm algorithm 1
+svm算法 1
+个性化推送 1
+移动数据 1
+dimensionality reduction 1
+representation transformation 1
+single-layer auto-encoder 1
+单层自编码器 1
+数据降维 1
+表达转换 1
+随机游走 1
+forgotten laws 1
+graph-based model 1
+path fusion 1
+random walk 1
+路径融合 1
+遗忘规律 1
+pick-up hotspots 1
+r-fdbscan 1
+r-fdbscan算法 1
+spatial clustering 1
+taxi dispatching scheme 1
+weka 1
+出租车调度 1
+空间聚类 1
+载客热点区域 1
+cost sensitive learning 1
+ensemble classification 1
+lung nodule computer aided detection 1
+re-sampling 1
+不均衡数据 1
+代价敏感学习 1
+肺结节计算机辅助检测 1
+集成分类 1
+charging programming 1
+energy problem 1
+mobile charger 1
+schedulability 1
+wireless rechargeable sensor networks 1
+充电规划 1
+可调度性 1
+无线可充电传感器网络 1
+移动充电节点 1
+能量问题 1
+decomposition-based multi-objective evolutionary algorithms 1
+flexible job shop scheduling 1
+many-objective optimization 1
+memetic algorithms 1
+variation operators 1
+变化算子 1
+基于分解的多目标进化算法 1
+柔性作业车间调度 1
+模因演算法 1
+高维多目标优化 1
+adaptive control 1
+bp learning algorithm 1
+bp学习算法 1
+neural inverse control 1
+nonlinear control 1
+receding horizon optimization technology 1
+滚动时域优化技术 1
+神经网络逆控制 1
+自适应控制 1
+非线性控制 1
+location naming 1
+location prediction 1
+location recommendation 1
+location-based social network 1
+位置命名 1
+位置推荐 1
+位置社交网络 1
+位置预测 1
+memory scheduling 1
+shuffle 1
+spill history 1
+spill-based 1
+内存调度 1
+溢出历史 1
+car face image database 1
+car face recognition 1
+constrained local model 1
+约束局部模型 1
+车脸数据库 1
+车脸识别 1
+application framework 1
+interactive rendering 1
+material editting 1
+交互绘制 1
+应用框架 1
+材质编辑 1
+candidate word selection 1
+keyword etraction 1
+tf-idf 1
+unknown word recogition 1
+候选词抽取 1
+关键词抽取 1
+未登录词识别 1
+gabor filter 1
+kth database 1
+kth数据库 1
+hbase schema 1
+hbase表模式 1
+index 1
+k-nearest neighbor query 1
+k近邻查询 1
+region query 1
+区域查询 1
+索引 1
+preference learning 1
+偏好学习 1
+副本 1
+云存储 1
+cloud storage 1
+virtual machine migration 1
+虚拟机迁移 1
+replica 1
+agriculture internet of things 1
+elman 1
+elman预测模型 1
+forecasting model 1
+hierarchical case-based reasoning decision 1
+knowledge of multi class agricultural processing 1
+workflow access control 1
+农业物联网 1
+分层案例推理决策 1
+多类别农业知识处理 1
+工作流访问控制 1
+fine forecast 1
+tensor flow 1
+times series 1
+精细化预测 1
+长时记忆网络 1
+feed-forward neural networks 1
+forecasting 1
+power load 1
+serial incremental ratio 1
+前馈网络 1
+序列增量比 1
+电力负荷 1
+hybrid 1
+recommendation 1
+content–based recommendation algorithm 1
+data preprocess 1
+基于内容的推荐算法 1
+arima 1
+industrial control network 1
+multiple seasonal 1
+stuxnet attack 1
+stuxnet攻击 1
+traffic characteristics 1
+乘积季节arima 1
+工业控制网络 1
+流量特性 1
+trajectory 1
+processing 1
+real-time trajectory 1
+spatiotemporal data mining 1
+spatiotemporal data processing 1
+trajectory clusters updating 1
+trajectory division 1
+实时轨迹处理 1
+时空数据处理 1
+时空数据挖掘 1
+轨迹划分 1
+轨迹簇更新 1
+算法融合 1
+algorithm fusion 1
+bat algorithm 1
+knowledge learning 1
+知识学习 1
+群体智能 1
+蝙蝠算法 1
+texture 1
+纹理 1
+primal-dual interior-point method 1
+原对偶内点法 1
+activated sludge classification 1
+quality assessment model 1
+water 1
+水质评估模型 1
+活性污泥分类 1
+非均衡数据 1
+high efficiency video coding 1
+ing 1
+inter coding 1
+intra coding 1
+parallel cod- 1
+帧内编码 1
+帧间编码 1
+并行编码 1
+高效视频编码 1
+mea 1
+artificial crystal 1
+pid self-turning control 1
+pid自校正控制 1
+人工晶体 1
+landmark extraction 1
+trajectory prediction 1
+轨迹位置预测 1
+重要位置提取 1
+algorithm improvement 1
+rgb-d slam 1
+算法改进 1
+pos space definition 1
+semantic unit division 1
+semantic weight definition 1
+term 1
+text similarity algorithm 1
+关键词语义权值定 1
+文本相似度算法 1
+词性空间定义 1
+语义单元划分 1
+互信息 1
+classifier combination 1
+key sentence 1
+mutual information 1
+sentiment sentence 1
+关键句 1
+情感句 1
+android malware 1
+android恶意软件 1
+probabilistic 1
+概率神经网络 1
+特征选取 1
+流形学习 1
+manifold learning 1
+domain adaption 1
+feature mapping 1
+maximum mean discrepancy 1
+最大均值差异 1
+域自适应 1
+特征映射 1
+combining forecasting model 1
+timefrequency analysis 1
+时频分析 1
+intelligent decision making in agricultural production 1
+kernel extreme learning machine 1
+swarm intelligence optimization 1
+农业智能决策 1
+核极限学习机 1
+群智能优化 1
+任务分配 1
+crowdsourcing 1
+greedy algorithm 1
+multi-armed bandits 1
+pricing mechanism 1
+task allocation 1
+众包 1
+多臂赌博机 1
+定价机制设计 1
+贪婪算法 1
+cooperative paths planning 1
+differential evoluation 1
+muas 1
+multi-target assignment 1
+path re-planning 1
+three dimensional space 1
+三维空间 1
+协同航迹规划 1
+多无人机系统 1
+多目标分配 1
+航迹重规划 1
+long short-term memory 1
+named entities recognition 1
+sentence vector 1
+句子向量 1
+长短时记忆 1
+interest migration 1
+sparse matrix 1
+兴趣迁移 1
+稀疏矩阵 1
+tensorflow 1
+fnn 1
+predictor system 1
+re lu 1
+前反馈神经网络 1
+预测系统 1
+分布式文件系统 1
+distributed file system 1
+cube 1
+data retrivel 1
+energy efficient tasks scheduling 1
+数据检索 1
+数据立方体 1
+物联网大数据 1
+节能任务调度 1
+arima model 1
+arima模型 1
+long short-term memory network 1
+stock forecasting 1
+time series processing 1
+时序处理 1
+长短时记忆网络 1
+dependency for attributes 1
+gini index 1
+gini指数 1
+taylor series 1
+属性依赖度 1
+泰勒级数 1
+based on the state of repair 1
+half hidden markov hodel 1
+phm 1
+状态修 1
+隐半马尔科夫模型 1
+中文微博 1
+chinese micro blog 1
+emotional dictionary 1
+句型分类 1
+associative classification 1
+interpretable 1
+k近邻 1
+shapelets transformation 1
+shapelets转换 1
+time series classification 1
+κ-nearest neighbours 1
+关联式分类 1
+时间序列分类 1
+location-based service 1
+privacy protection 1
+privacy risk control 1
+基于位置服务 1
+隐私风险控制 1
+data mining in medicin 1
+micro-array expression data analysis 1
+医学数据挖掘 1
+微阵列表达数据分析 1
+hyper parameter optimization 1
+prediction and forecast 1
+wheat aphid 1
+小麦蚜虫 1
+有监督学习 1
+超参数优化 1
+预测预报 1
+cross cluster 1
+跨集群 1
+chatbot 1
+dialog generation 1
+对话生成 1
+聊天机器人 1
+linear algorithm 1
+multi threshold 1
+otsu criterion 1
+otsu准则 1
+多阈值 1
+线性算法 1
+date mining 1
+pruning strategy 1
+剪枝策略 1
+structure from motion 1
+bundle ad-justment 1
+camera tracking 1
+同时定位与地图构建 1
+摄像机跟踪 1
+运动恢复结构 1
+集束调整 1
+cluster analysis 1
+bigdata 1
+prediction and early warning 1
+spark platform 1
+spark平台 1
+预测与预警 1
+结构化数据 1
+cache hit rate 1
+replacement algorithm 1
+structured data 1
+替换算法 1
+缓存命中率 1
+feature dimension reduction 1
+fusion feature 1
+融合特征 1
+association rule mining 1
+fp-tree 1
+mapping 1
+关联规则挖掘 1
+映射 1
+频繁模式树fp-tree 1
+multimodal optimization 1
+single objective optimization 1
+uav trajectory planning 1
+wolf colony algorithm 1
+单目标优化 1
+多峰优化 1
+无人机航迹规划 1
+狼群算法 1
+foliage plant 1
+leaf image 1
+叶片图像 1
+植物识别 1
+combination forecasting method 1
+hybrid forecasting method 1
+混合预测方法 1
+human pose estimation 1
+perceptual computing 1
+surface elec-tromyography 1
+人体姿态估计 1
+感知计算 1
+深度机器学习 1
+表面肌电图 1
+无人机 1
+detection and tracking 1
+small target 1
+target properties 1
+小目标 1
+检测与跟踪 1
+目标特性 1
+image data augmentation 1
+esr 1
+环境声音识别 1
+3d food printing 1
+3d食品打印 1
+path optimization 1
+portrait image reshaping 1
+roly-poly toys design 1
+sensitivity analysis 1
+shell element simulation 1
+不倒翁设计 1
+人脸胖瘦调整 1
+壳单元有限元仿真 1
+打印路径优化 1
+灵敏度分析 1
+蚁群算法 1
+ant colony algorithm 1
+biogeography optimization 1
+cuckoo search optimization 1
+density based link clustering 1
+密度聚类 1
+布谷鸟算法 1
+生物地理优化算法 1
+entity alignment 1
+jena 1
+protege 1
+schema 1
+semantic network 1
+tcm knowledge graph 1
+中医知识图谱 1
+实体对齐 1
+相关性分析 1
+语义网络 1
+hierarchical long short-term memory 1
+label ranking 1
+label tree 1
+multi-label text classification 1
+optimal path searching 1
+最优路径搜索 1
+多标签文本分类 1
+层次化长短时记忆网络 1
+标签树 1
+标签置信度排序 1
+classification analysis 1
+off-line warning 1
+分类分析 1
+离网预警 1
+adaptive strategy 1
+global search 1
+local search 1
+nsga-ii 1
+全局搜索 1
+局部搜索 1
+适应性策略 1
+constituent parsing 1
+long short-term memory-ii- 1
+短语结构分析 1
+长短期记忆神经网络 1
+emotion dictionary 1
+microblog text sentiment classification 1
+pmi-ir 1
+微博文本情感分类 1
+consumer behavior 1
+na?ve bayesian 1
+朴素贝叶斯方法 1
+用户消费行为分析 1
+adaptive evolution 1
+custom technology 1
+dynamic evaluation 1
+industry supply chain 1
+information integration 1
+产业供应链 1
+信息集成 1
+动态评价 1
+定制技术 1
+自适应演化 1
+map reduce 1
+bi-directional lstm 1
+neural topic model 1
+semantic reinforcement 1
+双向lstm 1
+神经网络主题模型 1
+语义强化 1
+关联分析 1
+correlation analysis 1
+learning behavior 1
+learning style 1
+mooc学习行为 1
+学习风格 1
+帧差法 1
+background difference method 1
+edge detection algorithm 1
+frame difference method 1
+gaussian mixture model 1
+背景差分法 1
+边缘检测算法 1
+高斯混合模型 1
+interactive 1
+memory consumption 1
+render consumption 1
+special effects 1
+three-dimensional simulation 1
+三维仿真 1
+交互性 1
+内存消耗 1
+渲染消耗 1
+特效 1
+handwritten chinese character 1
+receptive field 1
+感受野 1
+手写体汉字识别 1
+adaptive learning rate 1
+alternative iteration 1
+交替迭代 1
+自适应学习率 1
+traffic engineering 1
+traffic scheduling 1
+流量工程 1
+流量调度 1
+3dui 1
+用户兴趣模型 1
+user interest model 1
+法向量估计 1
+特征保持 1
+curve skeleton 1
+feature preserving 1
+gauss map 1
+large scale point cloud 1
+normal estimation 1
+object extraction 1
+simplification 1
+大场景点云 1
+曲线骨骼 1
+点云简化 1
+目标提取 1
+高斯映射 1
+bacterial foraging optimization algorithm 1
+network traffic classification 1
+particle swarm optimization algorithm 1
+search strategy 1
+搜索策略 1
+细菌觅食优化算法 1
+网络流量分类 1
+社会网络 1
+influence maximization 1
+influence measurement 1
+information diffusion 1
+spreading probability 1
+传播概率 1
+信息传播 1
+影响力最大化 1
+影响力度量 1
+computational economics 1
+explainability 1
+计算经济学 1
+bootstrapping 1
+gradient boosting decision tree(gbdt) 1
+region proposal network(rpn) 1
+stochastic 1
+区域建议网络 1
+梯度提升决策树 1
+随机梯度提升 1
+gated recurrent units 1
+long-short term memory units 1
+recursive neural networks 1
+长短时记忆神经网络 1
+k neighborhood 1
+k邻近 1
+dial extract 1
+hough transform 1
+pointer meter 1
+指针式仪表 1
+表盘提取 1
+霍夫变换 1
+keywords extraction 1
+gpu parallel computation 1
+gpu并行计算 1
+gradient descent algorithm 1
+regularized 1
+梯度下降算法 1
+信息检索 1
+distributed representation 1
+document similarity 1
+information retrival 1
+向量空间模型(vsm) 1
+异构集群 1
+dynamic partitioning 1
+heterogeneous cluster 1
+minimum residual load 1
+multi service environment 1
+最小剩余负载 1
+动态划分 1
+多业务环境 1
+deep belief network 1
+handwritten chinese characters recognition 1
+手写汉字识别 1
+android client 1
+android移动端和python服务器端的系统实现 1
+filter forecasting 1
+python server 1
+滤波预测 1
+probability estimate 1
+概率估计 1
+a*算法 1
+a star algorithm 1
+b spline function 1
+b样条函数 1
+association reasoning 1
+elastic 1
+real-time query 1
+rule-based reasoning 1
+semantic reasoning 1
+streaming reasoning 1
+关联推理 1
+实时查询 1
+弹性 1
+流式推理 1
+规则推理 1
+语义推理 1
+feature transfer 1
+software defect prediction 1
+software evolution 1
+特征迁移 1
+软件演化 1
+grasp detection 1
+grasp planning 1
+pre-touch sensor 1
+visual sensing 1
+抓取规划 1
+接近觉传感器 1
+视觉传感信息 1
+metric validation 1
+roc analysis 1
+roc分析 1
+指标验证 1
+attribute extraction 1
+combination of knowledge graphs 1
+medical domain 1
+医疗领域 1
+知识图谱融合 1
+half-voting 1
+random forests 1
+voting weight 1
+半投票量 1
+投票权重 1
+elman neural network 1
+elman神经网络 1
+ga 1
+network structure 1
+网络拓扑结构 1
+双边滤波 1
+bilateral filtering 1
+pca unsupervised pre-training 1
+pca非监督预训练 1
+data clustering 1
+dimension reordering 1
+multi-dimensional data visualization 1
+parallel coordinates visualization 1
+sampling 1
+scatter plot visualization 1
+多维数据可视化 1
+平行坐标可视化 1
+抽样 1
+散点图可视化 1
+数据聚类 1
+维度重排 1
+auto-encoder 1
+deep networks 1
+l_1 norm 1
+l_1范数 1
+深度网络 1
+属性关联 1
+lod 1
+property association 1
+revit architecture 1
+three.js 1
+mysql 1
+crowdsourcing system 1
+datebase 1
+main memory database 1
+众包系统 1
+内存数据库 1
+deep convolutional network 1
+lesion image recognition 1
+rbm network 1
+受限玻尔兹曼机网络 1
+病害图像识别 1
+class imbalance defects prediction 1
+cross-company defects prediction 1
+software defects prediction 1
+类不平衡的缺陷预测 1
+跨公司的缺陷预测 1
+classification and recognition 1
+feature fusion technology 1
+image preprocessing 1
+分类识别 1
+图像预处理 1
+特征融合技术 1
+communication load balancing 1
+fault tolerance mechanism 1
+node election 1
+容错机制 1
+节点选举 1
+通信负载均衡 1
+credit risk assessment 1
+evaluation indicator system 1
+信用风险评估 1
+评估指标体系 1
+intelligence 1
+ros 1
+system development 1
+智能化 1
+系统开发平台 1
+electricity behavior analysis 1
+featrue extract 1
+smart grid big data 1
+异常值检测 1
+用电行为分析 1
+电力大数据 1
+并行性 1
+dynamic reconfigurable 1
+动态可重构 1
+可重构性 1
+无线网络 1
+csi 1
+rss 1
+wireless network 1
+接收信号强度 1
+支持向量回归 1
+高斯模型 1
+inter-frame difference method 1
+the gaussian mixture model 1
+the moving object detection algorithm 1
+帧间差分法 1
+boltzmann selection mechanism 1
+boltzmann选择策略 1
+cuckoo search algorithm 1
+discretization 1
+布谷鸟搜索算法 1
+离散化 1
+lane detection 1
+obstacle detection 1
+path tracking control 1
+speed tracking control 1
+路径跟踪控制 1
+车道线检测 1
+速度跟踪控制 1
+障碍物检测 1
+cv 1
+fer 1
+business data analysis 1
+multi database environment 1
+商业数据分析 1
+多数据库环境 1
+遥感图像 1
+geometric part-based model 1
+outline continuity 1
+pose concistency 1
+radial-gradient angle 1
+remote sensing image 1
+weight matrix 1
+几何部件模型 1
+姿态一致性 1
+径向梯度角 1
+权值矩阵 1
+轮廓连续性 1
+low-rank 1
+mesh simplification 1
+superpixels 1
+video denoising 1
+低秩性 1
+视频去噪 1
+网格简化 1
+超像素 1
+machine translation 1
+neural net-works 1
+syntax parsing 1
+句法分析 1
+机器翻译 1
+1)model 1
+1)模型 1
+gm(1 1
+photoplethysmography 1
+pulse pressure difference measurement model 1
+pulse wave translation time 1
+光电容积脉搏波 1
+脉压差测量模型 1
+脉搏波传导时间 1
+二值化 1
+binarization 1
+deconvolution 1
+dropout 1
+upsampling 1
+升频 1
+池化 1
+ab- normal activity detection 1
+human activity prediction 1
+semi-markov model 1
+sensors dispatching 1
+sensors fusion 1
+传感器融合 1
+传感器调度 1
+半马尔科夫模型 1
+异常活动识别 1
+用户活动识别 1
+用户活动预测 1
+data center 1
+数据中心 1
+ryu controller 1
+ryu控制器 1
+chronic diseases 1
+item constraints 1
+pre-pruning 1
+事先剪枝 1
+慢性病 1
+项目约束 1
+automation 1
+batch deployment 1
+批量部署 1
+amplitude-frequency characteristic 1
+frequency conversion 1
+rc active filter 1
+rc有源滤波器 1
+system stability 1
+幅频特性 1
+系统稳定性 1
+频率变换 1
+qa 1
+自动问答 1
+domain specific 1
+rde sparql 1
+rdf 1
+semantic web 1
+sparql 1
+traditional chinese medicine 1
+中草药 1
+受限领域 1
+语义网 1
+network resource management 1
+virtual network 1
+网络资源管理 1
+虚拟网络 1
+字符分割 1
+车牌定位 1
+characters recognition 1
+characters segmentation 1
+license plate location 1
+plate correction 1
+模糊图像恢复 1
+车牌校正 1
+distributed dataflow system 1
+matrix computation 1
+parallel algorithms 1
+并行化算法 1
+矩阵运算 1
+lda模型 1
+lda model 1
+keyword extraction 1
+specific area keyword extraction 1
+领域词汇 1
+convolutional neural network(cnn) 1
+long short-term memory(lstm) 1
+memory and prediction 1
+记忆预测 1
+长短时记忆模型 1
+cluster densitybackbone 1
+environmental pollution sampling data 1
+graph clustering 1
+k nearest neighbors 1
+k最近邻 1
+图聚类 1
+环境污染抽样数据 1
+簇的密度主干 1
+game 1
+博弈 1
+agent 1
+evacuation 1
+monte carlo 1
+人群疏散 1
+蒙特卡洛 1
+自动化测试 1
+automated tesing 1
+coverage criteria 1
+model checking 1
+model-based testing 1
+symbolic  exercution 1
+test generation 1
+基于模型的测试 1
+模型检查 1
+测试用例生成 1
+符号执行 1
+覆盖准则 1
+可扩展性 1
+clustering technique 1
+data sparsity 1
+scalability 1
+聚类技术 1
+权重计算 1
+weight calculation 1
+multi-task learning 1
+多任务学习 1
+chinese name entity recognition 1
+hybrid model 1
+word vec-tor 1
+混合模型 1
+sample selection 1
+样本选择 1
+glove 1
+shallow learning 1
+浅层学习 1
+collaborative topic regression 1
+restricted boltzmann machines 1
+stacked denoising autoencoder 1
+协同主题回归 1
+受限波尔兹曼机 1
+栈式降噪自编码 1
+三维点云 1
+3d point cloud 1
+local features 1
+noise 1
+object recognition 1
+point density variation 1
+噪声 1
+点云密度变化 1
+目标跟踪 1
+visual object tracking 1
+贝叶斯网络 1
+(mdl) causality 1
+bayesian network 1
+minimum description length 1
+最小描述长度 1
+因果关系 1
+distante 1
+initial center 1
+初始中心 1
+距离 1
+learning to rank 1
+排序学习 1
+social networks 1
+lag 1
+pm2.5 1
+web spiders 1
+滞后性 1
+网页爬虫 1
+collaborative filtering algorithms 1
+recommender algorithms 1
+cpso 1
+gabor filters 1
+multi-feature extraction 1
+多特征提取 1
+混沌粒子群算法 1
+chaos particle swarm chicken swarm fusion optimization 1
+chicken swarm optimization 1
+cloud computing task scheduling 1
+云计算任务调度 1
+混沌粒子群鸡群融合优化算法 1
+鸡群优化算法 1
+attribute selection 1
+infertility diagnosis of tcm 1
+structure extension 1
+weighting coefficient 1
+不孕症中医诊断 1
+加权系数 1
+属性选择 1
+结构扩展 1
+degree of uniformity 1
+multi objective optimization 1
+均匀度 1
+cnc equipment communication 1
+cnc information acquisition 1
+dde protocol 1
+dde协议 1
+opc technology 1
+opc技术 1
+数控信息采集 1
+数控设备通讯 1
+k-dimensional tree 1
+k-dimensional树 1
+valley 1
+波谷 1
+head pose estimation 1
+human action classification 1
+regression model 1
+人体行为分类 1
+回归模型 1
+头部姿态估计 1
+target recognition and tracking 1
+the cognitive mechanism 1
+the internal model 1
+内部模型 1
+目标识别与跟踪 1
+认知机制 1
+action detection 1
+inverted index tables 1
+spatial temporal features 1
+倒排索引表 1
+时空特征 1
+行为检测 1
+traffic congestion prediction 1
+不平衡分类 1
+交通拥堵预测 1
+超限学习机 1
+computational intelligence 1
+echo state network 1
+time series prediction 1
+回声状态网络 1
+计算智能 1
+soa middleware 1
+soa中间件 1
+stream computing 1
+the internet of things(iot) 1
+实时流计算 1
+5w1h 1
+microblog event extraction 1
+product reviews 1
+sentiment word enlargement 1
+short texts 1
+商品评论 1
+微博事件抽取 1
+情感词扩充 1
+anatomy structure analysis 1
+finger vein recognition 1
+region of interest extraction 1
+soft biometrics 1
+感兴趣区域提取 1
+手指静脉识别 1
+解剖学结构分析 1
+软特征 1
+acceleration/deceleration control 1
+s acceleration/deceleration control 1
+smooth transition 1
+s型曲线加减速控制 1
+the arc transition 1
+加减速控制 1
+圆弧过渡 1
+平滑转接 1
+character detection 1
+natural scenes 1
+字符定位 1
+自然场景 1
+exploration and exploitation 1
+unknown environment 1
+探索利用 1
+未知环境 1
+caffe 1
+sample discarder 1
+sample reorganization 1
+siamese neural network 1
+siamese网络 1
+样本丢弃 1
+样本重组 1
+分布式计算 1
+distributed computing 1
+community 1
+louvain algorithm 1
+louvain算法 1
+社区 1
+chemical defense 1
+htc vive 1
+simulation training 1
+模拟训练 1
+防化 1
+视觉显著性 1
+feature combine 1
+multi-modal 1
+visual saliency 1
+动作识别 1
+多模态信息 1
+canopy 1
+kmeans 1
+o2o 1
+parking guidance 1
+停车引导 1
+智能停车 1
+flight control system 1
+six-degree of freedom simulation model 1
+small unmanned aerial vehicle(suav) 1
+六自由度模型 1
+小型无人机 1
+飞行控制系统 1
+lte wireless network 1
+lte移动网络 1
+measurement report 1
+mr 1
+terminal positioning 1
+测量报告 1
+终端定位 1
+覆盖 1
+双目立体视觉 1
+binocular stereo vision 1
+corner detection 1
+depth extraction 1
+depth information enhancement 1
+feature matching 1
+深度信息增强 1
+深度提取 1
+特征匹配 1
+角点识别 1
+3d重建 1
+oblique photography 1
+simplified 1
+倾斜摄影 1
+精简 1
+mixed model 1
+music gene 1
+混合模式 1
+音乐基因 1
+extended dom tree 1
+importance of node 1
+web information extraction 1
+web信息提取 1
+扩展dom树 1
+节点重要度 1
+weibo comment 1
+微博评论 1
+问题分类 1
+internet healthcare 1
+medical guidance 1
+medical qas 1
+互联网医疗 1
+医疗导诊 1
+医疗问答 1
+colon histology 1
+encoder-decoder 1
+gland segmentation 1
+结肠病理图像 1
+编解码 1
+腺体分割 1
+chain update 1
+integers 1
+master-slave synchronization 1
+主从同步 1
+整数集合 1
+连锁更新 1
+retinal image 1
+视网膜图像 1
+cc2530 1
+low power consumption 1
+3d object recognition 1
+global feature 1
+graph matching 1
+point cloud library 1
+三维物体识别 1
+全局特征 1
+图匹配 1
+点云库 1
+动态 1
+作业调度 1
+advanced planning and scheduling 1
+dynamic 1
+flexible 1
+job shop 1
+柔性 1
+高级计划排程 1
+社会化媒体 1
+point-of-interest recommendation 1
+兴趣点推荐 1
+fractional calculus 1
+mobile robots 1
+visibility graph 1
+分数阶微积分 1
+可视图 1
+同时定位与地图创建 1
+视频编码 1
+arithmetic coding 1
+context modeling 1
+entropy coding 1
+throughput 1
+video coding 1
+上下文建模 1
+吞吐率 1
+熵编码 1
+算术编码 1
+indoor scene understanding 1
+rgb-d reconstruction 1
+rgb-d semantic segmentation 1
+rgb-d场景重建 1
+rgb-d语义分割 1
+semantic map- ping 1
+service robotics 1
+室内场景理解 1
+语义地图 1
+adaptive kalman filter 1
+evolutionary model 1
+fingerprint matching 1
+multidimen-sional scaling 1
+多维定标 1
+指纹匹配 1
+演化模型 1
+自适应卡尔曼滤波器 1
+accurate web information extraction 1
+data field 1
+data record 1
+navigation 1
+数据记录 1
+数据项 1
+浏览导航 1
+精确web信息抽取 1
+reverse engineering 1
+逆向工程 1
+digital forensics 1
+malware detection 1
+mobile forensics 1
+恶意程序检测 1
+数字取证 1
+移动设备取证 1
+content association 1
+hierarchical classification 1
+内容关联 1
+层次分类 1
+breast cancer 1
+intelligent diagnosis 1
+乳腺癌 1
+智能诊断 1
+distributed data storage and management 1
+gradient boosting decision tree 1
+linear model 1
+panorama persona 1
+全景用户画像 1
+分布式数据存储与管理 1
+线性模型 1
+迭代决策树 1
+chinese words 1
+emotion feature 1
+short text similarity 1
+vector 1
+中文词语 1
+向量 1
+fuzzy comprehensive evaluation 1
+fuzzy evaluation matrix 1
+模糊综合评价 1
+模糊评价矩阵 1
+绩效评价 1
+computational cognitive neuroscience 1
+stacked autoencoders 1
+堆叠自动编码器 1
+自动编码器 1
+认知计算 1
+deep deterministic policy gradient 1
+deep q-network 1
+deep reinforcement learning 1
+深度q网络 1
+深度强化学习 1
+深度确定性策略梯度 1
+data visualize 1
+geohash 1
+heatmap 1
+lbs 1
+poi 1
+real-time anticipation 1
+trajectory computing 1
+实时预测 1
+轨迹计算 1
+查询优化 1
+cost model 1
+query optimization 1
+代价模型 1
+频繁模式 1
+frequent patterns 1
+perceptual improtant point 1
+time series compression 1
+感知重要点 1
+时间序列压缩 1
+data association 1
+数据关联 1
+connection degree 1
+multi-source data fusion 1
+pda algorithm 1
+pda算法 1
+set pair analysis 1
+多源数据融合 1
+联系度 1
+集对分析 1
+surf algorithm 1
+surf算法 1
+weights 1
+c4.5 1
+hadoop2.0 1
+coal mine safety 1
+gas early-warning 1
+multi-sensor data fusion 1
+多传感器数据融合 1
+煤矿安全 1
+瓦斯预警 1
+gauss process regression 1
+location fingerprint 1
+pdr 1
+wifi 1
+位置指纹 1
+高斯过程回归 1
+remote sensing visualization 1
+遥感影像可视化 1
+mahout 1
+data minding 1
+association rule algorithm 1
+enrollment information 1
+关联规则算法 1
+招生信息 1
+medical data 1
+medical diagnose aided system 1
+医疗辅助诊断 1
+multiple linear regression 1
+orientation classification 1
+public opinion 1
+倾向性分类 1
+多元线性回归 1
+舆情分析 1
+卡尔曼滤波器 1
+crowd counting 1
+kalman filter 1
+人数统计 1
+dependence reducing 1
+electronic commerce 1
+question of diversity 1
+依赖缩减 1
+问句多样性 1
+问答系统 1
+学习理论 1
+learning theory 1
+lie group 1
+manifold 1
+medical image registration 1
+nonlinear data structure 1
+医学图像配准 1
+李群 1
+流形 1
+非线性数据结构 1
+consumption intention mining 1
+market trends prediction 1
+movie box-office revenues prediction 1
+open event extraction 1
+stock price movement prediction 1
+市场行情预测 1
+开放式事件抽取 1
+消费意图挖掘 1
+电影票房预测 1
+社会媒体 1
+股市涨跌预测 1
+automotive driver assistance systems 1
+far-infrared pedestrian detection 1
+head detection 1
+histogram of oriented gradients 1
+pedestrian feature extraction 1
+pedestrian segmentation 1
+scene contextual information 1
+场景上下文信息 1
+头部检测 1
+梯度朝向直方图 1
+汽车驾驶辅助系统 1
+行人分割 1
+行人特征提取 1
+远红外行人检测 1
+classification problem.b 1
+large scale 1
+loss function 1
+sparse learning 1
+最优化 1
+分类问题 1
+大规模 1
+损失函数 1
+稀疏学习 1
+human-robot interaction 1
+meta-language 1
+semantic parsing 1
+task understanding and planning 1
+任务理解和规划 1
+元语言框架 1
+语义解析 1
+concept drift 1
+data stream mining 1
+online learn-ing 1
+在线学习 1
+数据流挖掘 1
+概念漂移 1
+cloud services 1
+hyperledger fabric 1
+云服务化 1
+distributed platform 1
+health management 1
+健康管理 1
+分布式平台 1
+可重构 1
+redundancy 1
+冗余度 1
+相关度 1
+point cloud segmentation 1
+point feature histogram 1
+region growing 1
+supervoxel 1
+点云分割 1
+点特征直方图 1
+超体素 1
+dbscan 1
+mobile signaling data 1
+resident travel behavior 1
+traffic area 1
+交通小区 1
+居民出行行为 1
+移动信令数据 1
+conditional privacy protection 1
+location privacy 1
+secure authentication 1
+trajectory confusion 1
+vehicular ad hoc network(vanet) 1
+位置隐私 1
+安全认证 1
+条件隐私保护 1
+轨迹混淆 1
+in-car environment 1
+speech recognition 1
+voice activity detection 1
+weighted power spectrum 1
+加权功率谱 1
+语音端点检测 1
+语音识别 1
+车载环境 1
+adaptive step strategy 1
+directed strategy 1
+glowworm swarm optimization 1
+parameter tuning 1
+pid controller 1
+pid控制器 1
+参数整定 1
+导向策略 1
+自适应步长 1
+hmm 1
+chinese organization name 1
+named entity recognition(ner) 1
+natural language processing(nlp) 1
+svm model 1
+中文机构名称 1
+texture feature 1
+video based smoke detection 1
+视频烟雾检测 1
+纹理特征 1
+ahrs 1
+mems 1
+mpu6050 1
+muav 1
+微小型无人机 1
+航姿参考系统 1
+cooperative vehicle infrastructure technology 1
+error compensation 1
+rear end collision warning 1
+safety distance model 1
+安全距离 1
+误差补偿 1
+车路协同 1
+追尾预警 1
+directional white run-length 1
+native development kit 1
+optical character recognition 1
+text image 1
+光学字符识别 1
+原生开发工具集 1
+文本图像 1
+方向白游程 1
+灰度共生矩阵 1
+gray level co-occurrence matrix 1
+ws-glcm 1
+融合 1
+canny operator 1
+canny算子 1
+fusions 1
+morphology 1
+形态学 1
+cluster 1
+mahalanobis distance 1
+stream data 1
+流数据 1
+马氏距离 1
+execution time prediction 1
+resource allocation optimization 1
+执行时间预测 1
+资源分配优化 1
+ceilometer 1
+cloud resource monitoring 1
+influxdb 1
+time series database 1
+云资源监控 1
+时间序列数据库 1
+error correction algorithm 1
+lm algorithm 1
+lm算法 1
+误差校正算法 1
+denoising 1
+segmentation 1
+fault detection 1
+infrared image 1
+substation 1
+分割 1
+去噪 1
+变电站 1
+故障检测 1
+红外图像 1
+android platform 1
+安卓平台 1
+3d registration technology 1
+keyword extraction technology 1
+三维注册技术 1
+关键词提取技术 1
+constant game 1
+constrained space 1
+gradient 1
+localization 1
+strategy of perception 1
+受限空间 1
+感知规则 1
+梯度 1
+generalization object factory 1
+heterogeneous protocol middleware 1
+iot gateway 1
+thread pool 1
+异构协议中间件 1
+泛化对象工厂 1
+物联网网关 1
+线程池 1
+paas 1
+cloud foundry 1
+deployment 1
+监控 1
+部署 1
+compressed sensing 1
+image de-noising 1
+reconstruction algorithm 1
+samp 1
+total variation algorithm 1
+全变分算法 1
+稀疏自适应匹配追踪算法 1
+重构算法 1
+层次分析法 1
+analytic hierarchy process 1
+information security risk assessment 1
+principal component analysis neural networks 1
+主元神经网络 1
+信息安全风险评估 1
+性能 1
+performance 1
+database cluster 1
+数据库集群 1
+网络地理信息系统 1
+text sentiment analysis 1
+文本情感分析 1
+adaboost classifier 1
+adaboost分类器 1
+lbp 1
+the vehicle detection 1
+显著性 1
+social recommendation 1
+社交关系网络 1
+社会化推荐 1
+医学图像 1
+fusion scheme 1
+intermal generative mechanism 1
+medical image 1
+objective evaluation 1
+thresholding segmentation 1
+内部生成机制 1
+客观评价 1
+融合策略 1
+straight line detection 1
+synthetic aperture radar 1
+unbiased localization 1
+合成孔径雷达图像 1
+定位无偏 1
+直线检测 1
+task classification 1
+entropy optimization 1
+resource evaluation 1
+任务分类 1
+熵优化 1
+能耗 1
+资源评估 1
+opinion mining 1
+观点挖掘 1
+logic programming 1
+opinion target recommendation 1
+rule selection 1
+规则选择 1
+评价对象推荐 1
+逻辑编程 1
+large-grained service flow combination 1
+microservice architecture 1
+microservice system reliability 1
+microservice vector reliability model 1
+multi-community system reliability 1
+probability model checking 1
+reliability analysis 1
+可靠性分析 1
+多实例微服务系统可靠性 1
+多社区微服务系统可靠性模型 1
+大粒度服务流程组合 1
+微服务向量可靠性模型 1
+概率模型检验 1
+exact method 1
+heuristic method 1
+the classical minimum set covering problem 1
+the maximum set k-covering problem 1
+the minimal set covering problem 1
+the minimum weight set covering problem 1
+最大集合k覆盖问题 1
+最小加权集合覆盖问题 1
+启发式方法 1
+极小集合覆盖问题 1
+精确方法 1
+经典最小集合覆盖问题 1
+error correction 1
+historical mongolian document 1
+holistic recognition 1
+knowledge-based strat- egy 1
+segmenta- tion-based recognition 1
+基于切分的单词识别 1
+整词识别 1
+知识策略 1
+蒙古文古籍 1
+错误校正 1
+ddos attack defense 1
+ddos attacks 1
+ddos攻击 1
+ddos攻击防御 1
+聚类中心 1
+cluster center 1
+trust 1
+信任度 1
+deep le-arning 1
+medicinal plant image 1
+微差图像 1
+药用植物 1
+metric learning 1
+person re-identification 1
+similarity match 1
+度量学习 1
+行人重识别 1
+model 1
+k-means feature selection 1
+k-means特征选择 1
+mooc 1
+慕课 1
+brain motor imagery recognition 1
+multi-granularity feature fusion 1
+speeh emotion recognition 1
+多粒度特征融合 1
+脑运动想象识别 1
+语音情感识别 1
+chinese personal relation extraction 1
+中文人物关系抽取 1
+documents recognition 1
+证件识别 1
+full text retrieval 1
+hmm模型 1
+resource library 1
+全文检索 1
+资源库 1
+数据稀疏 1
+item category 1
+service attributes 1
+sparse data 1
+服务属性 1
+项目类别 1
+image compression 1
+jpeg 1
+图像压缩 1
+congestion control 1
+d-erudp 1
+efficiency 1
+udp 1
+拥塞控制 1
+高效性 1
+grammatical analysis 1
+hierarchical threaten 1
+lexical analysis 1
+sql injection 1
+sql注入 1
+威胁分级 1
+词法分析 1
+语法分析 1
+inversion model 1
+multispectral imaging 1
+nitrogen 1
+rice canopy 1
+spad 1
+反演模型 1
+多光谱成像 1
+氮素 1
+水稻冠层 1
+application im plementations 1
+native operating system 1
+software industry chain 1
+国产操作系统 1
+软件产业链 1
+软件部署 1
+新浪微博 1
+sina weibo 1
+state grid 1
+国家电网 1
+boundary sample 1
+clustering by fast search and find of density peaks 1
+initial clustering 1
+快速密度峰值搜索算法 1
+边界样本 1
+air quality prediction 1
+dynamic weight update 1
+integration correction 1
+multi-mode 1
+numerical prediction 1
+动态权重更新 1
+多模式 1
+数值预报 1
+空气质量预测 1
+集成修正 1
+frequent closed item sets 1
+micro-blogging short text 1
+subject mining 1
+word of co-occurrence 1
+主题挖掘 1
+词对共现 1
+频繁闭项集 1
+association 1
+manufacturing big data 1
+object deputy model 1
+storage optimization 1
+关联关系 1
+制造业大数据 1
+存储优化 1
+对象代理模型 1
+batch normalization 1
+complex illumination conditions 1
+data augmentation 1
+复杂光照条件 1
+批规范化技术 1
+数据增强 1
+distributed web crawler 1
+url filter 1
+url去重 1
+分布式网络爬虫 1
+标签 1
+item similarity learning 1
+label 1
+项目相似度学习 1
+flowtable 1
+multi-path 1
+多路径 1
+流表 1
+electronic health records 1
+指纹定位 1
+channel state information 1
+fingerprint positioning 1
+wireless wi-fi 1
+无线wi-fi 1
+flood tracking model 1
+layered particle filter 1
+people detection and tracking 1
+service robot 1
+分层粒子滤波 1
+洪泛滥跟踪模型 1
+行人检测与跟踪 1
+url pattern 1
+url模式 1
+web mining 1
+web page classification 1
+web挖掘 1
+网页分类 1
+attack detection 1
+attack prevention 1
+distributed denial of service attack 1
+multidimensional conditional entropy 1
+分布式拒绝服务攻击 1
+多维调件熵 1
+攻击检测 1
+攻击防护 1
+indoor navigation 1
+rssi 1
+室内导航 1
+convolutional coding 1
+卷积编码 1
+facial feature extraction 1
+facial feature matching 1
+step-matching algorithm 1
+人脸特征匹配 1
+人脸特征提取 1
+分步特征匹配算法 1
+网络爬虫 1
+web crawler 1
+sentiment intensity prediction 1
+情感强度预测 1
+color difference detection 1
+color difference formula 1
+similarity measurement 1
+色差公式 1
+色差检测 1
+data detection 1
+重复数据检测 1
+distributed vector slicing 1
+vector map 1
+vector tile 1
+分布式矢量切片 1
+矢量地图 1
+矢量瓦片 1
+cart 1
+constraint dominance 1
+pareto dominance 1
+pareto支配 1
+约束支配 1
+knowledge point 1
+learning path graph 1
+习题分类 1
+学习路径图 1
+知识点 1
+experience threshold 1
+fake plate vehicles 1
+svm经验阈值 1
+vehicle face 1
+vehicle recognition 1
+vehicle retrieval 1
+套牌车 1
+车型识别 1
+车脸 1
+车辆检索 1
+log data system 1
+real time computing 1
+实时计算 1
+日志系统 1
+特征抽取 1
+d-s evidence theory 1
+credible recommendation 1
+credit score 1
+信用评分 1
+可信推荐 1
+classification and clustering algorithm 1
+分类聚类算法 1
+control systems 1
+motion planning 1
+omni-directional wheeled mobile robot 1
+positioning 1
+tracking 1
+全方位移动机器人 1
+控制系统 1
+轨迹跟踪 1
+运动规划 1
+canvas 1
+e-commerce 1
+spring mvc 1
+数据可视化技术 1
+自适应 1
+support vector data description 1
+支持向量数据描述 1
+pmsm 1
+svpwm 1
+vector control 1
+永磁同步电机 1
+矢量控制 1
+空间电压矢量脉宽调制 1
+heritrix crawler 1
+heritrix爬虫 1
+lucene index 1
+lucene索引 1
+vertical search engine 1
+垂直搜索引擎 1
+alns 1
+crowdsourced logistics 1
+dvrp 1
+grasp 1
+hs 1
+mbo 1
+metaheuristic 1
+众包物流 1
+动态车辆路径问题 1
+启发式算法 1
+和声搜索算法 1
+帝王蝶优化算法 1
+自适应大邻域搜索算法 1
+贪婪随机自适应搜索算法 1
+instance selection 1
+large/small dataset 1
+大/小样本 1
+实例选择 1
+cross-layer optimation 1
+medium access control 1
+multi-channel 1
+route discovery 1
+介质访问控制协议 1
+多信道通信 1
+跨层优化 1
+路由发现 1
+confidence network 1
+facial expression recognition 1
+recurrent network 1
+residual network 1
+循环网络 1
+残差网络 1
+置信网络 1
+anonymous network 1
+anonymous network traffic identification 1
+network fingerprinting 1
+network traceback 1
+匿名网络 1
+匿名网络流量识别 1
+网站指纹 1
+网络追踪溯源 1
+hough voting 1
+mixture of experts 1
+混合专家 1
+霍夫投票 1
+general laplacian model 1
+image quality assessment 1
+perceptual grouping 1
+合并策略 1
+广义拉普拉斯模型 1
+感知分组 1
+drug drug interaction extraction 1
+protein-protein interaction extraction 1
+药物关系抽取 1
+蛋白质关系抽取 1
+词表示 1
+cluster performance 1
+efficiency model 1
+in-memory computing 1
+resource configuration 1
+shuffle optimization 1
+shuffle优化 1
+内存计算 1
+效率模型 1
+资源配置 1
+集群性能 1
+color space 1
+entropy 1
+gaussian scale space 1
+image local feature extraction 1
+image local image feature description 1
+maximum entropy estimation 1
+scale invariant feature 1
+最大熵估计 1
+图像局部特征描述 1
+图像局部特征提取 1
+尺度不变特征 1
+显著性分割 1
+熵 1
+颜色空间 1
+高斯尺度空间 1
+analysis pipeline 1
+differential expression analysis 1
+expression level estimation 1
+gene expression analysis 1
+rna-seq technology 1
+rna-seq技术 1
+分析通道 1
+基因表达水平分析 1
+差异表达分析 1
+表达水平估计 1
+vehicle routing problem 1
+车辆路径问题 1
+ant colony optimization algorithm 1
+grey model 1
+max-min ant system 1
+the ant-genetic fusion strategy 1
+the climbing hill strategy with sidesteps 1
+侧步爬山策略 1
+最大最小蚂蚁系统 1
+灰色模型 1
+蚂蚁遗传融合策略 1
+mpi 1
+openmp 1
+3d density inversion 1
+full tensor gravity gradiometry(ftg) 1
+hybrid programming 1
+三维密度反演 1
+混合编程 1
+重力全张量梯度数据(ftg) 1
+energy-orientation feature 1
+histogram transform 1
+local texture analysis 1
+multimodal biometric 1
+区域纹理分析 1
+多模态生物特征识别 1
+直方图变换 1
+能量方向特征 1
+network security situation 1
+网络安全态势 1
+安全评估 1
+belief rule base 1
+evidential reasoning rule 1
+hidden behavior prediction 1
+security assessment 1
+置信规则库 1
+证据推理规则 1
+隐含行为预测 1
+冷启动问题 1
+数据稀疏问题 1
+data sparsity problem 1
+gabor wavelet transform 1
+gabor小波变换 1
+convolutional filter 1
+initialization 1
+初始化 1
+卷积核 1
+小波神经网络 1
+灰色关联分析 1
+grey correlation analysis 1
+mind evolutionary algorithm 1
+photovoltaic power prediction 1
+similar day 1
+wavelet neural network 1
+光伏功率预测 1
+相似日 1
+intelligent greenhouses 1
+opc ua 1
+plc 1
+real time monitoring 1
+实时监控 1
+智能大棚 1
+特征 1
+long and short term memory 1
+multi-instance and multi-label 1
+slot filling 1
+多实例多标签 1
+长短期记忆网络 1
+fast depth recovery 1
+monocular 1
+单目 1
+快速深度恢复 1
+信息推荐 1
+entity disambiguation 1
+graphical model 1
+information recommendation 1
+实体消歧 1
+robustness 1
+鲁棒性 1
+图像匹配 1
+image matching 1
+binary feature descriptors 1
+delaunay triangulation 1
+delaunay三角剖分 1
+二进制特征描述子 1
+class-imbalance learning 1
+cost-sensitive learning 1
+代价敏感分类 1
+类别不平衡分类 1
+prunning method 1
+regular-ization 1
+剪枝法 1
+forest fire 1
+image identification 1
+motion detection 1
+森林火灾 1
+运动检测 1
+特征点提取 1
+anthropometric algorithm 1
+circumference fitting 1
+contour extraction 1
+feature point extraction 1
+snake model 1
+主动轮廓模型 1
+人体测量技术 1
+围度拟合 1
+轮廓提取 1
+data consistency 1
+master-slave data synchronization 1
+主从数据同步 1
+数据一致性 1
+driver fatigue detection 1
+driving fatigue 1
+疲劳检测 1
+驾驶疲劳 1
+bi-directional long-short term memory (bi-lstm) 1
+segment-level chinese named entity recognition 1
+双向长短期记忆模型 1
+片段级中文命名实体识别 1
+user behavior 1
+用户行为 1
+recommendation model 1
+session 1
+user portrait 1
+web log 1
+web日志 1
+会话 1
+推荐模型 1
+micro service 1
+servitization 1
+微服务 1
+服务化 1
+轨迹数据挖掘 1
+hot region extraction 1
+land-use classification 1
+taxi 1
+trajectory data mining 1
+trip feature 1
+出租车 1
+出行特征 1
+热门区域发现 1
+社会功能识别 1
+gpgpu 1
+gpu通用计算 1
+unrolling convolution 1
+卷积展开 1
+attractive areas 1
+popular routes 1
+spatiotemporal pattern discovery 1
+taxi trajectory data 1
+出租车轨迹数据 1
+时空移动模式挖掘 1
+热点区域 1
+热点路径 1
+fine-tune 1
+food safety 1
+isodata 1
+食品安全 1
+fuzzy c-mean 1
+students behavior 1
+学生行为 1
+模糊c-均值 1
+3d face 1
+data cleaning 1
+front image synthesis 1
+三维人脸 1
+数据清理 1
+正面图像合成 1
+curve matching 1
+extracting feature size 1
+pieces of bronze 1
+stitching in the threedimensional space 1
+stitching in the two-dimensional plane 1
+三维拼接 1
+二维拼接 1
+曲线匹配 1
+特征尺寸提取 1
+青铜器碎片 1
+point cloud compression 1
+points de-noising 1
+ruled surface fitting 1
+total least squares 1
+整体最小二乘 1
+点云压缩 1
+点云去噪 1
+规则曲面拟合 1
+atmospheric veil optimization 1
+haze removal algorithm 1
+the weight 1
+transmission correction 1
+weighted guided filter 1
+加权引导滤波 1
+图像去雾算法 1
+大气面纱优化 1
+天空 1
+透射率修正 1
+image feature extraction 1
+mfanet 1
+stochastic block-wise histogram 1
+图像特征提取 1
+块级随机直方图化 1
+activemq 1
+communication model 1
+jms 1
+message queue 1
+message shard 1
+消息分区 1
+消息队列 1
+通信模型 1
+traffic sign classification 1
+traffic sign detection 1
+标志牌分类 1
+标志牌检测 1
+boundary feature corner 1
+indoor robots 1
+laser radar 1
+positioning method 1
+室内机器人 1
+激光传感器 1
+自定位 1
+边界特征角点 1
+max-flow optimization 1
+min-cost 1
+resource scheduling management 1
+最小费用最大流 1
+unsupervised learning 1
+无监督学习 1
+deep architecture 1
+feature representation 1
+深度结构 1
+特征表示 1
+atmospheric temperature prediction 1
+shallow neural network 1
+气象温度预测 1
+浅度神经网络 1
+pyramid 1
+quad-tree coding 1
+remote sensing image data 1
+四叉树编码 1
+遥感影像数据 1
+金字塔 1
+bootstrap method 1
+bootstrap方法 1
+interval prediction 1
+photovoltaic power generation 1
+short-term power prediction 1
+光伏发电 1
+区间预测 1
+短期功率预测 1
+元数据管理 1
+consistency problem 1
+metadata management 1
+replica synchronization 1
+一致性问题 1
+副本同步 1
+the word embedding 1
+lda 1
+keyphrases 1
+semantic features 1
+语义特征 1
+lmage classification 1
+low-level feature extraction 1
+multiple classifiers 1
+weighted multi-features fusion 1
+低层特征提取 1
+加权多特征融合 1
+多分类器 1
+data alignment 1
+depth image 1
+fast marching method 1
+joint bilateral filter 1
+markov random field 1
+快速行进法 1
+数据对齐 1
+深度图像 1
+联合双边滤波 1
+马尔科夫随机场模型 1
+external knowledge 1
+medical text processing 1
+医疗领域文本处理 1
+外部知识 1
+storage architecture 1
+storage technology 1
+存储技术 1
+存储架构 1
+emotion tendency identification 1
+ensemble 1
+review spam detection 1
+垃圾评论识别 1
+情感倾向性分析 1
+模型集成 1
+modbus/tcp 1
+deep detection 1
+industrial control systems 1
+protocol isolation 1
+协议隔离 1
+工业控制系统 1
+深度检测 1
+industrial control system 1
+industrial software 1
+programmable logic controller 1
+trust of worthiness 1
+可信度量 1
+可编程逻辑控制器 1
+工业控制 1
+工控软件 1
+intrusion prevention 1
+openflow 1
+traffic data collection 1
+入侵防御 1
+流量采集 1
+数据分析 1
+data analysis 1
+distributed computing framework 1
+drilling engineering 1
+分布式存储系统 1
+分布式计算框架 1
+钻井工程 1
+kalman 1
+multi-feature analysis 1
+single gaussian background modeling 1
+the elderly fall 1
+单高斯背景建模 1
+卡尔曼滤波 1
+多特征分析 1
+老人摔倒 1
+faster r-cnn 1
+vibe algorithm 1
+vibe算法 1
+category feature words 1
+part of speech of the keyword 1
+short text classification 1
+short text similarity value 1
+training set reconstructtion 1
+短文本分类 1
+类别特征词项 1
+训练集重构 1
+词性 1
+pso algorithm 1
+图像配准 1
+image registration 1
+powell algorithm 1
+powell算法 1
+pso算法 1
+the reference image 1
+the sensed image 1
+参考图像 1
+待配准图像 1
+big data marketing 1
+collaborative filtering recommendation algorithm 1
+precision marketing 1
+user portrait label analysis 1
+大数据营销 1
+用户画像标签 1
+精准营销 1
+性能调优 1
+distributed etl 1
+transformation processing 1
+分布式etl 1
+转换处理 1
+eclat algorithm 1
+eclat算法 1
+emu 1
+动车组 1
+adaptive slowdown 1
+kvm 1
+live migration 1
+locality of program 1
+热迁移 1
+程序局部性原理 1
+降低热度 1
+low-rank representation 1
+低秩表示 1
+age estimation 1
+block-diagonal 1
+块对角 1
+年龄估计 1
+qr code localization 1
+qr码定位 1
+aop 1
+apm 1
+应用监控 1
+性能管理 1
+编程框架 1
+嵌入式系统 1
+embedded systems 1
+gigabit ethernet 1
+gige vision 1
+image transmission 1
+tms320c6678 1
+千兆网 1
+图像传输 1
+condition monitoring 1
+network management 1
+snmp 1
+topology discovery 1
+拓扑发现 1
+状态监测 1
+网络管理 1
+hot topic microblog 1
+semantic lexicon 1
+热点事件话题微博 1
+feature space 1
+特征空间 1
+parallel 1
+k nearest neighbor non-parametric regression 1
+k近邻非参数回归 1
+traffic flow forecasting 1
+traffic state recognition 1
+交通状态识别 1
+color retinal image 1
+fovea detection 1
+fundus lesions detection 1
+optic disc localization and segmentation 1
+vessel segmentation 1
+中央凹检测 1
+彩色视网膜图像 1
+眼底病变检测 1
+视盘定位与分割 1
+血管分割 1
+recent popularity 1
+recommender algorithm 1
+relative time 1
+time awareness 1
+时间感知 1
+相对时间 1
+近期流行度 1
+ground penetrating radar 1
+kernel matching pursuit 1
+marginal spectrum 1
+road engineering 1
+roadbed damage 1
+探地雷达 1
+核匹配追踪 1
+边际谱 1
+道路地下病害 1
+道路工程 1
+adjacent constraints 1
+fragments reassembly 1
+shape matching 1
+virtual restoration of cultural relics 1
+形状匹配 1
+文物虚拟复原 1
+碎片拼接 1
+邻接约束 1
+mobile virtual reality 1
+multi-person tracking 1
+real-time rendering 1
+rgb-d camera 1
+rgb-d相机 1
+weak visibility computing 1
+多人跟踪 1
+实时绘制 1
+弱可见性计算 1
+移动虚拟现实 1
+bagging method 1
+bagging算法 1
+biased-svm 1
+evidence theory 1
+证据理论 1
+algebraic graph theory 1
+length of vertex degree sequence 1
+resistance distance 1
+small-world networks characteristic 1
+代数图论 1
+复杂网络模型 1
+小世界特性 1
+度序列长度 1
+电阻距离 1
