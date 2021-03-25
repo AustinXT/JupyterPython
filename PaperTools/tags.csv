@@ -1,0 +1,633 @@
+title,tags
+基于OTSU算法的图像阈值分割技术,Particle Swarm Optimization; 图像分割; 粒子群算法; Chaos method; image segmentation; OTSU; Wolf pack optimization; 混沌法; 狼群优化算法
+基于Nginx的高并发访问服务器的研究与应用,机器学习; 负载均衡; machine learning; high concurrency; 高并发; load balancing; Nginx; independent training node; 独立训练节点
+3D打印分层方向优化与分层算法研究,3D printing; 3D打印; Slicing algorithm; Slicing direction; STL; STL模型; Volume deviation; 体积误差; 分层方向; 分层算法
+基于区块链的档案管理系统的研究与设计,Blockchain; 区块链; RESTful; Digital archives; IPFS; Zabbix; 数字档案
+基于LoRaWan的广域物联网技术研究及实现,物联网; Gateaway node; IoT; LoRa technology; LoRaWan protocol; LoRaWan协议; LoRa技术; 网关节点
+随机森林自适应特征选择和参数优化算法研究,Feature selection; 特征选择; 随机森林; 参数选择; 粒子群; Group Lasso; Group LASSO; Parameter selection; Particle swarm; Random forest
+基于python的Web数据挖掘技术研究与实现,数据挖掘; python; Data mining; 分类算法; classification algorithm; scrapy web crawler; scrapy网络爬虫
+基于Word2Vec的中文短文本聚类算法研究与应用,词向量; 特征权重; 情感分析; Sentiment analysis; Feature weights; RWMD distance; RWMD距离; Word vectors
+基于随机梯度下降的神经网络权重优化算法,神经网络; Neural network; Adaptive mechanism; Gradient variance; Learning rate; Stochastic Gradient Descent; 学习率; 梯度方差; 自适应机制; 随机梯度下降
+基于深度学习的图像分割研究与应用,深度学习; 神经网络; neural network; 图像分割; Deep learning; image segmentation
+深度卷积神经网络在OCR问题中的应用研究,Deep Learning; Character Recognition; 字符识别; Character Segmentation; OCR; OCR深度学习; Text Area Detection; 字符切分; 文字区域检测
+基于web前端的性能优化框架模型研究,Node.js; Component-based development; Separation; Vue; 前后端分离; 组件化开发
+自动化仓储调度系统中多AGV路径规划的研究与实现,避障; 优先级队列; Automated Guided Vehicle; Deadlock; Obstacle Avoidance; Priority Queue; Time window of nodes; 死锁; 自动导引车; 节点时间窗
+深度学习下细粒度级别图像的视觉分析研究,深度学习; convolutional neural networks; deep learning; 卷积神经网络; 图像识别; image recognition; 图像检索; few-shot learning; fine-grained images; image retrieval; 少量样本学习; 细粒度级别图像
+基于局部中心量度的聚类算法研究,CLA clustering algorithm; CLA聚类算法; Density-based clustering algorithm; LCM clustering algorithm; LCM聚类算法; LGC clustering algorithm; LGC聚类算法; Local centrality measure; Local gravitation model; 密度聚类算法; 局部中心量度; 局部引力模型
+基于YOLO的目标检测算法设计与实现,卷积神经网络; Convolutional Neural Network; 目标检测; Object Detection; Dynamic Threshold; YOLO; 动态阈值
+基于LSTM和投资者情绪的股票行情预测研究,卷积神经网络; LSTM; CNN; 时间序列; Emotional Features; Stock Price Prediction; Time Series; 情感特征; 股价预测; 长短期记忆模型
+朴素贝叶斯算法的改进与应用,Android; 朴素贝叶斯; Na(?)ve Bayes; Phishing Website; Supervised Learning; 安卓; 监督学习; 钓鱼网站
+基于进化算法的复杂多目标优化问题求解,特征选择; feature selection; Evolutionary multi-objective optimization; large-scale multi-objective optimization problem; many-objective optimization problem; Pareto front; Pareto前沿面; 大规模多目标优化问题; 进化多目标优化; 高维多目标优化问题
+基于区块链的智能合约研究与实现,区块链; PBFT; 隐私保护; blockchain; 智能合约; partially blind signature; privacy preserving; smart contracts; 部分盲签名
+神经网络及其组合模型在时间序列预测中的研究与应用,人工神经网络; 数据预处理; Artificial neural network; Combination forecasting model; Data pre-processing; Metaheuristic optimization algorithm; Time series forecasting; 元启发式优化算法; 时间序列预测; 组合预测模型
+基于卷积神经网络的小麦叶部病害图像识别研究,卷积神经网络; 特征提取; 图像识别; Convolutional Neural Networks; Feature Extraction; Image Recognition; Wheat Leaf Disease; 小麦叶部病害
+基于机器学习的中文文本分类算法的研究与实现,贝叶斯; 卷积神经网络; Feature extraction; 文本分类; Convolutional neural network; Bayes; Classification system; Texts classification; 新闻分类系统; 特征词提取
+多源异构数据融合关键技术研究及其应用,数据预处理; D-S证据理论; 数据融合; Basic Probability Assignment Function; Data Fusion; Data Preprocession; Dempster-Shafer Evidence Theory; FCM; 基本概率分配函数
+基于深度模型的脱机手写体汉字识别研究,深度学习; 卷积神经网络; Convolutional Neural Network; Deep Learning; Recurrent Neural Network; 递归神经网络; Offline Handwritten Chinese Character Recognition; 脱机手写体汉字识别
+基于深度学习和双目视觉的工业机器人抓取方法研究,人工智能; 深层神经网络; 工业机器人; 轨迹规划; 双目视觉; Artificial intellegence; Binocular vision; Deep neural network; grasping detection; Industrial robot; Trajectory planning; 抓取检测
+基于Redis分布式存储的负载平衡及性能优化研究,load balance; distributed storage; 分布式存储; 负载平衡; group of balance strategy; the cached map-group strategy; 子集群策略; 缓存分组策略
+基于注意力机制和改进型RNN的Web文本情感分析研究,sentiment analysis; 情感分析; RNN; CNN; attention mechanism; Web text; Web文本; 注意力机制
+基于word2vec和卷积神经网络的文本分类研究,卷积神经网络; 文本分类; 文本表示; text classification; convolutional neural network; text representation; word2vec
+基于知识图谱的农业知识服务系统研究,知识图谱; Agriculture Disease and pest; Agriculture Knowledge Service; Entity Linking; Knowledge Graph; Knowledge Question-Answering; 农业病虫害; 农业知识服务; 实体链接; 知识问答
+基于神经网络的电影票房预测模型研究与实现,遗传算法; BP神经网络; Genetic Algorithm; BP Neural Network; Box Office Prediction; 票房预测
+高精度GPS定位方法及其在无人机定位系统中应用的研究,GPS; Kalman滤波; UAV; carrier phase; integer ambiguity; Kalman filtering; LAMBDA; 整周模糊度; 载波相位
+基于随机森林的不平衡大数据分类算法研究,随机森林; class discrimination degree; cost-sensitive; imbalanced big data; random forest; 不平衡大数据; 代价敏感; 类区分度
+网络流量异常检测技术研究与实现,主成分分析; 异常检测; 预测模型; anomaly detection; network traffic; one-class classifier; prediction model; principle component analysis; 一分类器; 网络流量
+基于深度学习的目标检测算法研究,深度学习; Deep Learning; 目标检测; Object Detection; Convolutional Network; 卷积网络
+基于Redis的分布式Key-Value系统的优化研究,Redis; Optimization; 优化; 分布式; Distributed; Key-Value
+基于车载摄像机的前方车辆测距测速方法研究,单目视觉; Distance measurement; Hough Forest; Hough森林; Monocular vision; Vehicle camera calibration; velocity measurement; 测距; 测速; 车载摄像机标定
+基于特征选择的文本分类方法研究,机器学习; 文本分类; text classification; sentiment analysis; machine learning; sentiment classification; 情感分类; bi-double direction user interest sets; key feature selection; Text mining; 关键特征选择; 双向用户兴趣集
+基于深度神经网络的肿瘤图像分析与处理,Semantic Segmentation; 特征提取; 目标检测; 深度卷积神经网络; Target Detection; Feature Extraction; CAD System; CAD系统; CT Image; CT图像; Deep Convolutional Neural Networks; MR Image; MR图像; Unbalanced Distribution; 分布不均衡; 语义分割
+基于多样化内容数据的个性化推荐系统,深度学习; deep learning; collaborative filtering; 协同过滤; 推荐系统; Recommender systems; cross domain recommendation; heterogeneous information; news recommendation; 多样化内容; 新闻推荐; 跨域推荐
+基于区块链的数据访问控制方法及应用研究,区块链; 访问控制; Access Control; Block chain; Hyperledger; 超级账本
+基于分词频的特征选择算法在文本分类中的研究,Feature selection; 特征选择; 文本分类; Class frequency; Document frequency; Segmented term frequency; Text categorization; 分词频; 文档频率; 类别频率
+基于改进MPC的无人车轨迹快速跟踪算法研究与实现,Autonomous Vehicle; Lateral Stability; Model Predict Control; Phase Plane; Side Slip Angle; 侧偏角; 无人驾驶汽车; 模型预测控制; 横向稳定; 相平面
+基于移动边缘计算的任务卸载策略研究,博弈论; flow shop scheduling; game theory; Mobile edge computing; task offloading; 任务卸载; 流水线调度; 移动边缘计算
+基于区块链智能合约的仓单交易平台研究与实现,区块链; blockchain; Ethereum Virtual Machine; PBFT consensus algorithm; PBFT共识算法; smart contract; warehouse receipt transaction; 仓单交易; 以太坊虚拟机; 智能合约
+带有主动恢复的拜占庭容错算法在区块链中的应用,Blockchain; Byzantine Fault Tolerance; 区块链; Consensus Algorithm; RBFT; 共识算法; 拜占庭容错RBFT
+面向冷启动问题的推荐算法研究,collaborative filtering; 协同过滤; 推荐系统; recommendation system; user preferences; 用户偏好; 上下文信息; cold-start problem; contextual information; 冷启动
+基于轮盘赌策略的混沌萤火虫算法研究,自适应惯性权重; Adaptive Inertia Weight; Chaotic Sequence; Firefly Algorithm; Good-Point Set; Roulette Wheel Selection Strategy; 佳点集; 混沌序列; 萤火虫算法; 轮盘赌策略
+基于区块链技术的安全DNS系统设计,区块链; blockchain; content-addressable network; DNS; DNSSEC; 内容可寻址网络; 域名系统
+基于Node.js和REST风格的移动端页面可视化构建平台,Node.js; 可视化; REST; componentization; Mobile end page construction; visualization; 移动端页面构建; 组件化
+网联汽车入侵检测系统的研究与实现,CAN总线; CAN Bus; In-vehicle Network; Intrusion Detection Rules; Intrusion Detection System; 入侵检测系统; 入侵检测规则; 车内网
+基于模拟退火算法的公交车辆排班方法研究,模拟退火算法; public transport; simulated annealing algorithm; vehicle scheduling; 公共交通; 车辆排班
+改进的SSD的目标检测研究,目标检测; Object Detection; Feature Pyramid Networks; MSSD; SSD; TMSSD; 特征金字塔网络
+基于用户兴趣和主题模型的混合推荐算法的研究与实现,collaborative filtering; 协同过滤; similarity measure; 主题模型; topic model; 相似度度量; forgetting curve; time window; 时间窗口; 遗忘曲线
+基于生成对抗网络的图像类别不平衡问题数据扩充方法,Generative Adversarial Nets; Image Augmentation; Image Class Imbalance; Underlying Noise; 图像扩充; 图像类别不平衡; 底层噪声; 生成对抗网络
+基于云的智能家居系统设计与实现,Smart home; 智能家居; cloud computing services; LZW compression algorithm; sensory data preprocessing; smart home website; 云计算服务; 字典序压缩算法; 感知数据预处理; 智能家居网站
+图像直方图特征及其应用研究,gray histogram; HSV-; HSV距离公式; image classification; L1regularization logistic regression; L1正则化逻辑回归; similarity measurement method; space distance formula; spatial color histogram; threshold segmentation; visual; visual attention; words histogram; 图像分类; 灰度直方图; 相似性度量; 视觉注意机制; 视觉词直方图; 空间颜色直方图; 阈值分割
+Web系统下提高MySQL数据库安全性的研究与实现,database security; mechanism; MySQL security; MySQL安全机制; SQL injection attack prevention; SQL inspection attack; SQL注入攻击; SQL注入攻击预防; 数据库安全
+灰度图像阈值分割的自适应和快速算法研究,adaptive algorithm; fast algorithm; fuzzy set; Image thresholding; intelligent optimization algorithms; 图像阈值化; 快速算法; 智能优化算法; 模糊集; 自适应算法
+灰度图像的直方图均衡化处理研究,Image Enhancement; Brightness Preserving; Contrast Enhancement; Histogram Dividing; Histogram Equalization; 亮度保持; 图像增强; 对比度增强; 直方图划分; 直方图均衡化
+迁移学习问题与方法研究,迁移学习; Domain Generalization; Heterogeneous Data Analytics; Latent Representation Learning; Probability Distribution Adaptation; Transfer Learning; 异构数据分析; 概率分布适配; 隐含表征学习; 领域泛化
+基于多种数据源的中文知识图谱构建方法研究,Entity; Knowledge Graph Construction; Linked Open Data; Ontology Learning; Self-Supervised Learning; 实体; 开放链接数据; 本体学习; 知识图谱构建; 自监督学习
+基于迁移学习与深度卷积特征的图像标注方法研究,深度学习; automatic image annotation; convolutional neural networks; deep learning; feature learning; multi-label ranking; multi-source heterogeneous features; multiple kernel learning; transfer learning; 卷积神经网络; 图像自动标注; 多标签排序; 多核学习; 多源异构特征; 特征学习; 迁移学习
+基于卷积神经网络的图像语义分割,深度学习; 卷积神经网络; Convolutional Neural Network; De-convolutional Neural Network; Deep Learning; Semantic Segmentation; 反卷积; 图像语义分割
+基于LSTM的语义关系分类研究,深度学习; Deep Learning; LSTM; RNN; Semantic Relation Classification; 关系分类
+基于卷积神经网络的图像分类方法研究,卷积神经网络; image classification; 图像分类; artificial neural network; 人工神经网络; convolution neural network; active sample learning method; dynamic growth convolution neural network; 主动样本学习方法; 动态生长卷积神经网络
+大数据处理技术与系统研究,性能优化; parallel computing; big data machine learning system; big data processing; big data programming model; big data storage and management; parallel machine learning algorithms; performance optimization; 分布式存储管理; 大数据分析编程模型; 大数据处理; 大数据机器学习系统; 并行化计算; 机器学习并行化算法
+时间序列数据挖掘若干关键问题研究,clustering; 聚类; similarity measure; approximate representation; one nearest neighbor classification; time series data mining; 最近邻分类; 时间序列数据挖掘; 相似性度量方法; 近似表示
+改进的卷积神经网络模型及其应用研究,卷积神经网络; k-means; Convolutional neural network; maxout; Traffic Sign Recognition; 交通标识识别
+基于动态授权的拜占庭容错共识算法的区块链性能改进研究,Blockchain; Byzantine Fault Tolerance; DDBFT; De-centralization; 区块链; 去中心化; 拜占庭容错
+基于深度学习的目标检测算法研究及应用,深度学习; 卷积神经网络; Convolutional Neural Network; Deep Learning; 目标检测; Object Detection; Pedestrian Detaction; 行人检测
+图像阈值分割关键技术研究,阈值分割; 图像分割; Adaptive Thresholding; Image Clustering; Image Segmentation; Thresholding; Thresholds Selection; Uneven Illumination; 图像聚类; 自适应阈值分割; 阈值选取; 非均匀光照
+基于内容的个性化推荐系统研究,个性化推荐; k-means; K-means; Content-based Recommendation; Naive Bayes; Personalized Recommendation; 基于内容的推荐; 朴素贝叶斯
+基于社交大数据的用户信用画像方法研究,社交网络; 特征学习; 微博数据; Credit Profiling; Event Sequence Mining; Feature Learning; Social Big Data; Social Network; Topic Models; User Profiling; Weibo Dataset; 主题模型; 事件序列挖掘; 信用画像; 用户画像; 社交大数据
+基于深度学习的文本表示与分类方法研究,深度学习; Deep learning; Text classification; Text representation; Word embedding; 文本分类; 文本表示; 词向量
+基于区块链的去中心化交易关键技术研究及应用,Ethereum; k-means; K-means; Merkle Patricia Tree; Merkle Patricia树; PBFT; 以太坊
+基于Spark平台的CURE算法并行化设计与应用,Spark; CURE; Custering algorithm; Parallelization; User BehaviorAnalysis; 并行化; 用户行为分析; 移动互联网; 聚类算法
+基于向量空间模型的文本相似度算法研究,independent weight; nonzero weight; text segment; text similarity; VSM; 向量空间模型; 文本段; 文本相似度; 自主加权; 非零权值
+网联汽车信息安全问题及CAN总线异常检测技术研究,Information entropy; 信息熵; Anomaly detection; CAN总线; Connected vehicle; Controller Area Network; Cyber security; Decision tree; In-vehicle bus; 信息安全; 决策树; 异常检测; 网联汽车; 车载总线网络
+基于结构的纹理特征及应用研究,图像处理; Image; Image Processing; Retrieval; Ship Detection; Structrual Texture; Texture Feature Extraction; 图像检索; 纹理特征提取; 结构纹理; 舰船检测
+基于卷积神经网络的人脸检测和性别识别研究,卷积神经网络; convolutional neural network; face detection; gender recognition; 人脸检测; 性别识别
+基于MVC模式的Web前端框架关键技术研究与实现,MVC; designing; Front-end framework; Modular; MVC Pattern; Template rendering; 前端框架; 模块化设计; 模板渲染
+混合推荐算法的研究,协同过滤; Collaborative Filtering; 相似度; Hybrid Recommendation Algorithm; Nearest Neighbors Selection; Personalized Recommendation Algorithm; Similarity; 个性化推荐算法; 最近邻选择; 混合推荐算法
+基于深度学习的文本情感分类研究,深度学习; deep learning; feature fusion; semi-; sentiment classification; supervised RAE method; 半监督RAE方法; 情感分类; 特征融合
+粒子群优化算法及差分进行算法研究,粒子群优化算法; Convergence analysis; Differential Evo-lution; Evolutionary computation; Function optimization; Particle swarm optimization; 函数优化; 差分进化算法; 收敛性分析; 进化计算
+面向推荐系统的关键问题研究及应用,Collaborative filtering; Demographic prediction; Evolutionary game theory; Global; optimization problem; Recommender systems; Time backtracking; 全局优化算法; 协同过滤; 推荐系统; 时间回溯模型; 演化博弈; 用户属性预测模型; 用户相似度模型
+机器学习方法在入侵检测中的应用研究,机器学习; 特征选择; Machine Learning; False Positive Elimination; Feature Selection; Intrusion Detection; RBF Neural Network; RBF神经网络; 入侵检测; 误报消除
+HBase存储的研究与应用,数据库; 查询; database; Hadoop; HBase; loading data; query; storage; 加载数据; 存储
+基于JavaScript的WebGIS前端开发及优化,前端开发; JavaScript; Backbone; front-end development; OpenLayers; RequireJS; WebGIS
+一种无人驾驶车辆路径跟踪控制方式研究,Autonomous Land Vehicle; Fuzzy Logic; path tracking method; PID; PID控制; Pure-pursuit; 无人驾驶车辆; 模糊控制; 纯追踪; 路径跟踪
+推荐系统用户相似度计算方法研究,协同过滤; 推荐系统; Collaborative Filtering; Recommender Systems; 推荐算法; Recommendation Algorithm; User Modeling; User Similarity; 用户建模; 用户相似度
+云计算任务调度策略研究,云计算; Cloud computing; 负载均衡; constraint; Cost-driven; Execution efficiency; Load balance; QoS objective; QoS目标约束; Resource management; Service revenue; Task scheduling; 任务调度; 成本驱动; 执行效率; 服务收益
+基于词向量的短文本分类方法研究,分类; Classification; Short Text; 短文本; 词向量; Word Distributed Representation; Word2Vec; 文本扩展
+基于模糊聚类算法的医学图像分割技术研究,Pixel; Fuzzy c-means; Medical image segmentation; Partial volume effect; relevance; 像素相关性; 医学图像分割; 模糊聚类算法; 部分容积效应
+基于目标函数的模糊聚类新算法及其应用研究,clustering algorithm; equalisation; fuzzy c-means clustering(FCM); fuzzy clustering; fuzzy control indicator; imbalanced data set; m-value; m-value generalization; m值广义化; objective function; optimization(PSO); particle swarm; particle swarm optimization generalization; possibilistic c-means clustering(PCM); self-adaptive; 不平衡数据集; 可能性c均值聚类(PCM); 模糊c均值聚类(FCM); 模糊控制指标; 模糊聚类; 目标函数; 粒子群广义化; 粒子群算法(PSO); 聚类算法均衡化; 自适应m值
+基于FPGA的深度学习加速器设计与实现,深度学习; Deep Learning; artificial neural network; 人工神经网络; accelerator; FPGA; low power; prediction; training; 低功耗; 加速器; 训练过程; 预测过程
+面向高维小样本数据的分类特征选择算法研究,分类; 特征选择; Ensemble Learning; 集成学习; Classification; Feature Selection; High-Dimensionality and Small-Sample; Lasso; 高维小样本
+JavaScript恶意代码检测技术研究,机器学习; JavaScript; Machine Learning; Malicious Code; Malicious Code Detection; 代码混淆; 恶意代码; 恶意代码检测
+基于Redis的分布式消息服务的设计与实现,Redis; Distributed Message Service; ZooKeeper; 分布式消息服务
+物联网应用若干关键问题的研究,context-aware; Internet of things; ontology; QoS; semantic annotation; 上下文感知; 服务质量; 本体; 物联网; 语义标注
+工业机器人轨迹规划算法的研究与实现,840D; Industrial robots; SCARArobot; SCARA机器人; trajectory planning; 工业机器人; 轨迹规划
+基于Node.js高并发web系统的研究与应用,node.js; Node.js; asynchronous I/O; event-driven; high concurrency; 事件驱动; 异步I/O; 高并发
+数据挖掘中的离群点检测算法研究,Average Distance; Frequency; Outlier Detection; 平均距离; 离群点检测; 频率
+Top-N协同过滤推荐技术研究,collaborative filtering; 协同过滤; algorithm; data sparse; modeling missing data; popularity bias; Top-N recommendation; Top-N推荐; two-layer model of user behavior; two-step recommendation; 两步预测推荐算法; 两阶段用户行为模式; 数据稀疏性; 流行偏置; 缺失数据建模
+Docker容器的性能监控和日志服务的设计与实现,Cloud Computing; 云计算; Docker; Log; Performance Monitoring; 容器; 性能监控; 日志
+基于深度学习的图像检索研究,深度学习; Deep Learning; artificial neural network; 人工神经网络; CBIR; Content-based image retrieval; 基于内容的图像检索; 多隐层
+基于深度神经网络的文本表示及其应用,深度学习; Deep Learning; 词向量; Automatic Text Summarization; Language Representation; Semantic Matching; Word Vector; 自动文摘; 语义匹配; 语言表示
+深度学习在图像语义分类中的应用,深度学习; Deep Learning; 图像分类; Image Classification; Image Features; Image Semantics; 图像特征; 图像语义
+基于指纹的无线室内定位中接入点选择算法研究,室内定位; access points selection; fingerprint; indoor positioning; WLAN; 指纹库; 接入点选择; 无线局域网
+三维重建中点云数据处理关键技术研究,三维重建; 3D reconstruction; ICP registration; ICP配准; Mesh reconstruction; Point clouds process; RANSAC; Trilateral filtering; 三边滤波; 点云处理; 网格重建
+基于深度学习的自然场景文字识别,深度学习; Deep Learning; Character Recognition; Image Understanding; Natural Scene Image; Semantic; 图像理解; 文字识别; 自然图像; 高层语义
+基于深度学习的人脸识别方法的研究,深度学习; Deep Learning; Face Recognition; 人脸识别; 深度自编码网络; Deep Autoencoder Network; Deep Convolution Neural Network; 深度卷积神经网络
+基于深度学习的入侵检测,深度学习; Learning; 特征学习; Deep Learning; Deep Belief Networks; 深度信念网络; Intrusion Detection; 入侵检测; Feature; Feature Reduction; 特征降维
+基于物联网技术的智慧医院架构及服务访问研究,物联网; Service; 服务; Access; Architecture; Context; Control; Electronic; Internet of things(IOT); medical record; Medicine distribution; RBAC; Smart hospital; User group; WSDL; 上下文; 体系架构; 智慧医院; 用户组; 电子病历; 药品流通; 访问控制
+基于深度学习的情感词向量及文本情感分析的研究,深度学习; deep learning; 卷积神经网络; Convolutional Neural Network; 词向量; sentiment analysis; sentiment word vector; word vector; 情感分析; 情感词向量
+基于卷积神经网络的图像分类技术研究,机器学习; 深度学习; deep learning; 卷积神经网络; image classification; 图像分类; 图像识别; machine learning; convolution neural network; handwritten digit recognition; image recognition; 手写数字识别
+基于Redis的信息存储优化技术研究与应用,Redis; Heterogeneous read-write separation; Information storage optimization; optimization; Redis优化; 信息存储优化; 异构读写分离
+基于HOG特征和模板匹配的行人检测与跟踪研究,Pedestrian detection; 行人检测; algorithm; article filter; CamShift algorithm; CamShift算法; HOG特征; Template matching; 模板匹配; 粒子滤波
+基于CNN的字符识别方法研究,人工神经网络; Character Recognition; 字符识别; Artificial Neural Networks; CNN; Components Analysis; Convolutional Neural Networks; EBLearn; PCA; Principal
+基于深度置信网络的中文信息抽取方法,深度学习; recognition; Deep Belief Nets; deep Learning; entity relation detection and; Named entity detection and recognition; post-; processing of Viterbi algorithm; Restricted Boltzmann Machine; 受限制玻尔兹曼机; 实体关系检测与识别; 实体检测与识别; 深度置信网络; 维特比后处理
+基于Kubernetes的云端资源调度器改进,container-as-a-service; data center operating system; distributed system; high availability; preemptive scheduling; resource scheduler; 分布式系统; 容器即服务; 抢占式调度; 数据中心操作系统; 资源调度; 高可用
+uC/OS-Ⅱ嵌入式操作系统内核移植研究及其实现,Cortex-M3; kernel transplantation; STM32; uC/OS-II; uIP; 内核移植
+基于大数据的推荐算法研究,协同过滤; 推荐系统; Collaborative Filtering; Matrix Factorization; 矩阵分解; Recommendation System
+基于遗传算法的云计算任务调度算法研究,Algorithm; 遗传算法; Cloud Computing; 云计算; 任务调度; Genetic; Job Scheduling; QOS; Quality of Service; Simulated Annealing; 模拟退火
+基于直方图均衡化和Retinex的图像去雾算法研究,图像增强; 直方图均衡化; histogram equalization; homomorphic filter; image defogging; image enhancement; Retinex algorithm; Retinex算法; 同态滤波; 图像去雾
+基于卷积神经网络的交通标识识别研究与应用,卷积神经网络; 图像分类; Convolutional neural network; Traffic Sign Recognition; 交通标识识别; Image Classification; Target Detection; 目标识别
+面向移动增强现实的场景识别与跟踪注册技术研究,classifier; feature detection and; feature tracking; matching; mobile augmented reality; registration; 三维注册; 特征提取与匹配; 特征跟踪; 移动增强现实
+大数据环境下时空多维数据可视化研究,大数据; Big Data; Multidimensional Data; Spatio-Temporal Data; Visualization; 可视化; 多维数据; 时空数据
+无监督特征学习结合神经网络应用于图像识别,深度学习; 神经网络; Deep Learning; 图像识别; nition; Image Recog-; Neural Networks; Unsupervised Feature Learning; 无监督特征学习
+基于KNN的文本分类特征选择与分类算法的研究与改进,Algorithm; 文本分类; Ant Colony Optimization; KNN; KNN算法; Text Classification; TF-RFIDF; 蚁群优化算法
+基于可穿戴传感器网络的人体行为识别技术研究,模式识别; nition; Graph Models; Human Activity Recognition; Pattern Recog-; Real-time; RFID; Wearable Sensor Network; 人体行为识别; 可穿戴传感器网络; 图模型; 实时性; 无线射频
+面向大数据处理的并行计算模型及性能优化,深度学习; 性能优化; Deep Learning; 人脸识别; Big Data Computational Model; cas; Data Repli-; Earthquake Precursor Network; Face Recog-; Multi-core Technology; nition; Partial Barrier; Performance Optimization; 地震前兆台网; 多核技术; 大数据计算模型; 数据复本; 部分同步
+人工蜂群算法的改进方法与收敛性理论的研究,聚类分析; swarm intelligence; 群智能; artificial bee colony; K-means; algorithm; clustering analysis; dual cognitive abilities; dynamics; global optimization; group; intersect mutation; K-means算法; 交叉突变; 人工蜂群算法; 全局优化; 双重认知能力; 群体动力学
+基于Tesseract-OCR的名片识别系统的研究与实现,Card Identification; Character; Image processing; Information classification; Open Source; recognition; tesseract; Tesseract; 信息分类; 名片识别; 图片处理; 字符识别; 开源
+基于Storm的数据分析系统设计与实现,Spring; K-means; K-Means算法; kafka; Kafka; spring; storm; Storm; stream processing; 流处理
+图像去噪及其效果评估若干问题研究,Empirical mode decomposition; Image denoising; Image quality evaluation; Image segmentation; Morphological component analysis; 图像分割; 图像去噪; 图像质量评价; 形态成分分析; 经验模态分解
+图像特征提取方法及其应用研究,Edge Feature; Human Visual Perception Model; Noise Histogram; SIFT Feature; SIFT特征; Time Frequency Weighted Composite; 人眼视觉感觉模型; 抗噪柱状图; 时频复合加权; 边缘特征
+基于MapReduce的大数据连接算法的设计与优化,MapReduce; data; histogram; optimization of euqi-join algorithm; optimization of θ-join algorithm; skew; 任意连接算法优化; 数据倾斜; 直方图; 等值连接算法优化
+朴素贝叶斯分类算法的研究与应用,数据挖掘; Cloud Computing; 云计算; Naive Bayes; 朴素贝叶斯; Data Mining; Differential Evolution; Hadoop Platform; Hadoop平台; MapReduce Model; MapReduce模型; 差分进化
+基于深度学习的短文本分析与计算方法研究,深度学习; Deep Learning; Chinese Word Segmentation; Semantic Representation; Short Text; Similarity Computation; 中文分词; 相似度计算; 短文本; 语义表示
+数据归一化方法对提升SVM训练效率的研究,Cross validation; Data normalization; Gaussian kernel function; Sequential minimal optimization algorithm; support vector machine(SVM); The training efficiency; 交叉验证; 支持向量机; 数据归一化; 训练效率; 顺序最小优化算法; 高斯核函数
+基于机器视觉和深度学习的目标识别与抓取定位研究,深度学习; 卷积神经网络; Convolution neural network; Depth learning; Hand-Eye Calibration; Machine vision; MPID neural network; MPID神经网络; robot arm; Target detection; 手眼标定; 机器视觉; 机械臂; 目标检测
+基于Unity3D的虚拟校园漫游系统的研究和实现,3DMax; 3DSMax; Three-dimensional modeling; Unity3D; Virtual campus; 三维建模; 虚拟校园
+基于视觉的多机器人协作SLAM研究,CSLAM; Multi-robot communication; Multi-robot system; Natural landmark extraction; vSLAM; 协作SLAM; 多机器人系统; 多机器人通信; 自然路标提取
+大规模复杂场景下室内服务机器人导航的研究,human-aware navigation; local path planning; odometry calibratioan; qaudtree map; service robots; 人机导航; 四叉树地图表示; 局部路径规划; 服务机器人; 里程计标定
+基于群智感知的无线室内定位,智能手机; Crowdsensing; Fingerprint; Indoor Localization; Location; Smartphones; 位置; 室内定位; 指纹; 群智感知
+视觉显著性检测关键技术研究,computer vision; visual attention; co-saliency; human eye fixa-; salient object; salient region; tions; visual saliency detection; 人眼视觉注视点; 显著区域; 显著性检测; 显著物体; 视觉注意; 联合显著性; 计算机视觉
+工业机器人工具及工件坐标系的标定研究,Camera Space Manipulator; Position Sensitive Device; Tool Calibration; Workpiece Calibration; 位置传感器; 工件标定; 工具标定; 相机空间操作
+基于深度学习的中文命名实体识别研究,深度学习; deep learning; deep neural network; auto-encoders neural network; Chinese Named Entity Recognition; incremental learning; 中文命名实体识别; 增量学习; 深层神经网络; 自编码神经网络
+基于神经网络的数据挖掘分类算法比较和分析研究,数据挖掘; 分类; 人工神经网络; Artificial Neural Network; BP神经网络; Classification; 支持向量机; Data Mining; BP neural; Extreme Learning Machine; network; Support Vector Machines; 极限学习机
+基于本体的智能家居关键技术研究,Device; Ontology model; Query; Reasoning; Semantic description; Service; Smart home; 推理; 智能家居; 服务; 本体模型; 查询; 设备; 语义描述
+基于稀疏表示模型的图像复原技术研究,compressive sensing; image deblurring; image inpainting; image restoration; image super-resolution; sparse representation; 压缩感知; 图像修补; 图像去模糊; 图像复原; 图像超分辨率; 稀疏表示
+RESTful Web服务开放平台的设计与实现,Open Services; RESTful; Service Access; Service Identification; Service Search; Web Services; Web服务; 开放服务; 服务接入; 服务搜索; 服务识别
+中文文本分类中卡方统计特征选择方法和TF-IDF权重计算方法的研究,特征选择; feature weighting; 文本分类; feature selection; information entropy of a specific class; item's frequency; text classification; 特征权重; 特征项频度; 类内信息熵
+基于大数据的数据挖掘引擎,数据挖掘; 大数据; Big Data; Data Mining; Spark
+基于图像识别理论的智能交通系统关键技术研究,camera calibration; BP神经网络; BP neural networks; fractal dimension; hidden markov features; intelligent parking; SVM; vehicle identification; vehicle license plate recognition; 分形维数; 摄像机标定; 智能泊车; 车牌识别; 车辆识别; 隐马尔科夫特征
+智能视频监控中的运动目标检测与跟踪技术研究,智能视频监控; Intelligent Video Survellance; Moving Object Detection; Moving Object Tracking; Scene Motion Pattern; 场景运动模式; 运动目标检测; 运动目标跟踪
+移动群智感知网络中数据收集与激励机制研究,cooperative sensing; coverage analysis; data collection; incentive mechanism; Mobile crowd sensing; opportunistic transmission; 协作感知; 数据收集; 机会传输; 激励机制; 移动群智感知; 覆盖分析
+基于深度学习的变压器故障诊断技术研究,深度学习; deep learning; 深度信念网络; fault diagnosis; 故障诊断; deep auto-encoder networks; deep belief networks; DGA; power transformer; 深度自编码网络; 电力变压器
+基于微服务架构的SaaS应用构建方法研究,High availability; Load balancing; Microservices architecture; SaaS application; SaaS应用; 微服务架构; 负载均衡; 高可用性
+K-means聚类算法的改进研究,聚类分析; Clustering Analysis; Density of samples; Initial Clustering Centers; K-means Algorithm; k-means算法; Optimal Clustering Number; 最佳聚类数; 初始聚类中心; 样本密度
+机器视觉在工业机器人抓取技术中的应用,机器视觉; Circumscribed rectangle; Contour detection; Coordinate transformation; Machine Vision; Workpiece positioning; 坐标转换; 外接矩形; 工件定位; 轮廓检测
+基于密度的层次聚类算法研究,clustering; 聚类; closeness; decision graph; density; density peaks; distance form points of higher; hierarchical clustering; k-nearest neighbor graph; similarity; 密度; 密度极值k近邻图; 层次聚类; 相似性; 高密度距离
+一种基于面向方面的可信软件非功能需求设计与评估方法,软件工程; aspect oriented; non-functional requirements; software engineering; software quality; software requirements; 软件质量; 软件需求; 非功能需求; 面向方面
+大规模图上的最短路径问题研究,算法; Algorithm; 并行计算; kNN; Lower Bound; OpenCL; Parallel Computing; Pre-Computation; Shortest Path Problem; κNN; 下界; 最短路径问题; 预处理
+基于深度学习的人脸识别技术研究,卷积神经网络; 人脸识别; compound feature; convolution neural networks; deep multi-model fusion; deep neural network; face recognition; 深度多模型融合; 深度神经网络; 组合特征
+数据挖掘算法优化研究与应用,数据挖掘; Decision tree; 决策树; 增量学习; Data Mining; Classification algorithm; Incermental; learning; 分类算法
+基于Kinect深度信息的手势识别,depth data; dynamic programming; finger detection; gesture recognition; Human-computer interaction; Skeletal tracking; 人机交互; 动态规划; 手势识别; 手指检测; 深度信息; 骨骼追踪
+基于时间序列模型的短时交通流预测的研究与应用,Data Pre-processing; Intelligent Transportation System; Time Series Model; Traffic Flow Forecast; 交通流预测; 数据预处理; 时间序列; 智能交通
+真实感三维模型的纹理映射技术研究与实现,growing; plane projection; region; regional texture mapping; texture coordinate; texture mapping; triangular mesh model; 三角网格模型; 区域增长; 局部纹理映射; 平面投影; 纹理坐标; 纹理映射
+改进蚁群算法在机器人路径规划上的应用研究,移动机器人; 路径规划; Complex environment; Improved ant colony algorithm; Mobile robot; Multi-objective programming; Path planning; 复杂环境; 多目标规划; 改进蚁群算法
+基于高分二号遥感影像面向对象的城市房屋信息提取方法研究,面向对象; CART Decision Tree; CART决策树; Fuzzy Classification; GF-2; Multi-scale segmentation; Object-oriented; 多尺度分割; 模糊分类; 高分二号
+面向Web2.0的web应用前端开发框架的设计与实现,framework; front-end development of web applications; generic development; webpage optimization; web前端开发; 通用框架; 页面优化
+基于位置社交网络的个性化地点推荐算法研究,Collaborative Filtering; Influence; Location-Based Social Networks; Naive Bayesian; Social; 协同过滤算法; 基于位置的社交网络; 朴素贝叶斯分类; 社交影响
+基于NoSQL的大数据处理的研究,MongoDB; NoSQL; 大数据; MapReduce; Big Data
+综合过采样和欠采样的不平衡数据集的学习研究,机器学习; Ensemble Learning; 集成学习; Imbalanced Data; Machine Learning; Resampling; 不平衡数据; 重采样
+互联网评论文本情感分析研究,机器学习; 情感词典; sentiment analysis; 情感分析; machine learning; pointwise mutual information; sentiment lexicon; 点互信息
+融合多源信息的推荐算法研究,BPR Metric; BPR标准; Coupled Object Similarity; Matrix Factorization; Recommender Systems; User Social Status; 推荐算法; 用户社会地位; 矩阵分解; 耦合对象相似度
+文本分类关键技术及应用研究,Feature selection; 特征选择; Text classification; 文本分类; Active learning; Gender classification; Query intent identification; Spam classification; User interest; 主动学习; 垃圾邮件分类; 性别分类; 查询意图识别; 用户兴趣
+多智能体网络的一致性问题研究,复杂网络; Complex Networks; Consensus; Group Consensus; Multi-agent networks; Pinning Control; 一致性; 分组一致性; 多智能体网络; 牵制控制
+云环境下大数据服务及其关键技术研究,大数据服务; 云计算; big data service; big medical  data; cloud computing; credible service optimization; 医疗大数据; 可信组合评估
+车联网中面向安全应用的消息传输问题研究,MAC protocol; MAC协议; Power control; Relay; Routing protocol; selection; Simulator; Vehicular ad-hoc network; 中继选择; 功率控制; 模拟器; 消息传输; 车联网
+基于遗传算法优化的BP神经网络股票价格预测,遗传算法; BP神经网络; Genetic Algorithm; BP Neural Network; Nonlinear Dynamical System; Stock Prediction; 股票预测; 非线性动力系统
+基于unity3D的虚拟现实技术在中学物理教学中的应用研究,3ds Max; high school physics; unity3d; virtual reality; 中学物理; 虚拟现实
+聚类分析和关联规则技术在成绩分析中的研究及应用,Algorithm; 关联规则; 聚类分析; Clustering Analysis; Achievement Analysis; Apriori; Apriori算法; Association Rules; K-Means Algorithm; K-Means算法; 成绩分析
+图像去噪中几种优化算法的相关研究,图像去噪; image denoising; mixed quasi-variational inequality; noise detection; regularization; variational method; 变分法; 噪声检测; 正则化; 混合拟变分不等式
+无线传感器网络节能策略的研究,无线传感器网络; Delay-tolerant; Energy-efficient; Network-lifetime; Role-member realationship; Sink; WSN; 延迟容忍; 汇聚节点; 网络生命周期; 节能; 角色成员关系
+基于攻击图的网络安全风险评估技术研究,Attack Graphs; Hardening; Network Security; Risk Assessment; 加固; 攻击图; 网络安全; 风险评估
+基于Elasticsearch的分布式智能搜索引擎的研究与实现,distributed search engine; Elastic search; Elasticsearch; intelligent recommendation; new words discovery; vertical search; 分布式搜索引擎; 垂直搜索; 新词发现; 智能推荐
+数据可视化探索系统的设计和实现,Data Visualization; Diagrams; Exploratory Analysis; 图表; 探索分析; 数据可视化
+高可用可扩展集群化Redis设计与实现,Clustering; K-V Storage; K-V存储; Proxy; Redis; 集群化
+基于云计算的物联网技术研究,云计算; Cloud computing; 物联网; Cloud platform; Intelligent water management; Network security protection; system; The Internet of things; 云平台; 智能化水资源管理系统; 网络安全防护
+基于计算机视觉和深度学习的自动驾驶方法研究,深度学习; computer vision; deep learning; 卷积神经网络; convolution neural network; 计算机视觉; autonomous driving; pre-training; 自动驾驶; 预训练
+基于word2vec词向量的文本分类研究,文本分类; 文本表示; text classification; text representation; Distance measurement; Word2vec model; Word2vec模型; 距离度量
+基于神经网络的移动机器人路径规划方法研究,神经网络; 机器人; neural network; path planning; 路径规划; 粒子群算法; particle swarm optimization(PSO)algorithm; robot
+基于Spark平台的协同过滤推荐算法的研究与实现,Collaborative Filtering; Spark; Hadoop; Slope One; similarity algorithm; Slope One算法; 协同过滤推荐; 相似度算法
+基于规则和条件随机场的中文命名实体识别方法研究,条件随机场; 命名实体识别; conditional random fields; named entity recognition; feature template; rules; 特征模板; 规则
+基于g2o的SLAM后端优化算法研究,SLAM; Back-end Optimization; Filter; Least Squares; Loop Closure Constraints; 最小二乘法; 后端优化; 滤波; 闭环约束
+两种改进的彩色图像灰度化算法研究,optimization; color; Color to gray transformation; consistency; contrast preservation; energy; grayscale pixel characteristic preservation; 对比度保持; 彩色图像灰度化; 灰度像素特征保持; 能量优化; 颜色一致性
+自主移动机器人路径规划的RRT算法研究,mobile robot; path planning; 移动机器人; 路径规划; bidirectional rapidly-exploring random trees; rapidly-exploring random tree (RRT); rrt-concon algorithm; RRT-ConCon算法; 双向快速扩展随机树; 快速扩展随机树(RRT)
+基于随机森林的视觉数据分类关键技术研究,集成学习; 决策树; 随机森林; random forest; decsision tree; enasemble learning; pattern classification; visual data; 模式分类; 视觉数据
+基于深度学习的跨模态检索研究,深度学习; deep learning; 受限玻尔兹曼机; 自编码; restricted Boltzmann machine; autoencoder; cross-modal retrieval; 跨模态检索
+汉语篇章结构表示体系及资源构建研究,Clause; Connective; Corpus; Discourse parsing; Discourse relation; 子句; 篇章关系; 篇章结构分析; 语料库; 连接依存树
+复杂网络社区发现若干问题研究,复杂网络; 聚类; Clustering; 社区发现; Modularity; Community detection; centrality; Cluster prototype; Complex network; nity; Overlapping commu-; Q function; Rank; Resolution limit; Similarity matrix; 分辨率; 模块化Q函数; 模块性; 相似度矩阵; 类原型; 节点中心度; 重叠社区
+车辆主动安全中关于车辆检测与跟踪算法的若干研究,粒子滤波; theory; Particle filter; 车辆检测; 车辆跟踪; D-S证据理论; Choquet Integral; Choquet积分; D-S evidence; Intelligent vehicle; MCRP; Vehicle detection; Vehicle tracking; 智能车
+FPGA低功耗设计相关技术研究,FPGA; 低功耗; access memory; Field programmable gate array; Finite state machine; Low power; Multiplexer; Register files; SRAM; Static random; 多路选择器; 寄存器堆; 有限状态机
+基于深度神经网络的微博短文本情感分析研究,深度学习; Deep Learning; 情感分析; 情感分类; 微博短文本; Analysis Of The Emotion; Emotion Classification; Evaluation Object Extraction; Microblog Short Text; 评价对象抽取
+基于出租车轨迹的居民出行热点路径和区域挖掘,可视化; visualization; 轨迹聚类; Residents trip; taxi trajectory; trajectory clustering; trajectroy compression; 出租车轨迹; 居民出行; 轨迹压缩
+基于脑电信号样本熵的情感识别,特征提取; support vector machine(SVM); 支持向量机; feature extraction; ElectroEncephaloGram(EEG); emotion recognition; sample entropy; 情感识别; 样本熵; 脑电信号
+朴素贝叶斯分类模型的改进研究,Naive Bayes Classification Model; Validity of Double Attributes; Validity of Single Attribute; 单属性有效度; 双属性有效度; 朴素贝叶斯分类模型
+物联网环境下信息融合基础理论与关键技术研究,体系结构; 粗糙集; 物联网; Architecture; 信息融合; Rough Set; Information Fusion; Heterogeneous; High Dimensional Attributes; Multi-sources; Positive Approximation; The Internet of things (IoT); 多源异构; 正近似; 高属性维度
+计算机网络防御策略求精关键技术研究,Computer Network Defense; Description Logic; Mobile Ad Hoc Network; Policy Refinement; Semantic Consistency; 描述逻辑; 移动Ad Hoc网络; 策略求精; 计算机网络防御; 语义一致性
+云计算环境中访问控制的机制和关键技术研究,云计算; security model; 安全模型; attribute-based; cloud access control; Cloud compting; encryption; fine-grained access control; mobile Cloud Computing; 云访问控制; 属性加密; 移动云计算; 细粒度访问
+基于博弈论的云计算资源调度方法研究,博弈论; Cloud Computing; 云计算; 资源调度; 容器; QoS; 服务质量; Container; Resource Scheduling; Cloud Federation; Fair Allocation; Game Theory; Resource Utilization; Stable Matching; 云联盟; 公平分配; 稳定匹配; 资源利用率
+用户画像在内容推送的研究与应用,用户画像; User Profile; DNN; Mobile Data; Personalized Push Service; SVM Algorithm; SVM算法; 个性化推送; 移动数据
+深度学习中的自编码器的表达能力研究,深度学习; Deep learning; dimensionality reduction; representation transformation; single-layer auto-encoder; 单层自编码器; 数据降维; 表达转换
+基于时间效应和用户兴趣变化的改进推荐算法研究,collaborative filtering; 协同过滤; 图模型; 随机游走; forgotten laws; graph-based model; path fusion; random walk; 路径融合; 遗忘规律
+基于空间聚类和Weka平台的出租车载客热点区域挖掘研究,pick-up hotspots; R-FDBSCAN; R-FDBSCAN算法; spatial clustering; taxi dispatching scheme; Weka; 出租车调度; 空间聚类; 载客热点区域
+不均衡数据分类方法的研究,数据挖掘; Data mining; 重采样; Classification algorithm; 分类算法; Imbalanced data; Cost sensitive learning; Ensemble classification; Lung nodule computer aided detection; Re-sampling; 不均衡数据; 代价敏感学习; 肺结节计算机辅助检测; 集成分类
+无线可充电传感器网络中充电规划及其可调度性研究,charging programming; energy problem; mobile charger; schedulability; wireless rechargeable sensor networks; 充电规划; 可调度性; 无线可充电传感器网络; 移动充电节点; 能量问题
+基于分解的多目标进化算法及其应用,Decomposition-Based Multi-Objective Evolutionary Algorithms; Flexible Job Shop Scheduling; Many-Objective Optimization; Memetic Algorithms; Variation Operators; 变化算子; 基于分解的多目标进化算法; 柔性作业车间调度; 模因演算法; 高维多目标优化
+非线性不确定系统的神经网络控制研究,神经网络; neural network; 非线性系统; adaptive control; BP learning algorithm; BP学习算法; neural inverse control; nonlinear control; Nonlinear system; receding horizon optimization technology; 滚动时域优化技术; 神经网络逆控制; 自适应控制; 非线性控制
+基于位置社交网络的数据挖掘,Location naming; Location Prediction; Location Recommendation; Location-based Social Network; 位置命名; 位置推荐; 位置社交网络; 位置预测
+基于深度学习的图像目标定位识别研究,深度学习; deep learning; 卷积神经网络; 图像识别; image recognition; convolutional neural network
+Spark Shuffle的内存调度算法分析及优化,Spark; Memory Scheduling; Shuffle; Spill History; Spill-based; 内存调度; 溢出历史
+基于卷积神经网络的车脸识别研究,卷积神经网络; convolution neural network; Car face image database; car face recognition; constrained local model; 约束局部模型; 车脸数据库; 车脸识别
+基于webGL的交互绘制应用研究,Data Visualization; 数据可视化; webGL; Application Framework; Interactive Rendering; Material Editting; 交互绘制; 应用框架; 材质编辑
+TF-IDF与规则结合的中文关键词自动抽取研究,Candidate word selection; Keyword Etraction; TF-IDF; Unknown word recogition; 候选词抽取; 关键词抽取; 未登录词识别
+基于卷积神经网络的行为识别研究,卷积神经网络; convolutional neural network; action recognition; 行为识别; Gabor滤波器; Gabor filter; KTH database; KTH数据库
+基于HBase的空间数据分布式存储和并行查询算法研究,MapReduce; HBase Schema; HBase表模式; Index; K-nearest neighbor query; K近邻查询; Region query; 区域查询; 索引
+深度学习在计算机视觉领域的若干关键技术研究,深度学习; 神经网络; 迁移学习; Deep learning; 计算机视觉; Transfer learning; Computer vision; Deep neural network; Preference learning; 偏好学习
+云计算负载均衡策略的研究,Cloud Computing; 云计算; 副本; 负载均衡; 资源调度; Hadoop; 云存储; Cloud Storage; Load Balancing; Virtual Machine Migration; 虚拟机迁移; Replica; Resource Scheduling
+基于农业生产过程的农业物联网数据处理若干关键技术的研究,数据处理; Agriculture Internet of Things; data processing; Elman; elman预测模型; forecasting model; hierarchical case-based reasoning decision; Knowledge of multi class agricultural processing; workflow access control; 农业物联网; 分层案例推理决策; 多类别农业知识处理; 工作流访问控制
+基于深度学习的气象预测研究,深度学习; Deep Learning; LSTM; RNN; 时间序列; Fine forecast; Tensor Flow; Times series; 循环神经网络; 精细化预测; 长时记忆网络
+基于神经网络的电力负荷预测研究与实现,预测; 循环神经网络; feed-forward neural networks; forecasting; power load; recurrent neural networks; serial incremental ratio; 前馈网络; 序列增量比; 电力负荷
+基于用户行为分析和混合推荐策略的个性化推荐方法研究,Collaborative Filtering; 用户行为分析; Recommendation Algorithm; 数据预处理; User Behavior Analysis; Hybrid; Recommendation; 混合推荐; 协同过滤推荐算法; Content–based Recommendation Algorithm; Data Preprocess; 基于内容的推荐算法
+基于工业控制网络的流量异常检测,ARIMA; industrial control network; multiple seasonal; Stuxnet attack; Stuxnet攻击; traffic characteristics; 乘积季节ARIMA; 工业控制网络; 流量特性
+面向海量轨迹数据的聚类算法研究,clustering; trajectory; 轨迹聚类; processing; real-time trajectory; spatiotemporal data mining; spatiotemporal data processing; trajectory clusters updating; trajectory division; 实时轨迹处理; 时空数据处理; 时空数据挖掘; 轨迹划分; 轨迹簇更新
+基于蝙蝠算法的启发式智能优化研究与应用,多目标优化; 算法融合; Algorithm fusion; Bat algorithm; Knowledge learning; Multi-objective optimization; Swarm intelligence; 知识学习; 群体智能; 蝙蝠算法
+纹理图像特征提取与分类研究,特征提取; classification; 分类; optimization; 优化; texture; 纹理; feature extraction; primal-dual interior-point method; 原对偶内点法
+非均衡数据分类算法若干应用研究,Ensemble Learning; 集成学习; Activated sludge classification; Imbalanced data; quality assessment model; Water; 水质评估模型; 活性污泥分类; 非均衡数据
+H.265/HEVC编码加速算法研究,图像处理; Image Processing; High Efficiency Video Coding; ing; Inter Coding; Intra Coding; Parallel Cod-; 帧内编码; 帧间编码; 并行编码; 高效视频编码
+基于局部特征和进化算法的人脸识别,PSO; 人脸识别; 粒子群优化算法; 人脸检测; Face recognition; SFLA; 混合蛙跳算法; 局部特征; Evolutionary algorithm; 进化算法; Face detection; Local feature; MEA; 思维进化算法
+基于RBF神经网络的PID自校正控制研究及应用,RBF神经网络; artificial crystal; nonlinear system; PID self-turning control; PID自校正控制; RBF neural network; 人工晶体; 非线性系统
+基于循环神经网络的轨迹位置预测技术研究,Recurrent Neural Network; 循环神经网络; Landmark Extraction; Trajectory Prediction; 轨迹位置预测; 重要位置提取
+基于RGB-D的SLAM算法研究,Kinect; SLAM; Algorithm Improvement; RGB-D SLAM; 算法改进
+基于语义的文本相似度算法研究及应用,POS space definition; semantic unit division; semantic weight definition; term; text similarity algorithm; 关键词语义权值定; 文本相似度算法; 词性空间定义; 语义单元划分
+基于机器学习的中文文本主题分类及情感分类研究,互信息; 文本分类; text classification; 情感分类; 特征融合; classifier combination; key sentence; mutual information; sentiment sentence; 关键句; 情感句
+Android环境下恶意软件静态检测方法研究,Ensemble Learning; 集成学习; Feature Selection; Neural Network; Android Malware; Android恶意软件; Probabilistic; 概率神经网络; 特征选取
+迁移学习在图像分类中的应用研究,transfer learning; 迁移学习; 流形学习; manifold learning; domain adaption; feature mapping; maximum mean discrepancy; 最大均值差异; 域自适应; 特征映射
+组合预测方法及其应用研究,深度学习; 神经网络; Neural network; Deep learning; 组合预测方法; Combining forecasting model; Timefrequency analysis; 时频分析
+基于群智能优化的机器学习方法研究及应用,机器学习; 支持向量机; machine learning; 随机森林; support vector machine; Random forest; intelligent decision making in agricultural production; kernel extreme learning machine; swarm intelligence optimization; 农业智能决策; 核极限学习机; 群智能优化
+基于主题模型的社交网络用户画像分析方法,社交网络; Social Network; User Profiling; 主题模型; 用户画像; Topic Model
+众包环境下的任务分配技术研究,任务分配; Crowdsourcing; Greedy Algorithm; Multi-Armed Bandits; Pricing Mechanism; Task Allocation; 众包; 多臂赌博机; 定价机制设计; 贪婪算法
+多无人机系统的协同目标分配和航迹规划方法研究,差分进化; Cooperative paths planning; Differential evoluation; MUAS; Multi-target assignment; Path re-planning; Three dimensional space; 三维空间; 协同航迹规划; 多无人机系统; 多目标分配; 航迹重规划
+基于递归神经网络的生物医学命名实体识别,词向量; 命名实体识别; Word Embedding; Recurrent Neural Network; 递归神经网络; Long Short-Term Memory; Named Entities Recognition; Sentence Vector; 句子向量; 长短时记忆
+个性化推荐中协同过滤算法研究,个性化推荐; 协同过滤; Collaborative Filtering; Personalized Recommendation; Interest Migration; Slope One; Sparse Matrix; 兴趣迁移; 稀疏矩阵
+基于机器学习的智能家居系统设计与实现,机器学习; TensorFlow; Machine Learning; 智能家居; Smart Home; ReLu; FNN; Predictor System; Re Lu; 前反馈神经网络; 预测系统
+物联网大数据存储与管理技术研究,分布式文件系统; Distributed file system; Big data; Cube; Data retrivel; Energy efficient tasks scheduling; 数据检索; 数据立方体; 物联网大数据; 节能任务调度
+基于混合模型的股票趋势预测方法研究,股票预测; 循环神经网络; arima model; ARIMA模型; long short-term memory network; recurrent neural network; stock forecasting; time series processing; 时序处理; 长短时记忆网络
+C4.5决策树算法优化及其应用,PCA; C4.5 algorithm; C4.5算法; dependency for attributes; GINI index; GINI指数; Taylor series; 属性依赖度; 泰勒级数
+高铁动车组故障预测与健康管理关键技术的研究,Particle Swarm Optimization; 粒子群算法; Based on the State of Repair; Failure Prediction; Half Hidden Markov Hodel; PHM; 故障预测; 状态修; 隐半马尔科夫模型
+基于情感词典与句型分类的中文微博情感分析研究,情感词典; sentiment analysis; 情感分析; 中文微博; Chinese Micro Blog; emotional dictionary; sentence classification; 句型分类
+时间序列分类算法研究,时间序列; Time series; Associative classification; Interpretable; k近邻; Shapelets transformation; Shapelets转换; Time series classification; κ-nearest neighbours; 关联式分类; 可解释性; 时间序列分类
+大数据环境下隐私保护及其关键技术研究,大数据; 博弈论; 隐私保护; game theory; big data; location-based service; privacy protection; privacy risk control; 基于位置服务; 隐私风险控制
+面向医学数据的随机森林特征选择及分类方法研究,特征选择; 支持向量机; feature selection; 随机森林; support vector machine; random forest; data mining in medicin; micro-array expression data analysis; 医学数据挖掘; 微阵列表达数据分析
+深度学习在回归预测中的研究及应用,深度学习; deep learning; hyper parameter optimization; prediction and forecast; supervised learning; wheat aphid; 小麦蚜虫; 有监督学习; 超参数优化; 预测预报
+Kubernetes跨集群管理的设计与实现,Cloud Computing; 云计算; Cross Cluster; Kubernetes; 跨集群
+基于强化学习的开放领域聊天机器人对话生成算法,深度学习; deep learning; sentiment analysis; 情感分析; chatbot; dialog generation; reinforcement learning; 对话生成; 强化学习; 聊天机器人
+多阈值OTSU快速算法的研究,fast algorithm; 快速算法; Image segmentation; 图像分割; linear algorithm; multi threshold; Otsu; Otsu criterion; Otsu准则; 多阈值; 线性算法
+基于决策树C4.5算法剪枝策略的改进研究,数据挖掘; Decision tree; 决策树; C4.5 algorithm; C4.5算法; Date mining; Pruning strategy; 剪枝策略
+面向复杂环境的鲁棒高效的三维注册与结构恢复,feature tracking; 特征跟踪; structure from motion; simultaneous localization and mapping; augmented reality; bundle ad-justment; camera tracking; 同时定位与地图构建; 增强现实; 摄像机跟踪; 运动恢复结构; 集束调整
+基于校园大数据的学生行为分析与预测方法研究,大数据; 聚类分析; K-means; Cluster Analysis; Bigdata; Prediction and early warning; Spark platform; Spark平台; 预测与预警
+基于Redis的结构化数据缓存系统的设计与实现,cache; 缓存; 结构化数据; cache hit rate; replacement algorithm; Structured data; 替换算法; 缓存命中率
+基于Kubernetes的资源动态调度的研究与实现,云计算; 资源调度; Docker; 容器; cloud computing; resource scheduling; Kubernetes; Container
+基于AlexNet融合特征的图像检索研究,深度学习; Deep Learning; 特征提取; 特征降维; 图像检索; feature extraction; feature dimension reduction; fusion feature; Image retrieval; 融合特征
+关联规则挖掘中Apriori算法的研究,Apriori算法; Hadoop; Apriori Algorithm; Association Rule Mining; FP-tree; Mapping; 关联规则挖掘; 映射; 频繁模式树FP-tree
+狼群算法的研究与应用,多目标优化; multi-objective optimization; multimodal optimization; single objective optimization; UAV trajectory planning; wolf colony algorithm; 单目标优化; 多峰优化; 无人机航迹规划; 狼群算法
+基于深度学习的植物叶片识别算法研究,深度学习; deep learning; 卷积神经网络; 特征提取; CNN; feature extraction; foliage plant; leaf image; 叶片图像; 植物识别
+基于机器学习的时间序列预测方法研究与应用,机器学习; machine learning; 时间序列预测; combination forecasting method; hybrid forecasting method; time series forecasting; 混合预测方法; 组合预测方法
+基于深度机器学习的体态与手势感知计算关键技术研究,Deep Learning; 半监督学习; Semi-supervised Learning; Domain Adaptation; Human Pose Estimation; Perceptual Computing; Surface Elec-tromyography; 人体姿态估计; 感知计算; 深度机器学习; 表面肌电图; 领域自适应
+固定翼无人机地面车辆目标自动检测与跟踪,机器学习; 神经网络; neural network; machine learning; ARM; 无人机; UAV; detection and tracking; small target; target properties; 小目标; 检测与跟踪; 目标特性
+基于卷积神经网络的人脸年龄估计算法,机器学习; 卷积神经网络; 迁移学习; Transfer Learning; 图像增强; Machine Learning; Convolution Neural Networks; Image Data Augmentation
+基于深度学习和迁移学习的环境声音识别,深度学习; deep learning; transfer learning; 迁移学习; feature fusion; 特征融合; ESR; 环境声音识别
+3D打印设计与个性化制造技术,3D food printing; 3D printing; 3D打印; 3D食品打印; path optimization; portrait image reshaping; roly-poly toys design; sensitivity analysis; shell element simulation; 不倒翁设计; 人脸胖瘦调整; 壳单元有限元仿真; 打印路径优化; 灵敏度分析
+复杂网络中社区发现算法研究,复杂网络; 蚁群算法; 多目标优化; 社区发现; Multi-objective optimization; Ant colony algorithm; Biogeography optimization; Community detection; Complex networks; Cuckoo search optimization; Density based link clustering; 密度聚类; 布谷鸟算法; 生物地理优化算法
+中医健康知识图谱的构建研究,本体; 信息抽取; Ontology; Entity alignment; Information extraction; Jena; Protege; Schema; Semantic network; TCM knowledge graph; 中医知识图谱; 实体对齐; 相关性分析; 语义网络
+基于长短时记忆网络的多标签文本分类,Hierarchical Long Short-Term Memory; Label Ranking; Label Tree; Multi-label Text Classification; Optimal Path Searching; 最优路径搜索; 多标签文本分类; 层次化长短时记忆网络; 标签树; 标签置信度排序
+决策树C4.5算法的改进与应用,数据挖掘; Data mining; Spark; C4.5 algorithm; C4.5算法; classification analysis; off-line warning; 分类分析; 离网预警
+带精英策略的非支配排序遗传算法优化研究,模拟退火算法; Adaptive strategy; Global search; Local search; NSGA-II; Simulated annealing algorithm; 全局搜索; 局部搜索; 适应性策略
+基于深度学习的文本情感分析研究,深度学习; convolutional neural networks; deep learning; 卷积神经网络; sentiment analysis; 情感分析; 循环神经网络; recurrent neural networks
+基于深度学习的自然语言句法分析研究,深度学习; 自然语言处理; Deep Learning; Natural Language Processing; Dependency Parsing; 依存句法分析; Constituent Parsing; Long Short-Term Memory-II-; 短语结构分析; 长短期记忆神经网络
+微博文本情感分类研究,深度学习; 情感词典; Deep learning; LSTM; Emotion Dictionary; Microblog Text Sentiment Classification; PMI-IR; 微博文本情感分类
+基于大规模电商数据的用户消费行为分析方法研究,neural network; 人工神经网络; Spark; Hadoop; Consumer behavior; Na?ve Bayesian; 朴素贝叶斯方法; 用户消费行为分析
+基于云平台的多供应链协同技术研究,云平台; adaptive evolution; cloud platform; custom technology; dynamic evaluation; industry supply chain; information integration; 产业供应链; 信息集成; 动态评价; 定制技术; 自适应演化
+基于BP神经网络的时间序列预测研究,Genetic algorithm; 遗传算法; BP neural network; BP神经网络; MapReduce; 时间序列; Map Reduce; Time series
+基于深度学习的主题建模方法研究,深度学习; deep learning; word embedding; bi-directional LSTM; neural topic model; semantic reinforcement; 双向LSTM; 神经网络主题模型; 词嵌入; 语义强化
+MOOC中的学习行为挖掘研究,聚类分析; Clustering analysis; 关联分析; Correlation analysis; Learning behavior; Learning style; MOOC学习行为; 学习风格
+基于改进的帧差法和背景差法实现运动目标检测,帧差法; 运动目标检测; Background difference method; Edge detection algorithm; Frame difference method; Gaussian mixture model; Moving object detection; 背景差分法; 边缘检测算法; 高斯混合模型
+基于Unity3D的多平台虚拟仿真关键技术研究,Unity3D; interactive; memory consumption; render consumption; special effects; three-dimensional simulation; 三维仿真; 交互性; 内存消耗; 渲染消耗; 特效
+深度卷积神经网络及其在手写体汉字识别中的应用研究,深度学习; deep learning; 深度卷积神经网络; deep convolutional neural network; handwritten Chinese character; receptive field; 感受野; 手写体汉字识别
+深度学习算法研究及其在图像分类上的应用,深度学习; deep learning; 图像分类; Image Classification; 受限玻尔兹曼机; adaptive learning rate; alternative iteration; restricted Boltzmann machine; 交替迭代; 自适应学习率
+基于SDN的数据中心网络流量调度与负载均衡研究,负载均衡; Load Balancing; 数据中心网络; 软件定义网络; Data Center Network; Software Defined Network; Traffic Engineering; Traffic Scheduling; 流量工程; 流量调度
+沉浸式虚拟现实中人机交互关键技术研究,virtual reality; 虚拟现实; gesture recognition; 人机交互; 手势识别; 3DUI; human-computer interaction
+基于内容的推荐与协同过滤融合的新闻推荐研究,collaborative filtering; 协同过滤; 基于内容的推荐; 用户兴趣模型; 混合推荐; news recommendation; 新闻推荐; content-based recommendation; hybrid recommendation; user interest model
+基于激光扫描的三维点云数据处理技术研究,法向量估计; 特征保持; curve skeleton; feature preserving; gauss map; large scale point cloud; normal estimation; object extraction; simplification; 大场景点云; 曲线骨骼; 点云简化; 目标提取; 高斯映射
+基于SVM的网络流量特征降维与分类方法研究,特征提取; 粒子群优化算法; 特征选择; SVM; feature selection; feature extraction; 参数优化; bacterial foraging optimization algorithm; Network traffic classification; parameter optimization; particle swarm optimization algorithm; search strategy; 搜索策略; 细菌觅食优化算法; 网络流量分类
+社会网络中的节点影响力度量和k-节点集的影响力最大化问题研究,社会网络; Influence Maximization; Influence Measurement; Information Diffusion; Social network; Spreading Probability; 传播概率; 信息传播; 影响力最大化; 影响力度量
+个性化推荐的可解释性研究,人工智能; 个性化推荐; 协同过滤; Collaborative Filtering; 情感分析; Personalized Recommendation; Sentiment Analysis; Artificial Intelligence; 可解释性; Computational Economics; Explainability; 计算经济学
+基于随机梯度提升决策树的行人检测算法设计与实现,行人检测; Bootstrapping; Gradient Boosting Decision Tree(GBDT); Pedestrian Detection; Region Proposal Network(RPN); Stochastic; 区域建议网络; 梯度提升决策树; 随机梯度提升
+基于深度学习的图像识别方法研究与应用,深度学习; 卷积神经网络; Deep Belief Networks; 深度信念网络; 图像识别; Deep learning; Convolutional Neural Networks; Image recognition
+基于深度特征提取的文本情感极性分类研究,深度学习; 卷积神经网络; convolutional neural network; sentiment classification; 情感分类; gated recurrent units; long-short term memory units; recursive neural networks; 长短时记忆神经网络
+基于KNN算法的空间手势识别研究与应用,人工智能; 支持向量机; virtual reality; 虚拟现实; gesture recognition; 手势识别; support vector machine; artificial intelligence; K neighborhood; K邻近
+基于图像的指针式仪表读数自动识别技术研究,图像处理; Image Processing; Dial Extract; Hough Transform; Pointer Meter; 指针式仪表; 表盘提取; 霍夫变换
+面向问答的问句关键词提取技术研究,机器学习; 深度学习; deep learning; machine learning; 依存句法分析; dependency parsing; keywords extraction; question answering; 提取
+逻辑回归算法及其GPU并行实现研究,正则化; gpu parallel computation; GPU并行计算; gradient descent algorithm; logistic regression; regularized; 梯度下降算法; 逻辑回归
+基于word2vec的中文文本相似度研究与实现,信息检索; 词向量; VSM; 文本相似度; Word2vec; Distributed Representation; Document Similarity; Information Retrival; 向量空间模型(VSM)
+Nginx负载均衡技术研究,异构集群; Nginx; Dynamic partitioning; Heterogeneous cluster; Minimum residual load; Multi service environment; 最小剩余负载; 动态划分; 多业务环境
+基于深度学习的手写汉字识别技术研究,深度学习; deep learning; 卷积神经网络; 深度信念网络; convolutional neural network; deep belief network; Handwritten chinese characters recognition; 手写汉字识别
+基于蓝牙4.0基站角度测量的室内定位技术研究,神经网络; neural network; 复杂环境; 室内定位; indoor location; iBeacon; Android client; Android移动端和Python服务器端的系统实现; complex environment; filter forecasting; Python server; 滤波预测
+朴素贝叶斯与决策树混合分类方法的研究,决策树; Naive Bayes; 朴素贝叶斯; 分类算法; Classification Algorithm; Decision Tree; Probability Estimate; 概率估计
+基于A*算法和B样条函数的月球车路径规划研究,路径规划; Path planning; 轨迹规划; A*算法; Trajectory planning; A star algorithm; B spline function; B样条函数
+基于词向量的文本分类算法研究与改进,特征选择; 相似度; 文本分类; 词向量; feature selection; similarity; word2vec; word embedding; text categorization
+面向大规模知识图谱的弹性语义推理方法研究及应用,知识图谱; Knowledge Graph; Association Reasoning; Elastic; Real-time Query; Rule-based Reasoning; Semantic Reasoning; Streaming Reasoning; 关联推理; 实时查询; 弹性; 流式推理; 规则推理; 语义推理
+基于机器学习的软件缺陷预测方法研究,机器学习; 特征选择; feature selection; machine learning; 软件缺陷预测; feature transfer; software defect prediction; software evolution; 特征迁移; 软件演化
+面向机器人操作的目标检测与抓取规划研究,卷积神经网络; convolutional neural network; 抓取检测; grasp detection; grasp planning; pre-touch sensor; visual sensing; 抓取规划; 接近觉传感器; 视觉传感信息
+图像融合及其性能评估若干问题研究,图像处理; Image processing; 信息融合; Performance evaluation; Information fusion; Metric validation; ROC analysis; ROC分析; 性能评估; 指标验证
+医疗知识图谱构建与应用,词向量; word vector; attribute extraction; combination of knowledge graphs; knowledge graph; medical domain; 医疗领域; 属性抽取; 知识图谱; 知识图谱融合
+基于加权决策树的随机森林模型优化,随机森林; Half-Voting; Random Forests; Voting Weight; 半投票量; 投票权重
+改进的Elman神经网络和网络参数优化算法研究,遗传算法; 时间序列; 参数优化; Time Series; Elman Neural Network; Elman神经网络; GA; Network Structure; Parameter Optimization; 网络拓扑结构
+基于卷积神经网络的图像分类算法研究,卷积神经网络; image classification; 图像分类; artificial neural network; 人工神经网络; convolutional neural network; 双边滤波; bilateral filtering; PCA unsupervised pre-training; PCA非监督预训练
+多维数据可视化方法研究,Data clustering; Dimension reordering; Multi-dimensional data visualization; Parallel coordinates visualization; Sampling; Scatter plot visualization; 多维数据可视化; 平行坐标可视化; 抽样; 散点图可视化; 数据聚类; 维度重排
+面向深度网络的自编码器研究,Ensemble Learning; 集成学习; 自编码器; Sparsity; 稀疏性; Auto-Encoder; Deep Networks; l_1 Norm; l_1范数; 深度网络
+Revit Architecture三维建筑模型WebGL显示及优化,属性关联; WebGL; LOD; property association; Revit Architecture; Three.js
+基于内存数据库Redis的众包系统性能优化,数据库; Redis; MySQL; Crowdsourcing System; Datebase; Main Memory Database; 众包系统; 内存数据库
+基于机器学习的作物病害图像处理及病变识别方法研究,深度学习; deep learning; 特征提取; feature extraction; 卷积网络; deep convolutional network; lesion image recognition; RBM network; 受限玻尔兹曼机网络; 病害图像识别
+基于机器学习的软件缺陷预测研究,机器学习; machine learning; 软件缺陷预测; class imbalance defects prediction; cross-company defects prediction; software defects prediction; 类不平衡的缺陷预测; 跨公司的缺陷预测
+基于图像的人脸识别中关键技术研究,Feature extraction; 特征提取; 人脸识别; Face recognition; Classification and recognition; Feature fusion technology; Image preprocessing; 分类识别; 图像预处理; 特征融合技术
+Redis集群可靠性的研究与优化,Reliability; 可靠性; Communication Load Balancing; Fault Tolerance Mechanism; Node Election; Redis Cluster; Redis集群; 容错机制; 节点选举; 通信负载均衡
+基于BP神经网络的个人信用风险评估模型的研究,BP neural network; BP神经网络; credit risk assessment; evaluation indicator system; SFLA; 信用风险评估; 混合蛙跳算法; 评估指标体系
+基于ROS的智能工业机器人系统的设计与实现,Intelligence; 工业机器人; ROS; Industrial robot; System development; 智能化; 系统开发平台
+基于密度峰值聚类算法的电力大数据异常值检测及用电行为分析研究,特征提取; 聚类分析; Clustering analysis; Electricity behavior analysis; Featrue extract; Outlier detection; Smart grid big data; 异常值检测; 用电行为分析; 电力大数据
+基于FPGA的卷积神经网络系统的设计与实现,卷积神经网络; FPGA; convolution neural network; 并行性; dynamic reconfigurable; parallelism; reconfigurable; 动态可重构; 可重构性
+基于支持向量机的中文文本分类研究,支持向量机; SVM; 文本分类; text classification; 参数优化; 萤火虫算法; parameter optimization; Firefly algorithm
+基于CSI指纹信息的室内定位技术研究,室内定位; 无线网络; 信道状态信息; CSI; indoor localization; RSS; SVR; Wireless network; 接收信号强度; 支持向量回归
+基于监控视频的运动目标检测算法,运动目标检测; 高斯模型; inter-frame difference method; the Gaussian Mixture Model; the moving object detection algorithm; 帧间差分法
+基于深度学习的短文本分类及信息抽取研究,深度学习; Deep learning; 文本分类; LSTM; CNN; 信息抽取; Information extraction; Question classification
+布谷鸟搜索算法的应用研究与改进,Parallelization; 并行化; Boltzmann selection mechanism; Boltzmann选择策略; Cuckoo search algorithm; Discretization; 布谷鸟搜索算法; 离散化
+无人车运动控制系统设计与实现,无人驾驶车辆; Autonomous Vehicle; Lane Detection; Obstacle Detection; Path Tracking Control; Speed Tracking Control; 路径跟踪控制; 车道线检测; 速度跟踪控制; 障碍物检测
+基于卷积网络集成的面部表情识别方法,CNN; 计算机视觉; 卷积网络; 表情识别; CV; FER
+基于Hadoop的数据可视化技术研究与应用,数据可视化; 数据集成; data integration; business data analysis; data visualization; Multi database environment; 商业数据分析; 多数据库环境
+复杂背景下的光学遥感图像目标检测算法研究,目标检测; sparse representation; 稀疏表示; 遥感图像; target detection; geometric part-based model; outline continuity; pose concistency; radial-gradient angle; remote sensing image; weight matrix; 几何部件模型; 姿态一致性; 径向梯度角; 权值矩阵; 轮廓连续性
+图像处理中去噪与超像素生成算法研究,聚类; Clustering; Image denoising; Image segmentation; 图像分割; 图像去噪; Low-rank; Mesh simplification; Sparsity; Superpixels; Video denoising; 低秩性; 视频去噪; 稀疏性; 网格简化; 超像素
+基于神经网络的句法分析研究,深度学习; 自然语言处理; 神经网络; Deep Learning; Natural Language Processing; Machine Translation; Neural Net-works; Syntax Parsing; 句法分析; 机器翻译
+基于光电容积描记法的人体生理参数动态测量技术研究,1)model; 1)模型; GM(1; Photoplethysmography; pulse pressure difference measurement model; pulse wave translation time; 光电容积脉搏波; 脉压差测量模型; 脉搏波传导时间
+面向图像语义分割的新型卷积神经网络及其应用研究,卷积神经网络; 反卷积; 二值化; Binarization; Convolution Neural Networks; Deconvolution; Dropout; Pooling; Upsampling; 升频; 池化
+基于手机和可穿戴设备的用户活动识别问题研究,Human Activity Recognition; Ab- normal Activity Detection; Human Activity Prediction; Semi-Markov Model; Sensors Dispatching; Sensors Fusion; 传感器融合; 传感器调度; 半马尔科夫模型; 异常活动识别; 用户活动识别; 用户活动预测
+基于SDN的数据中心网络多路径负载均衡的研究,data center; 数据中心; 负载均衡; load balancing; SDN; Ryu controller; Ryu控制器
+改进的关联规则算法在慢性病数据挖掘中的研究,关联规则; Apriori算法; Apriori algorithm; Association rules; Chronic Diseases; Item Constraints; Pre-pruning; 事先剪枝; 慢性病; 项目约束
+基于OpenStack的云平台管理系统的设计与实现,自动化; 云计算; Cloud computing; OpenStack; Automation; Batch deployment; 批量部署
+RC有源滤波器的优化设计,参数优化; parameter optimization; amplitude-frequency characteristic; Frequency conversion; RC active filter; RC有源滤波器; system stability; 幅频特性; 系统稳定性; 频率变换
+基于中草药语义网的自动问答系统的研究与实现,QA; 自动问答; Domain Specific; RDE SPARQL; RDF; Semantic Web; SPARQL; Traditional Chinese Medicine; 中草药; 受限领域; 语义网
+基于容器云平台的网络资源管理与配置系统设计与实现,Cloud Computing; 云计算; Docker; 容器; Kubernetes; Container; Network Resource Management; Virtual Network; 网络资源管理; 虚拟网络
+复杂背景下车牌识别算法的研究,卷积神经网络; 字符识别; Convolutional Neural Networks; 字符分割; 车牌定位; Characters Recognition; Characters Segmentation; Image Deblurring; License Plate Location; Plate Correction; 模糊图像恢复; 车牌校正
+基于Spark的大规模分布式矩阵运算算法研究与实现,机器学习; 大数据; Machine Learning; Big Data; 分布式; Distributed Dataflow System; Matrix Computation; Parallel Algorithms; 并行化算法; 矩阵运算
+领域关键词抽取：结合LDA与Word2Vec,LDA模型; LDA model; 提取; keyword extraction; specific area keyword extraction; Word2Vec model; Word2Vec模型; 领域词汇
+基于卷积神经网络的目标检测若干问题研究,卷积神经网络; 迁移学习; Transfer Learning; 目标检测; Object Detection; Convolutional Neural Network(CNN); Long Short-term Memory(LSTM); Memory and Prediction; 记忆预测; 长短时记忆模型
+面向复杂数据的聚类算法研究,聚类; Clustering; Cluster Densitybackbone; Environmental pollution sampling data; Graph clustering; k nearest neighbors; k最近邻; 图聚类; 环境污染抽样数据; 簇的密度主干
+室内场景下人群疏散的若干关键技术研究,PSO; Game; 博弈; Agent; Evacuation; Monte Carlo; 人群疏散; 蒙特卡洛
+基于覆盖准则的软件测试用例自动化生成方法的研究与实现,自动化测试; Automated Tesing; Coverage Criteria; Model Checking; Model-based Testing; Symbolic  Exercution; Test Generation; 基于模型的测试; 模型检查; 测试用例生成; 符号执行; 覆盖准则
+协同过滤推荐算法的关键性问题研究,协同过滤; 推荐系统; Collaborative Filtering; 数据稀疏性; Recommender System; 可扩展性; Clustering Technique; Data Sparsity; Scalability; Top-n Recommendation; Top-n推荐; 聚类技术
+基于Spark的混合推荐系统,推荐算法; 基于内容的推荐; Spark; 混合推荐; 权重计算; Recommendation algorithm; Content-based recommendation; Hybrid recommendation; Weight calculation
+中文命名实体识别算法研究,词向量; 中文命名实体识别; multi-task learning; 多任务学习; Chinese Name Entity Recognition; hybrid model; word vec-tor; 混合模型
+卷积神经网络在图像分类中的研究与应用,深度学习; 卷积神经网络; Convolutional Neural Network; Deep Learning; Face Recognition; 人脸识别; 图像识别; Image Recognition; Sample Selection; 样本选择
+基于深度学习的微博评论情感倾向性分析,深度学习; deep learning; sentiment analysis; 情感分析; Glove; shallow learning; Word2vec; 浅层学习
+基于深度学习的协同过滤模型研究,协同过滤; Collaborative Filtering; Collaborative Topic Regression; Restricted Boltzmann Machines; Stacked Denoising Autoencoder; 协同主题回归; 受限波尔兹曼机; 栈式降噪自编码
+复杂三维点云场景中的目标识别方法研究,目标识别; 三维点云; 3D point cloud; local features; noise; object recognition; point density variation; 噪声; 局部特征; 点云密度变化
+智能监视中目标检测及跟踪算法研究,object detection; 智能视频监控; 目标检测; 深度卷积神经网络; 运动目标检测; moving object detection; 目标跟踪; deep convolutional neural network; intelligent video surveillance; visual object tracking
+基于贝叶斯网络的大数据因果关系挖掘,数据挖掘; 大数据; Big Data; Data Mining; 贝叶斯网络; (MDL) Causality; Bayesian network; Minimum Description Length; 最小描述长度; 因果关系
+K-means聚类算法的改进,数据挖掘; Data mining; k-means算法; 聚类算法; Clustering algorithm; Distante; Initial center; k-means algorithm; 初始中心; 距离
+基于排序学习和卷积神经网络的推荐算法研究,社交网络; 卷积神经网络; Convolutional Neural Network; 推荐系统; Matrix Factorization; 矩阵分解; Recommender System; Learning to Rank; 排序学习; Social Networks
+基于支持向量回归机的PM2.5浓度预测模型分析与研究,预测; prediction; SVR; lag; PM2.5; web spiders; 滞后性; 网页爬虫
+基于深度神经网络的用户会话推荐算法研究,深度学习; Deep Learning; 推荐算法; 协同过滤算法; 循环神经网络; Collaborative Filtering Algorithms; Recommender Algorithms; Recurrent Neural Networks
+基于自适应Gabor滤波的虹膜特征提取与识别方法研究,SVR; 虹膜识别; CPSO; Gabor filters; Gabor滤波器; Iris recognition; multi-feature extraction; 多特征提取; 混沌粒子群算法
+基于混沌粒子群鸡群融合优化算法的云任务调度应用与实现,Particle Swarm Optimization; 粒子群优化算法; Cloud Computing; 云计算; Chaos Particle Swarm Chicken Swarm Fusion Optimization; Chicken Swarm Optimization; Cloud Computing Task Scheduling; 云计算任务调度; 混沌粒子群鸡群融合优化算法; 鸡群优化算法
+基于属性选择的朴素贝叶斯分类研究与应用,朴素贝叶斯; 分类算法; classification algorithm; attribute selection; infertility diagnosis of TCM; naive Bayesian; structure extension; weighting coefficient; 不孕症中医诊断; 加权系数; 属性选择; 结构扩展
+改进遗传算法在多目标问题上的应用研究,遗传算法; 信息熵; Genetic Algorithm; 多目标优化; Degree Of Uniformity; Information Entropy; Multi Objective Optimization; 均匀度
+面向工业4.0的机床管理系统的研究与开发,CNC Equipment Communication; CNC information acquisition; DDE protocol; DDE协议; OPC Technology; OPC技术; 数控信息采集; 数控设备通讯
+基于Otsu的医学图像分割算法研究,灰度直方图; Medical image segmentation; 医学图像分割; 萤火虫算法; Otsu; Firefly algorithm; Gray histogram; K-dimensional tree; K-dimensional树; Valley; 波谷
+基于深度神经网络的回归模型及其应用研究,deep neural network; 深度神经网络; head pose estimation; human action classification; regression model; 人体行为分类; 回归模型; 头部姿态估计
+军事信息系统中信息融合关键技术研究,特征提取; Feature Extraction; 信息融合; Information Fusion; Target Recognition and Tracking; the Cognitive Mechanism; the Internal Model; 内部模型; 目标识别与跟踪; 认知机制
+视频中人体行为识别若干问题研究,深度学习; Deep Learning; 行为识别; Action Detection; Action Recognition; Inverted Index Tables; Spatial Temporal Features; 倒排索引表; 时空特征; 行为检测
+面向交通拥堵预测大数据的神经网络群组快速学习,clustering; 聚类; 集成学习; Extreme Learning Machine; ensemble learning; imbalanced data; traffic congestion prediction; 不平衡分类; 交通拥堵预测; 超限学习机
+回声状态网络时间序列预测方法及应用研究,时间序列预测; Computational Intelligence; Echo State Network; Recurrent Neural Network; Time Series Prediction; 回声状态网络; 计算智能; 递归神经网络
+物联网数据处理若干关键问题研究,物联网; 信息融合; Data Processing; Information Fusion; SOA Middleware; SOA中间件; Stream Computing; The Internet of Things(IoT); 实时流计算; 数据处理
+短文本信息抽取若干技术研究,短文本; 情感分析; Sentiment Analysis; Information Extraction; 信息抽取; 5W1H; Microblog Event Extraction; Product Reviews; Sentiment Word Enlargement; Short Texts; 商品评论; 微博事件抽取; 情感词扩充
+手指静脉识别方法研究,Image quality evaluation; 图像质量评价; Anatomy structure analysis; Finger vein recognition; Region of interest extraction; Soft biometrics; 感兴趣区域提取; 手指静脉识别; 解剖学结构分析; 软特征
+数控加工中加减速控制及平滑算法的研究与实现,acceleration/deceleration control; S acceleration/deceleration control; smooth transition; S型曲线加减速控制; the arc transition; 加减速控制; 圆弧过渡; 平滑转接
+基于卷积神经网络的自然场景中数字的识别,神经网络; Neural network; 字符识别; Character detection; Character recognition; Natural scenes; 字符定位; 自然场景
+基于强化学习的路径规划问题研究,路径规划; Path planning; 强化学习; Exploration and exploitation; Reinforcement learning; Unknown environment; 探索利用; 未知环境
+基于深度学习的图像分类研究,深度学习; Deep Learning; 图像分类; Image Classification; Caffe; Sample Discarder; Sample Reorganization; Siamese Neural Network; Siamese网络; 样本丢弃; 样本重组
+Louvain算法在社区挖掘中的研究与实现,Spark; Parallelization; 并行化; 分布式计算; Distributed Computing; Community; Louvain Algorithm; Louvain算法; 社区
+基于HTC Vive平台的防化训练虚拟现实系统,虚拟现实; Chemical defense; HTC Vive; Simulation training; Virtual reality; 模拟训练; 防化
+基于深度学习的动作识别方法研究,深度学习; deep learning; 特征融合; 视觉显著性; action recognition; feature combine; multi-modal; visual saliency; 动作识别; 多模态信息
+基于Hadoop平台的聚类算法并行化研究,clustering; 聚类; MapReduce; Hadoop; Canopy; Kmeans
+基于ZigBee的智能停车系统研究与实现,intelligent parking; Internet of things; 物联网; ZigBee; O2O; parking guidance; 停车引导; 智能停车
+基于STM32的小型无人机飞行控制系统设计,PID; flight control system; six-degree of freedom simulation model; small unmanned aerial vehicle(SUAV); 六自由度模型; 小型无人机; 飞行控制系统
+基于LTE MR的移动网络优化研究,Optimization; 优化; LTE Wireless Network; LTE移动网络; Measurement Report; MR; Terminal positioning; 测量报告; 终端定位; 覆盖
+双目视觉深度信息提取及其关键算法研究,双目立体视觉; binocular stereo vision; corner detection; depth extraction; depth information enhancement; feature matching; 深度信息增强; 深度提取; 特征匹配; 角点识别
+基于倾斜摄影的城市三维重建方法研究,3D reconstruction; semantic; 语义化; 3D重建; Oblique photography; simplified; 倾斜摄影; 精简
+基于混合模式的个性化音乐推荐系统的研究与实现,协同过滤; 推荐系统; Collaborative Filtering; Recommendation System; Mixed Model; Music Gene; 混合模式; 音乐基因
+基于DOM树节点重要度的WEB主题信息提取研究,Extended DOM Tree; Importance of Node; WEB Information Extraction; WEB信息提取; 扩展DOM树; 节点重要度
+基于机器学习的微博评论信息倾向性分析的研究,机器学习; 集成学习; 情感分析; machine learning; feature fusion; sentiment classification; 特征融合; ensemble learning; Weibo comment; 微博评论
+基于深度学习的问题分类的研究,LSTM; feature fusion; 特征融合; 问题分类; Question classification; 领域自适应; domain adaptation
+智能疾病导诊及医疗问答方法研究与应用,深度学习; Deep Learning; Internet Healthcare; Medical Guidance; Medical QAs; 互联网医疗; 医疗导诊; 医疗问答
+基于卷积神经网络的结肠病理图像中的腺体分割,卷积神经网络; CNN; Colon Histology; Encoder-Decoder; Gland Segmentation; 结肠病理图像; 编解码; 腺体分割
+基于Redis Cluster的分布式内存数据库研究与应用,Redis Cluster; Redis集群; Chain Update; Integers; Master-Slave synchronization; 主从同步; 整数集合; 连锁更新
+基于深度学习的糖尿病性视网膜图像分析算法研究,深度学习; 卷积神经网络; Deep Learning; 图像分类; Image segmentation; 图像分割; Convolutional neural network; Image classification; Retinal image; 视网膜图像
+基于ZigBee技术的智能家居控制系统的研究与实现,低功耗; 物联网; 智能家居; Internet of Things; ZigBee; CC2530; low power consumption; smart home
+三维点云场景中对象识别技术研究,局部特征; 3D object recognition; global feature; graph matching; local feature; Point Cloud Library; 三维物体识别; 全局特征; 图匹配; 点云库
+基于APS的生产排程系统的设计与实现,遗传算法; Genetic Algorithm; 动态; 作业调度; Advanced Planning and Scheduling; Dynamic; Flexible; Job Shop; 柔性; 高级计划排程
+基于社会化媒体的若干兴趣点推荐关键技术研究,基于位置的社交网络; 社会化媒体; location-based social networks; point-of-interest recommendation; social media; 兴趣点推荐
+移动机器人路径规划和地图创建研究,遗传算法; particle swarm optimization; 粒子群优化; genetic algorithm; path planning; 移动机器人; 路径规划; fractional calculus; mobile robots; simultaneous localization and mapping; visibility graph; 分数阶微积分; 可视图; 同时定位与地图创建
+视频图像压缩中熵编码技术研究,compressive sensing; 压缩感知; 视频编码; arithmetic coding; context modeling; entropy coding; throughput; Video coding; 上下文建模; 吞吐率; 熵编码; 算术编码
+面向室内场景的3D场景重建与语义理解,服务机器人; Indoor Scene Understanding; RGB-D Reconstruction; RGB-D Semantic Segmentation; RGB-D场景重建; RGB-D语义分割; Semantic Map- ping; Service Robotics; 室内场景理解; 语义地图
+基于自适应卡尔曼滤波器的WSN定位算法研究,无线传感器网络; Adaptive Kalman filter; Evolutionary model; Fingerprint matching; Multidimen-sional scaling; Wireless sensor network; 多维定标; 指纹匹配; 演化模型; 自适应卡尔曼滤波器
+精确Web信息抽取关键技术与系统研究,数据集成; accurate web information extraction; data field; data integration; data record; navigation; 数据记录; 数据项; 浏览导航; 精确Web信息抽取
+Android移动设备的数字取证关键问题研究,Android; Reverse Engineering; 逆向工程; 安卓; Digital Forensics; Malware Detection; Mobile Forensics; 恶意程序检测; 数字取证; 移动设备取证
+融合上下文信息的混合协同过滤推荐算法研究,迁移学习; 协同过滤; 推荐系统; Collaborative filtering; 矩阵分解; Recommender systems; Transfer learning; Content association; Hierarchical classification; Matrix factorization; 内容关联; 层次分类
+基于机器学习的癌症诊断方法研究,机器学习; SVM; Machine Learning; Breast Cancer; Intelligent Diagnosis; 乳腺癌; 智能诊断
+面向企业营销的全景用户画像与模型预测,Random Forest; 随机森林; Distributed Data Storage and Management; Gradient Boosting Decision Tree; Linear Model; Panorama Persona; 全景用户画像; 分布式数据存储与管理; 线性模型; 迭代决策树
+基于HowNet的短文本语义相似度计算方法研究,复杂网络; 短文本; 短文本相似度; 情感特征; Chinese words; complex network; emotion feature; Short text; short text similarity; vector; 中文词语; 向量
+基于主成分分析和模糊综合评价的机场员工绩效评价研究,主成分分析; Fuzzy comprehensive evaluation; Fuzzy evaluation matrix; Performance evaluation; Principal component analysis; 模糊综合评价; 模糊评价矩阵; 绩效评价
+自动编码器相关理论研究与应用,机器学习; 深度学习; Deep Learning; Machine Learning; Autoencoder; Computational Cognitive Neuroscience; Stacked Autoencoders; 堆叠自动编码器; 自动编码器; 认知计算
+基于深度Q网络算法与模型的研究,深度学习; Deep Learning; 强化学习; Deep Deterministic Policy Gradient; Deep Q-Network; Deep Reinforcement Learning; Reinforcement Learning; 深度Q网络; 深度强化学习; 深度确定性策略梯度
+探索性数据可视化分析系统的设计与实现,大数据; Big Data; 数据可视化; Spark; Data Visualize; GeoHash; Heatmap
+基于轨迹和POI数据的热点区域实时预测,LBS; POI; real-time anticipation; trajectory computing; 实时预测; 轨迹计算
+基于代价模型的Spark SQL查询优化研究,数据库; Spark; 查询优化; Database; cost model; Query optimization; 代价模型
+基于SPARK的海量数据频繁模式挖掘算法研究,Spark; 频繁模式; frequent patterns; perceptual improtant point; time series compression; 感知重要点; 时间序列压缩
+多源数据关联与融合算法研究,Data Association; 数据关联; Connection Degree; Multi-source Data Fusion; PDA Algorithm; PDA算法; Set Pair Analysis; 多源数据融合; 联系度; 集对分析
+基于改进SURF算法和神经网络的水果识别技术研究,BP neural network; BP神经网络; pattern recognition; 模式识别; 权值; SURF algorithm; SURF算法; weights
+基于MapReduce的高校大数据分析挖掘,大数据; MapReduce; Big Data; Apriori; C4.5; Hadoop2.0
+多传感器数据融合技术在煤矿瓦斯预警中的应用研究,D-S证据理论; coal mine safety; Dempster-Shafer evidence theory; gas early-warning; multi-sensor data fusion; 多传感器数据融合; 煤矿安全; 瓦斯预警
+基于WIFI与移动智能终端的室内定位技术研究,室内定位; Indoor Positioning; Gauss process regression; Location fingerprint; PDR; WIFI; 位置指纹; 高斯过程回归
+基于HBase的弹性可视化遥感影像存储系统,HBase; storage; 存储; Remote sensing visualization; 遥感影像可视化
+基于Hadoop和Mahout的K-Means算法设计与实现,数据挖掘; 云计算; Cloud computing; Hadoop; K-Means; Mahout; Data minding
+Apriori算法研究及在本科招生数据挖掘中应用,数据挖掘; Data mining; Apriori算法; Apriori algorithm; Association rule algorithm; Enrollment information; 关联规则算法; 招生信息
+基于Hadoop的医疗辅助诊断系统的设计与实现,关联规则; 医疗大数据; Hadoop; Association rules; 逻辑回归; Logistic regression; Medical Data; Medical diagnose aided system; 医疗辅助诊断
+基于情感倾向性的网络舆情分析及演化预测研究,特征选择; Feature Selection; Multiple Linear Regression; Orientation Classification; Public Opinion; 倾向性分类; 多元线性回归; 舆情分析
+监控场景中人数统计算法的研究与应用,机器学习; 卷积神经网络; Intelligent Video Surveillance; 智能视频监控; Machine Learning; Convolutional neural network; 卡尔曼滤波器; Crowd counting; Kalman Filter; 人数统计
+基于中文知识图谱的电商领域问答算法设计与系统实现,知识图谱; Knowledge Graph; Dependence Reducing; Electronic Commerce; Question Answering; Question of Diversity; 依赖缩减; 电子商务; 问句多样性; 问答系统
+医学图像配准的关键技术研究,学习理论; learning theory; Lie group; manifold; medical image registration; nonlinear data structure; 医学图像配准; 李群; 流形; 非线性数据结构
+基于社会媒体的市场行情预测方法研究,Social Media; Consumption Intention Mining; Market Trends Prediction; Movie Box-Office Revenues Prediction; Open Event Extraction; Stock Price Movement Prediction; 市场行情预测; 开放式事件抽取; 消费意图挖掘; 电影票房预测; 社会媒体; 股市涨跌预测
+车载单目远红外行人检测关键技术研究,支持向量机; Support Vector Machine; Automotive Driver Assistance Systems; Far-infrared Pedestrian Detection; Head Detection; Histogram of Oriented Gradients; Pedestrian Feature Extraction; Pedestrian Segmentation; Scene Contextual Information; 场景上下文信息; 头部检测; 梯度朝向直方图; 汽车驾驶辅助系统; 行人分割; 行人特征提取; 远红外行人检测
+大规模稀疏支持向量机算法研究,数据挖掘; data mining; 支持向量机; optimization; support vector machine; classification problem.b; Large scale; loss function; sparse learning; 最优化; 分类问题; 大规模; 损失函数; 稀疏学习
+服务机器人任务理解的关键技术研究,服务机器人; 人机交互; Human-Robot Interaction; Meta-Language; Semantic Parsing; Service Robots; Task Understanding and Planning; 任务理解和规划; 元语言框架; 语义解析
+针对含有概念漂移问题的增量学习算法研究,Ensemble Learning; 集成学习; 增量学习; Supervised Learning; 监督学习; Concept Drift; Data Stream Mining; Incremental Learning; Online Learn-ing; 在线学习; 数据流挖掘; 概念漂移
+基于Hyperledger Fabric的区块链应用系统云服务化,Blockchain; 区块链; 智能合约; Cloud Services; Hyperledger fabric; Smart Contract; 云服务化
+基于工业大数据的设备健康与故障分析方法研究与应用,故障诊断; Distributed Platform; Fault Diagnosis; Health Management; Reconfigurable; 健康管理; 分布式平台; 可重构
+特征选择与特征学习算法研究,feature learning; 特征学习; 特征选择; feature selection; relevance; AutoEncoder; redundancy; 冗余度; 相关度; 自编码
+基于超体素区域增长的点云分割算法研究,区域增长; Point cloud segmentation; Point Feature Histogram; Region growing; Supervoxel; 点云分割; 点特征直方图; 超体素
+基于移动信令数据的用户出行行为研究,DBSCAN; mobile signaling data; resident travel behavior; semantic; traffic area; 交通小区; 居民出行行为; 移动信令数据; 语义化
+车联网中匿名认证方案与安全协议的研究,车联网; conditional privacy protection; location privacy; secure authentication; trajectory confusion; vehicular ad hoc network(VANET); 位置隐私; 安全认证; 条件隐私保护; 轨迹混淆
+基于一维卷积神经网络的车载语音识别技术研究,convolutional neural networks; 卷积神经网络; in-car environment; speech recognition; voice activity detection; weighted power spectrum; 加权功率谱; 语音端点检测; 语音识别; 车载环境
+改进的萤火虫算法及其在PID控制器参数整定中的应用,萤火虫算法; Adaptive Step Strategy; Directed Strategy; Glowworm Swarm Optimization; Parameter Tuning; PID Controller; PID控制器; 参数整定; 导向策略; 自适应步长
+基于SVM和HMM算法的中文机构名称识别,自然语言处理; SVM; HMM; 命名实体识别; Chinese organization name; HMM model; Named Entity Recognition(NER); Natural Language Processing(NLP); SVM model; 中文机构名称
+基于深度神经网络的视频烟雾检测研究,卷积神经网络; 深度神经网络; Convolutional neural network; Deep neural network; Texture feature; Video based smoke detection; 视频烟雾检测; 纹理特征
+基于MPU6050的微小型无人机AHRS设计研究,AHRS; MEMS; MPU6050; MUAV; 微小型无人机; 航姿参考系统
+基于车路协同的车辆追尾预警系统的研究与实现,Cooperative vehicle infrastructure technology; Error compensation; Rear end collision warning; Safety distance model; 安全距离; 误差补偿; 车路协同; 追尾预警
+基于Android平台的OCR识别技术研究与实现,Directional White Run-length; Native Development Kit; Optical Character Recognition; Text Image; 光学字符识别; 原生开发工具集; 文本图像; 方向白游程
+基于内容的医学图像检索技术研究与应用,支持向量机; 基于内容的图像检索; Support Vector Machine; 灰度共生矩阵; SIFT; Content-based Image Retrieval; Gray Level Co-occurrence Matrix; WS-GLCM
+Canny算子与形态学相融合的边缘检测算法研究与应用,边缘检测; edge detection; 融合; Canny operator; Canny算子; fusions; morphology; 形态学
+基于Storm的流数据聚类挖掘算法的研究,聚类; Storm; cluster; 分布式; distributed; Mahalanobis Distance; stream data; 流数据; 马氏距离
+基于细粒度监控的Spark优化研究,性能优化; Performance Monitoring; 性能监控; Performance Optimization; Spark; Execution Time Prediction; Resource Allocation Optimization; 执行时间预测; 资源分配优化
+基于OpenStack云资源监控系统设计与实现,OpenStack; Ceilometer; Cloud resource monitoring; InfluxDB; Time series database; 云资源监控; 时间序列数据库
+基于LM改进的RBF神经网络算法研究,人工神经网络; RBF神经网络; Artificial neural network; RBF neural network; Error correction algorithm; LM algorithm; LM算法; 误差校正算法
+基于红外图像处理的变电站设备故障诊断,denoising; segmentation; fault detection; infrared image; substation; 分割; 去噪; 变电站; 故障检测; 红外图像
+移动增强现实技术研究,社交网络; social network; Android platform; 安卓平台; 增强现实; 3D registration technology; Augmented reality; keyword extraction technology; 三维注册技术; 关键词提取技术
+基于RFID的室内定位技术研究,博弈论; RFID; 定位; Constant Game; Constrained Space; Gradient; Localization; Strategy of Perception; 受限空间; 感知规则; 梯度
+物联网网关异构协议中间件关键技术研究,generalization object factory; heterogeneous protocol middleware; IoT gateway; thread pool; 异构协议中间件; 泛化对象工厂; 物联网网关; 线程池
+基于卷积神经网络的推荐算法,大数据; 卷积神经网络; 推荐系统; Convolution neural network; 推荐算法; Big data; Recommendation algorithm
+PaaS云平台自动化部署和监控的设计与实现,自动化; Cloud Computing; 云计算; PaaS; Cloud Foundry; deployment; monitoring; 监控; 部署
+压缩感知重构算法及其应用研究,图像去噪; 压缩感知; Compressed Sensing; Image De-noising; reconstruction algorithm; SAMP; Total Variation algorithm; 全变分算法; 稀疏自适应匹配追踪算法; 重构算法
+基于AHP和BP的信息安全风险评估研究,particle swarm optimization; 粒子群优化; 层次分析法; analytic hierarchy process; information security risk assessment; principal component analysis neural networks; 主元神经网络; 信息安全风险评估
+基于云平台的高并发WebGIS系统研究,性能; 负载均衡; WebGIS; 云平台; 高并发; Performance; 缓存; Load Balancing; Cache; Cloud Platform; Database Cluster; High Concurrency; 数据库集群; 网络地理信息系统
+基于深度学习的文本情感分析,深度学习; 卷积神经网络; Convolutional Neural Network; Deep Learning; Text Sentiment Analysis; 文本情感分析; Recurrent Neural Network; 循环神经网络
+基于显著性和LBP方法的车辆检测,车辆检测; Saliency; Adaboost classifier; Adaboost分类器; LBP; The Vehicle Detection; 显著性
+个性化推荐系统关键技术研究,推荐系统; Social Network; Context; Recommender System; 上下文信息; Probabilistic Matrix Factorization; 概率矩阵分解; Social Recommendation; 社交关系网络; 社会化推荐
+基于信息融合的医学图像阈值分割及评价方法研究,阈值分割; 医学图像; Fusion scheme; Intermal Generative Mechanism; Medical image; Objective evaluation; Thresholding segmentation; 内部生成机制; 客观评价; 融合策略
+合成孔径雷达图像特征提取的方法研究,特征提取; 边缘检测; feature extraction; edge detection; straight line detection; synthetic aperture radar; unbiased localization; 合成孔径雷达图像; 定位无偏; 直线检测
+云计算中基于任务特性和资源约束的调度方法研究,Task Classification; Cloud Computing; 云计算; 任务调度; 多目标优化; Energy; Entropy Optimization; Multi-objective Optimization; Resource Evaluation; Task Scheduling; 任务分类; 熵优化; 能耗; 资源评估
+观点挖掘中评价对象抽取方法的研究,Opinion Mining; 观点挖掘; 评价对象抽取; Logic Programming; Opinion Target Extraction; Opinion Target Recommendation; Rule Selection; 规则选择; 评价对象推荐; 逻辑编程
+面向可靠性的微服务系统自适应调整技术研究,微服务架构; large-grained service flow combination; microservice architecture; microservice system reliability; microservice vector reliability model; multi-community system reliability; probability model checking; reliability analysis; 可靠性分析; 多实例微服务系统可靠性; 多社区微服务系统可靠性模型; 大粒度服务流程组合; 微服务向量可靠性模型; 概率模型检验
+若干集合覆盖问题的方法研究,Exact method; Heuristic method; The classical minimum set covering problem; The maximum set k-covering problem; The minimal set covering problem; The minimum weight set covering problem; 最大集合K覆盖问题; 最小加权集合覆盖问题; 启发式方法; 极小集合覆盖问题; 精确方法; 经典最小集合覆盖问题
+基于深度学习和知识策略的蒙古文古籍识别研究,卷积神经网络; Convolution Neural Network; Error Correction; Historical Mongolian Document; Holistic Recognition; Knowledge-based Strat- egy; Segmenta- tion-based Recognition; 基于切分的单词识别; 整词识别; 知识策略; 蒙古文古籍; 错误校正
+云环境下DDoS攻防体系及其关键技术研究,云计算; Cloud computing; Performance evaluation; 性能评估; DDoS attack defense; DDoS attacks; DDoS攻击; DDoS攻击防御
+基于改进K-means聚类的推荐方法研究,推荐系统; 相似度; K-means; Similarity; K-means算法; Recommender System; 聚类中心; Cluster Center; Trust; 信任度
+植物图像识别方法研究及实现,深度学习; 卷积神经网络; Convolutional Neural Network; 特征提取; 图像识别; Feature Extraction; Image Recognition; Deep Le-arning; Fine-grained Images; Medicinal Plant Image; 微差图像; 药用植物
+基于卷积神经网络的行人重识别算法,深度学习; convolutional neural networks; deep learning; 卷积神经网络; metric learning; person re-identification; similarity match; 度量学习; 相似度度量; 行人重识别
+基于K-Means的慕课用户行为分析研究,Model; 用户行为分析; User Behavior Analysis; Prediction; 预测模型; K-Means Feature Selection; K-Means特征选择; MOOC; 慕课
+基于卷积—长短时记忆神经网络的时序信号多粒度分析处理方法研究,卷积神经网络; LSTM; convolutional neural network; brain motor imagery recognition; multi-granularity feature fusion; speeh emotion recognition; 多粒度特征融合; 脑运动想象识别; 语音情感识别
+深度学习技术在中文人物关系抽取中的应用研究,深度学习; Deep learning; RNN; CNN; 注意力机制; Attention mechanism; Chinese personal Relation Extraction; Distant supervision; 中文人物关系抽取; 远程监督
+复杂背景下证件识别技术的研究与实现,神经网络; 图像处理; Image processing; OCR; Documents recognition; Neural Network; 证件识别
+基于词典与统计结合的中文分词方法研究及全文检索系统设计,中文分词; chinese word segmentation; full text retrieval; HMM Model; HMM模型; lucene; Lucene; Resource Library; 全文检索; 资源库
+协同过滤算法的改进与应用研究,个性化推荐; 协同过滤; Collaborative Filtering; Personalized Recommendation; 数据稀疏; Item Category; Service Attributes; Sparse Data; 服务属性; 项目类别
+基于深度学习的图像压缩方法研究,深度学习; deep learning; 卷积神经网络; Convolutional Neural Network; classification; 分类; Image compression; JPEG; 图像压缩
+基于UDP的数据传输可靠性保障机制研究及应用,Reliability; 可靠性; Congestion control; D-ERUDP; Efficiency; UDP; 拥塞控制; 高效性
+基于机器学习的SQL注入检测技术研究,机器学习; Machine learning; Grammatical analysis; Hierarchical threaten; Lexical analysis; SQL injection; SQL注入; 威胁分级; 词法分析; 语法分析
+基于无人机遥感的水稻氮素营养诊断研究,Inversion model; Multispectral imaging; Nitrogen; Rice canopy; SPAD; 反演模型; 多光谱成像; 氮素; 水稻冠层
+国产操作系统应用软件部署对策的探讨,Application im plementations; Native operating system; Software industry chain; 国产操作系统; 软件产业链; 软件部署
+用户画像构建技术研究,机器学习; 深度学习; Deep Learning; User Profiling; 用户画像; Machine Learning; 新浪微博; Sina weibo; State Grid; 国家电网
+K-means算法的改进及其在文本聚类中的应用研究,K-means Algorithm; Optimal Clustering Number; 最佳聚类数; 初始聚类中心; K-means算法; 文本聚类; Boundary sample; Clustering by Fast Search and Find of Density Peaks; Initial Clustering; Text Clustering; 快速密度峰值搜索算法; 边界样本
+基于数值预报的空气质量预测模型的研究,Air quality prediction; dynamic weight update; integration correction; multi-mode; numerical prediction; 动态权重更新; 多模式; 数值预报; 空气质量预测; 集成修正
+中文微博短文本主题挖掘方法研究与原型系统开发,微博短文本; 文本聚类; Text Clustering; Frequent Closed Item Sets; Micro-blogging Short Text; Subject Mining; Word of Co-occurrence; 主题挖掘; 词对共现; 频繁闭项集
+制造业大数据分布式存储管理方法研究,分布式存储; Association; Distributed Storage; Manufacturing Big Data; Object Deputy Model; Storage Optimization; 关联关系; 制造业大数据; 存储优化; 对象代理模型
+基于深度学习的复杂光照条件下人脸识别技术研究,卷积神经网络; 人脸识别; face recognition; convolutional neural network; batch normalization; complex illumination conditions; data augmentation; 复杂光照条件; 批规范化技术; 数据增强
+分布式爬虫应用中布隆过滤器的研究,Hadoop; Bloom Filter; distributed web crawler; URL Filter; URL去重; 分布式网络爬虫; 布隆过滤器
+新型协同过滤推荐算法研究,社交网络; 协同过滤; Collaborative filtering; 推荐算法; 标签; Social network; Item similarity learning; Label; Recommendation algorithm; 项目相似度学习
+基于SDN的多路径负载均衡算法及流表分配优化算法研究,负载均衡; load balancing; data center network; flowtable; multi-path; SDN; 多路径; 数据中心网络; 流表
+基于电子病历的深度神经网络预测模型研究与应用,数据挖掘; 自然语言处理; 深度神经网络; Data Mining; Natural Language Processing; 电子病历; Deep Neural Network; Electronic Health Records
+基于CSI的室内指纹定位算法研究,室内定位; 指纹定位; Channel State Information; Fingerprint positioning; Indoor Positioning; Wireless Wi-Fi; 信道状态信息; 无线Wi-Fi
+面向服务机器人的行人检测与跟踪,服务机器人; flood tracking model; layered particle filter; people detection and tracking; service robot; 分层粒子滤波; 洪泛滥跟踪模型; 行人检测与跟踪
+基于URL模式的网页分类算法研究,URL pattern; URL模式; Web mining; Web page classification; Web挖掘; 网页分类
+SDN中基于多维条件熵的DDoS攻击检测与防护研究,attack detection; attack prevention; distributed denial of service attack; multidimensional conditional entropy; Software defined network; 分布式拒绝服务攻击; 多维调件熵; 攻击检测; 攻击防护; 软件定义网络
+基于iBeacon技术的室内定位系统的研究和实现,室内定位; Indoor location; iBeacon; Indoor navigation; RSSI; 室内导航
+基于深度学习的图像分类算法研究,深度学习; deep learning; 卷积神经网络; image classification; 图像分类; convolutional neural network; 受限玻尔兹曼机; restricted Boltzmann machine; convolutional coding; 卷积编码
+基于深度学习的人脸特征提取与匹配,深度学习; Deep Learning; 深度卷积神经网络; Deep Convolutional Neural Network; Facial Feature Extraction; Facial Feature Matching; Step-matching Algorithm; 人脸特征匹配; 人脸特征提取; 分步特征匹配算法
+网络爬虫技术在云平台上的研究与实现,网络爬虫; distributed system; 云平台; 分布式; cloud platform; web crawler
+聚类算法和卷积神经网络在文本情感分析中的应用研究,深度学习; 卷积神经网络; Deep learning; 文本分类; 情感分析; Sentiment analysis; Convolutional neural networks; Sentence classification; Sentiment intensity prediction; 情感强度预测
+基于机器视觉的色差检测系统研究与设计,相似性度量; 图像处理; 机器视觉; Machine Vision; Image Processing; Color Difference Detection; Color Difference Formula; Similarity Measurement; 色差公式; 色差检测
+基于MongoDB的数据存储与查询优化技术研究,MongoDB; Query; 查询; Bloom Filter; 布隆过滤器; Data Detection; 重复数据检测
+分布式矢量瓦片生产与访问系统的设计与实现,Distributed Vector Slicing; Vector Map; Vector Tile; 分布式矢量切片; 矢量地图; 矢量瓦片
+基于Spark的分类回归树算法并行性研究,数据挖掘; 决策树; Data Mining; Spark; 并行化; Parallelism; CART; Decision Tree; SPARK
+基于Pareto支配的高维多目标进化算法研究,clustering; 聚类; 高维多目标优化问题; Constraint dominance; Evolutionary algorithm; Many-objective optimization problem; Pareto dominance; Pareto支配; 约束支配; 进化算法
+基于学习路径图的习题推荐算法研究,推荐算法; knowledge point; learning path graph; question classification; recommendation algorithm; 习题分类; 学习路径图; 知识点
+套牌车辆的车型识别与检索技术研究,Experience Threshold; Fake Plate Vehicles; SVM经验阈值; Vehicle Face; Vehicle Recognition; Vehicle Retrieval; 套牌车; 车型识别; 车脸; 车辆检索
+云计算环境下实时日志分析系统的设计与实现,云计算; 数据可视化; cloud computing; data visualization; 故障预测; failure prediction; log data system; real time computing; 实时计算; 日志系统
+面向评论文本基于情感分析的可信推荐模型研究,Feature extraction; sentiment analysis; 情感分析; 特征抽取; D-S evidence theory; D-S证据理论; credible recommendation; credit score; 信用评分; 可信推荐
+基于Hadoop平台的并行数据挖掘算法研究,数据挖掘; Data Mining; Hadoop平台; Hadoop; HDFS; Classification and clustering algorithm; 分类聚类算法
+全方位移动机器人控制系统研究与实现,定位; Control systems; Motion Planning; Omni-directional wheeled mobile Robot; Positioning; Tracking; 全方位移动机器人; 控制系统; 轨迹跟踪; 运动规划
+电商系统中数据可视化技术研究,Canvas; Data Visualization; 电子商务; E-commerce; Spring MVC; 数据可视化技术
+基于深度学习的分类算法研究及应用,深度学习; Deep Learning; 自适应; 参数优化; Parameter Optimization; Self-adaptive; Support Vector Data Description; 支持向量数据描述
+基于ARM的伺服控制器研发,ARM; PMSM; SVPWM; vector control; 永磁同步电机; 矢量控制; 空间电压矢量脉宽调制
+垂直搜索引擎中关键技术的研究,中文分词; Chinese word segmentation; Heritrix crawler; Heritrix爬虫; Lucene index; Lucene索引; Vertical search engine; 垂直搜索引擎
+动态车辆路径问题建模与优化算法研究,ALNS; crowdsourced logistics; DVRP; GRASP; HS; MBO; Metaheuristic; 众包物流; 动态车辆路径问题; 启发式算法; 和声搜索算法; 帝王蝶优化算法; 自适应大邻域搜索算法; 贪婪随机自适应搜索算法
+面向小样本的文本分类模型及算法研究,机器学习; Feature selection; 特征选择; Machine learning; 文本分类; Text categorization; Instance selection; Large/Small dataset; 大/小样本; 实例选择
+无线传感器网络面向低功耗的MAC协议及跨层优化研究,无线传感器网络; wireless sensor network; cross-layer optimation; medium access control; multi-channel; route discovery; 介质访问控制协议; 多信道通信; 跨层优化; 路由发现
+基于深度学习的人脸表情识别方法研究,深度学习; deep learning; feature learning; 卷积网络; confidence network; convolutional network; facial expression recognition; recurrent network; residual network; 循环网络; 残差网络; 置信网络; 表情识别
+匿名网络追踪溯源关键技术研究,anonymous network; anonymous network traffic identification; network fingerprinting; network traceback; 匿名网络; 匿名网络流量识别; 网站指纹; 网络追踪溯源
+基于上下文的目标检测研究,卷积神经网络; 目标检测; Convolutional neural network; Context; 上下文; Hough voting; Mixture of experts; Object detection; 混合专家; 霍夫投票
+图像质量评价若干问题研究,图像质量评价; general Laplacian model; image quality assessment; perceptual grouping; pooling; 合并策略; 广义拉普拉斯模型; 感知分组
+基于词表示和深度学习的生物医学关系抽取,深度学习; Deep Learning; Word Embedding; Drug Drug Interaction Extraction; Protein-Protein Interaction Extraction; 药物关系抽取; 蛋白质关系抽取; 词表示
+内存计算框架性能优化关键技术研究,Spark; Cluster Performance; Efficiency Model; In-memory Computing; Resource Configuration; Shuffle Optimization; Shuffle优化; 内存计算; 效率模型; 资源配置; 集群性能
+图像局部特征匹配性能增强研究,saliency; color space; entropy; Gaussian scale space; Image local feature extraction; image local image feature description; maximum entropy estimation; scale invariant feature; 最大熵估计; 图像局部特征描述; 图像局部特征提取; 尺度不变特征; 显著性分割; 熵; 颜色空间; 高斯尺度空间
+高通量RNA-seq测序数据的基因表达水平分析研究,analysis pipeline; differential expression analysis; expression level estimation; gene expression analysis; RNA-seq technology; RNA-seq技术; 分析通道; 基因表达水平分析; 差异表达分析; 表达水平估计
+求解车辆路径问题的蚁群优化算法研究及应用,蚁群优化算法; Vehicle Routing Problem; 车辆路径问题; Ant colony optimization algorithm; Grey model; Max-Min Ant System; The Ant-genetic fusion strategy; The climbing hill strategy with sidesteps; 侧步爬山策略; 最大最小蚂蚁系统; 灰色模型; 蚂蚁遗传融合策略
+重力全张量梯度数据的并行反演算法研究及应用,并行计算; CUDA; MPI; OpenMP; 3D density inversion; Full tensor gravity gradiometry(FTG); Hybrid programming; Parallel computing; 三维密度反演; 混合编程; 重力全张量梯度数据(FTG)
+基于二维Gabor滤波的虹膜特征表达及识别方法研究,特征提取; 特征融合; Feature Extraction; Energy-Orientation Feature; Feature Fusion; Histogram Transform; Iris Recognition; Local Texture Analysis; Multimodal Biometric; 区域纹理分析; 多模态生物特征识别; 直方图变换; 能量方向特征; 虹膜识别
+基于置信规则库的网络安全态势感知技术研究,network security situation; 网络安全态势; 安全评估; belief rule base; evidential reasoning rule; hidden behavior prediction; security assessment; 置信规则库; 证据推理规则; 隐含行为预测
+协同过滤推荐系统中的数据稀疏性及冷启动问题研究,冷启动问题; 协同过滤; 数据稀疏问题; Collaborative Filtering; Autoencoder; Cold-start Problem; Data Sparsity Problem; Probabilistic Matrix Factorization; 概率矩阵分解; 自编码器
+人脸识别中人脸检测和特征提取算法的研究,卷积神经网络; 特征提取; 人脸识别; 特征选择; face recognition; feature selection; convolution neural network; face detection; 人脸检测; feature extraction; Gabor wavelet transform; Gabor小波变换
+卷积神经网络权值初始化方法研究,卷积神经网络; principal component analysis; 主成分分析; convolutional neural network; convolutional filter; initialization; 初始化; 卷积核
+基于神经网络的光伏功率短期预测方法的研究,BP neural network; BP神经网络; 小波神经网络; 灰色关联分析; 思维进化算法; Grey correlation analysis; Mind evolutionary algorithm; Photovoltaic power prediction; Similar day; Wavelet neural network; 光伏功率预测; 相似日
+基于OPC UA技术的智慧农业的研究与应用,labview; Intelligent greenhouses; Labview; OPC UA; PLC; real time monitoring; 实时监控; 智能大棚
+基于深度学习的属性抽取技术研究,词向量; Feature; 特征; Word Embedding; 属性抽取; 远程监督; Distant Supervision; Long and Short Term Memory; Multi-Instance and Multi-Label; Slot filling; 多实例多标签; 长短期记忆网络
+基于单目摄像头的实时三维重建,三维重建; 3D Reconstruction; Fast Depth Recovery; Monocular; 单目; 快速深度恢复
+基于领域知识图谱的个性化推荐方法研究,词向量; 图模型; 信息推荐; knowledge graph; 知识图谱; entity disambiguation; graphical model; information recommendation; word embedding; 实体消歧
+基于特征描述的图像匹配技术研究,robustness; 鲁棒性; 图像匹配; Image matching; SIFT; Binary feature descriptors; Delaunay triangulation; Delaunay三角剖分; 二进制特征描述子
+类别不平衡与代价敏感数据的集成分类方法研究,机器学习; Ensemble Learning; 集成学习; Machine Learning; Resampling; 重采样; Class-imbalance Learning; Cost-sensitive Learning; 代价敏感分类; 类别不平衡分类
+极限学习机隐含层节点选择算法研究,机器学习; 人工神经网络; 正则化; Machine Learning; 增量学习; Artificial Neural Networks; Extreme Learning Machine; 极限学习机; Incremental Learning; Prunning Method; Regular-ization; 剪枝法
+基于视频图像的森林火灾自动监测识别技术研究,特征提取; 图像识别; 支持向量机; SVM; feature extraction; forest fire; image identification; motion detection; 森林火灾; 运动检测
+基于图像的非接触式人体测量算法的研究与实现,特征点提取; Anthropometric algorithm; circumference fitting; contour extraction; feature point extraction; Snake Model; 主动轮廓模型; 人体测量技术; 围度拟合; 轮廓提取
+基于Redis的一致性分析与改进,NoSQL; Redis; Data Consistency; Master-Slave Data Synchronization; 主从数据同步; 数据一致性
+高鲁棒性驾驶员疲劳检测方法研究,CNN; driver fatigue detection; driving fatigue; 疲劳检测; 驾驶疲劳
+基于神经网络的中文命名实体识别研究,深度学习; Deep learning; 中文命名实体识别; Bi-directional long-short term memory (Bi-LSTM); Chinese named entity recognition; Segment-level Chinese named entity recognition; 双向长短期记忆模型; 片段级中文命名实体识别
+基于网络日志的用户行为分析与研究,用户画像; 聚类算法; clustering algorithm; user behavior; 用户行为; recommendation model; session; user portrait; Web log; Web日志; 会话; 推荐模型
+基于微服务化的Web后台系统架构优化及实现,Docker; Zookeeper; docker; flume; Flume; gradle; Gradle; micro service; servitization; shiro; Shiro; zookeeper; 微服务; 服务化
+基于出租车轨迹数据挖掘的居民出行特征研究,轨迹数据挖掘; hot region extraction; land-use classification; taxi; trajectory data mining; trip feature; 出租车; 出行特征; 热门区域发现; 社会功能识别
+基于GPU的深度学习算法并行化研究,深度学习; Deep Learning; CUDA; GPGPU; GPU通用计算; ReLu; Unrolling Convolution; 卷积展开
+基于时空约束的城市热点区域与热点路径挖掘,Attractive Areas; Popular Routes; Spatiotemporal Pattern Discovery; Taxi Trajectory Data; Trajectory Clustering; 出租车轨迹数据; 时空移动模式挖掘; 热点区域; 热点路径; 轨迹聚类
+基于卷积神经网络的12306验证码识别,卷积神经网络; 迁移学习; Convolutional Neural Network; Transfer Learning; 图像分类; Image Classification; Fine-tune
+基于大数据的食品安全风险评估方法研究,大数据; BP neural network; BP神经网络; Big Data; Risk Assessment; 风险评估; Food Safety; ISODATA; 食品安全
+高校学生日常行为异常检测的一种改进模糊聚类方法,相似度; 异常检测; Similarity; Anomaly Detection; Fuzzy C-mean; Students Behavior; 学生行为; 模糊C-均值
+基于深度学习的非限定条件下人脸识别研究,人脸识别; 深度卷积神经网络; Face recognition; 3D face; data cleaning; deep convolution neural network; front image synthesis; 三维人脸; 数据清理; 正面图像合成
+青铜器文物碎片虚拟拼接技术研究及几何特征提取,Curve matching; Extracting feature size; Pieces of bronze; Stitching in the threedimensional space; Stitching in the two-dimensional plane; 三维拼接; 二维拼接; 曲线匹配; 特征尺寸提取; 青铜器碎片
+点云数据处理及规则曲面拟合,point cloud compression; points de-noising; ruled surface fitting; total least squares; 整体最小二乘; 点云压缩; 点云去噪; 规则曲面拟合
+单幅雾天图像的去雾算法研究,atmospheric veil optimization; haze removal algorithm; the weight; transmission correction; weighted guided filter; 加权引导滤波; 图像去雾算法; 大气面纱优化; 天空; 权值; 透射率修正
+一种新的基于无损失函数的深度卷积神经网络的图像特征提取方法,深度学习; 卷积神经网络; Convolutional Neural Network; Deep Learning; 图像识别; Image Recognition; Image Feature Extraction; MFANet; Stochastic Block-wise Histogram; 图像特征提取; 块级随机直方图化
+基于改进的ActiveMQ的通信模型的设计和实现,ActiveMQ; Communication Model; JMS; Message Queue; Message Shard; 消息分区; 消息队列; 通信模型
+基于改进卷积神经网络的交通标志牌识别算法研究,卷积神经网络; 支持向量机; Support Vector Machine; Convolution Neural Network; Traffic sign classification; Traffic sign detection; 标志牌分类; 标志牌检测
+基于激光传感器室内机器人自主导航技术研究,obstacle avoidance; 避障; boundary feature corner; Indoor robots; laser radar; positioning method; 室内机器人; 激光传感器; 自定位; 边界特征角点
+面向容器云平台的集群资源调度管理器的设计与实现,Cloud Computing; 云计算; 资源调度; 容器; Container; Max-Flow Optimization; Min-Cost; Resource Scheduling Management; 最小费用最大流
+基于深度学习的聚类关键技术研究,深度学习; Deep Learning; 聚类; Clustering; Unsupervised Learning; 无监督学习; Deep Architecture; Feature Representation; 深度结构; 特征表示
+基于深度学习的气象温度预测研究,支持向量机; 深度神经网络; Deep neural network; Atmospheric temperature prediction; Shallow neural network; Support vector machine; 气象温度预测; 浅度神经网络
+基于HDFS的影像数据金字塔构建及存储技术研究,MapReduce; Hbase; pyramid; quad-tree coding; remote sensing image data; 四叉树编码; 遥感影像数据; 金字塔
+并网型光伏发电短期功率预测的研究与应用,BP neural network; BP神经网络; Bootstrap method; Bootstrap方法; interval prediction; photovoltaic power generation; short-term power prediction; 光伏发电; 区间预测; 短期功率预测
+基于HDFS的分布式存储系统的研究与实现,HDFS; 元数据管理; 分布式存储; consistency problem; distributed storage system; metadata management; replica synchronization; 一致性问题; 副本同步
+基于情感词典拓展和词向量的中文情感分析技术的研究,自然语言处理; 情感词典; 词向量; sentiment analysis; 情感分析; sentiment lexicon; natural language processing; the word embedding
+基于主题模型的关键词抽取算法研究,主题模型; LDA; topic model; keyphrases; semantic features; 语义特征
+基于加权多特征融合和SVM的图像分类研究,图像分类; 支持向量机; Support Vector Machine; lmage classification; Low-level feature extraction; Multiple classifiers; Weighted multi-features Fusion; 低层特征提取; 加权多特征融合; 多分类器
+基于Kinect的RGB-D数据对齐算法的研究,Kinect; Data Alignment; Depth image; Fast Marching Method; Joint Bilateral Filter; Markov Random Field; 快速行进法; 数据对齐; 深度图像; 联合双边滤波; 马尔科夫随机场模型
+融合外部知识的中文命名实体识别研究及其医疗领域应用,LSTM; 条件随机场; 命名实体识别; conditional random fields; external knowledge; medical text processing; named entity recognition; 医疗领域文本处理; 外部知识
+基于Hadoop的大数据存储关键技术研究,大数据; Hadoop; big data; storage architecture; storage technology; 存储技术; 存储架构
+基于卷积神经网络的在线商品评论情感倾向性研究,卷积神经网络; Convolutional Neural Networks; Word Embedding; 词嵌入; Emotion Tendency Identification; Ensemble; Review Spam Detection; 垃圾评论识别; 情感倾向性分析; 模型集成
+SCADA系统的Modbus/TCP协议安全研究,Modbus/TCP; deep detection; Industrial control systems; protocol isolation; 协议隔离; 工业控制系统; 深度检测
+工业控制环境计算节点安全防护技术研究,Industrial Control System; industrial software; programmable logic controller; trust of worthiness; 可信度量; 可编程逻辑控制器; 工业控制; 工控软件
+基于SDN技术的网络入侵阻断系统HYDRA的设计与实现,SDN; Intrusion Prevention; OpenFlow; Traffic data collection; 入侵防御; 流量采集
+基于Hadoop的钻井工程实时数据分析研究,数据分析; 大数据; Big Data; Data Analysis; Distributed Computing Framework; Distributed Storage System; Drilling Engineering; 分布式存储系统; 分布式计算框架; 钻井工程
+基于视频的室内老人摔倒检测研究,支持向量机; SVM; Kalman; multi-feature analysis; single Gaussian background modeling; the elderly fall; 单高斯背景建模; 卡尔曼滤波; 多特征分析; 老人摔倒
+交通监控视频中的车辆检测技术研究,深度学习; Deep learning; 车辆检测; Faster R-CNN; Vehicle Detection; ViBe algorithm; Vibe算法
+短文本分类研究,短文本相似度; category feature words; part of speech of the keyword; short text classification; short text similarity value; training set reconstructtion; 短文本分类; 类别特征词项; 训练集重构; 词性
+基于灰度的图像配准技术研究,PSO algorithm; 图像配准; image registration; Powell algorithm; Powell算法; PSO算法; the reference image; the sensed image; 参考图像; 待配准图像
+大数据营销理论及其在游戏运营中的应用,Big data marketing; Collaborative Filtering recommendation algorithm; Precision marketing; User portrait label analysis; 协同过滤推荐算法; 大数据营销; 用户画像标签; 精准营销
+基于Spark的分布式ETL研究与应用,大数据; performance optimization; Spark; 性能调优; big data; distributed ETL; spark; transformation processing; 分布式ETL; 转换处理
+大数据环境下动车组故障关联关系分析关键技术研究与实现,数据挖掘; 大数据; association rules; 关联规则; data mining; Hadoop; big data; Eclat algorithm; Eclat算法; EMU; 动车组
+KVM虚拟机热迁移算法分析及优化,adaptive slowdown; KVM; live migration; locality of program; 热迁移; 程序局部性原理; 降低热度
+人脸年龄估计算法的设计与实现,深度学习; 卷积神经网络; Deep learning; Convolutional neural network; Low-rank representation; 低秩表示; Age estimation; Block-diagonal; 块对角; 年龄估计
+基于卷积神经网络的QR码定位算法研究,卷积神经网络; Convolutional Neural Network; 图像处理; 模式识别; Image Processing; 计算机视觉; Computer Vision; Pattern Recognition; QR Code Localization; QR码定位
+基于AOP的应用性能管理框架的设计与实现,面向方面; AOP; APM; Framework; Monitoring; 应用监控; 性能管理; 编程框架
+基于千兆网的高性能嵌入式图像处理技术研究,嵌入式系统; Embedded Systems; Gigabit Ethernet; GigE Vision; Image transmission; TMS320C6678; 千兆网; 图像传输
+基于SNMP的网络管理系统设计与实现,condition monitoring; network management; SNMP; topology discovery; 拓扑发现; 状态监测; 网络管理
+面向话题型微博的热点事件情感分析研究,情感词典; 情感分析; Sentiment Analysis; 评价对象抽取; Opinion Target Extraction; Hot Topic Microblog; Semantic Lexicon; 热点事件话题微博
+基于支持向量机的海量文本分类并行化技术研究,parallel computing; 并行计算; 支持向量机; 文本分类; text classification; support vector machine; feature space; 特征空间
+基于Spark的文本分类的研究,特征选择; 文本分类; feature selection; Naive Bayes; 朴素贝叶斯; Spark; 并行化; Text Categorization; parallel
+基于云计算的交通流预测与状态识别关键技术研究,K-means; Hadoop; 交通流预测; FCM; K Nearest Neighbor Non-parametric Regression; K近邻非参数回归; Traffic Flow Forecasting; Traffic State Recognition; 交通状态识别
+基于彩色视网膜图像的眼底病相关目标检测方法研究,color retinal image; fovea detection; fundus lesions detection; optic disc localization and segmentation; vessel segmentation; 中央凹检测; 彩色视网膜图像; 眼底病变检测; 视盘定位与分割; 血管分割
+时间感知的推荐算法研究,推荐算法; recent popularity; recommender algorithm; relative time; time awareness; 时间感知; 相对时间; 近期流行度
+基于雷达图像道路地下病害识别技术研究,ground penetrating radar; kernel matching pursuit; marginal spectrum; road engineering; roadbed damage; 探地雷达; 核匹配追踪; 边际谱; 道路地下病害; 道路工程
+散乱点云特征提取方法与部位缺损文物碎片拼接技术研究,特征提取; feature extraction; adjacent constraints; fragments reassembly; shape matching; Virtual restoration of cultural relics; 形状匹配; 文物虚拟复原; 碎片拼接; 邻接约束
+虚拟现实中实时交互方法研究,Mobile Virtual Reality; Multi-person Tracking; Real-time Rendering; RGB-D Camera; RGB-D相机; Weak Visibility Computing; 多人跟踪; 实时绘制; 弱可见性计算; 移动虚拟现实
+面向不平衡数据的特征选择与半监督分类算法研究,半监督学习; Genetic algorithm; 遗传算法; Feature selection; 特征选择; 不平衡数据; Semi-supervised learning; Imbalanced data; Bagging method; Bagging算法; Biased-SVM; Evidence theory; 证据理论
+复杂网络的某些性质研究及其应用,Complex Networks; algebraic graph theory; length of vertex degree sequence; resistance distance; small-world networks characteristic; 代数图论; 复杂网络模型; 小世界特性; 度序列长度; 电阻距离
